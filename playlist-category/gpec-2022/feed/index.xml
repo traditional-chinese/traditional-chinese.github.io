@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>GPEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<atom:link href="/playlist-category/gpec-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>世界各地展覽中最先進的產品</description>
+	<lastBuildDate>Fri, 29 Jul 2022 06:26:24 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
+	<title>GPEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>GPEC 2022</title>
+		<link>/playlist/gpec_2022_0720/</link>
+					<comments>/playlist/gpec_2022_0720/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 29 Jul 2022 06:26:24 +0000</pubDate>
+				<category><![CDATA[日本]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[農業/林業/漁業和食品]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41544</guid>
+
+					<description><![CDATA[<p>“設施園藝/植物工廠展2022”是專門展示設施園藝/植物工廠的專業展覽。 許多農業生產商參觀會場，目的是與最終 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/gpec_2022_0720/">GPEC 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>“設施園藝/植物工廠展2022”是專門展示設施園藝/植物工廠的專業展覽。<br />
+許多農業生產商參觀會場，目的是與最終用戶開展直接的業務談判和交流。<br />
+同時舉辦（作曲展）是“Smart Agri Japan 2022”<br />
+會議將於2022年7月20日（星期三）至2022年7月22日（星期五）舉行，為期三天。會場是東京國際展覽中心南展覽館。</p>
+<p>點擊此處查看2022年設施園藝和植物工廠展覽會（GPEC 2022）的官方網站：<br />
+<a href="https://www.gpec.jp/" target="_blank" rel="noopener">https://www.gpec.jp/</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/gpec_2022_0720/">GPEC 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/gpec_2022_0720/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41544</post-id>
+	</item>
+	</channel>
+</rss>

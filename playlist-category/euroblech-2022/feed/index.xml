@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>EuroBLECH 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<atom:link href="/playlist-category/euroblech-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>世界各地展覽中最先進的產品</description>
+	<lastBuildDate>Fri, 25 Nov 2022 02:22:33 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
+	<title>EuroBLECH 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>EuroBLECH 2022 (德國)</title>
+		<link>/playlist/euroblech_2022_10/</link>
+					<comments>/playlist/euroblech_2022_10/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 25 Nov 2022 02:22:33 +0000</pubDate>
+				<category><![CDATA[德國]]></category>
+		<category><![CDATA[機械/工業技術]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42975</guid>
+
+					<description><![CDATA[<p>“EuroBLECH 2022”是鈑金、管材和組件的加工、分離、切割、成型和鈑金加工的展覽會。 致力於鈑金加工 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/euroblech_2022_10/">EuroBLECH 2022 (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>“EuroBLECH 2022”是鈑金、管材和組件的加工、分離、切割、成型和鈑金加工的展覽會。<br />
+致力於鈑金加工行業，是國際鈑金加工行業製造商和供應商的平台。</p>
+<p>展覽將於2022年10月25日至2022年10月28日為期四天。舉辦地點為德國漢諾威展覽中心。</p>
+<p>EuroBLECH 2022 &#8211; 在此處訪問 EuroBLECH 官方網站：<br />
+<a href="https://www.euroblech.com/en-gb.html" target="_blank" rel="noopener">https://www.euroblech.com/en-gb.html</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/euroblech_2022_10/">EuroBLECH 2022 (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/euroblech_2022_10/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">42975</post-id>
+	</item>
+	</channel>
+</rss>

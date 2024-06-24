@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ifia 日本 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<atom:link href="/playlist-category/ifia-%E6%97%A5%E6%9C%AC-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>世界各地展覽中最先進的產品</description>
+	<lastBuildDate>Wed, 01 Jun 2022 01:41:57 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
+	<title>ifia 日本 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>ifia 日本 2022</title>
+		<link>/playlist/ifia_2022/</link>
+					<comments>/playlist/ifia_2022/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 20 May 2022 10:16:11 +0000</pubDate>
+				<category><![CDATA[日本]]></category>
+		<category><![CDATA[服務]]></category>
+		<category><![CDATA[農業/林業/漁業和食品]]></category>
+		<category><![CDATA[醫療保健/健康]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=40604</guid>
+
+					<description><![CDATA[<p>“Ifia JAPAN 2022 [ifia Japan]第27屆國際食品材料/添加劑展覽會/會議”是食品材料 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/ifia_2022/">ifia 日本 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>“Ifia JAPAN 2022 [ifia Japan]第27屆國際食品材料/添加劑展覽會/會議”是食品材料和添加劑聚集在一起的展覽。<br />
+“HFE JAPAN 2022 第20屆健康食品博覽會”將同期舉辦。<br />
+會議將於2022年5月18日（星期三）至2022年5月18日（星期五）舉行，為期三天。會場是東京Big Sight。</p>
+<p>點擊此處查看 ifia JAPAN 2022 官方網站：<br />
+<a href="https://www.ifiajapan.com/" target="_blank" rel="noopener">https://www.ifiajapan.com/</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/ifia_2022/">ifia 日本 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/ifia_2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40604</post-id>
+	</item>
+	</channel>
+</rss>

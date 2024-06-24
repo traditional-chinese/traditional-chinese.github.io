@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>机械/工业技术 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<atom:link href="/playlist-category/%E6%9C%BA%E6%A2%B0-%E5%B7%A5%E4%B8%9A%E6%8A%80%E6%9C%AF/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>世界各地展覽中最先進的產品</description>
+	<lastBuildDate>Thu, 08 Sep 2022 02:59:45 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
+	<title>机械/工业技术 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>K-Display 2022（韩国展示展） (韩国)</title>
+		<link>/playlist/k-display_2022_08/</link>
+					<comments>/playlist/k-display_2022_08/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Sep 2022 03:52:06 +0000</pubDate>
+				<category><![CDATA[机械/工业技术]]></category>
+		<category><![CDATA[韩国]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41831</guid>
+
+					<description><![CDATA[<p>&#8220;K-Display 2022（韩国显示器展）&#8221;包括OLED、LCD、可穿戴、柔性、触 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/k-display_2022_08/">K-Display 2022（韩国展示展） (韩国)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>&#8220;K-Display 2022（韩国显示器展）&#8221;包括OLED、LCD、可穿戴、柔性、触控、汽车、微显示、显示相关设备和设备、制造设备、测试设备、测量设备、维修设备、测量设备, 和洁净室设备。 , 展示相关材料和零件的展览。</p>
+<p>展览将于2022年8月10日至2022年8月12日为期三天。会场是韩国COEX。</p>
+<p>K-Display 2022（韩国展示展）官方网站在这里：<br />
+<a href="https://imidex.org/fairDash.do?hl=ENG" target="_blank" rel="noopener">https://imidex.org/fairDash.do?hl=ENG</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/k-display_2022_08/">K-Display 2022（韩国展示展） (韩国)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/k-display_2022_08/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41831</post-id>
+	</item>
+	</channel>
+</rss>

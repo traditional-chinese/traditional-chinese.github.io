@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>第一屆 NEPCON JAPAN [九月] 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<atom:link href="/playlist-category/%E7%AC%AC%E4%B8%80%E5%B1%86-nepcon-japan-%E4%B9%9D%E6%9C%88-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>世界各地展覽中最先進的產品</description>
+	<lastBuildDate>Wed, 21 Sep 2022 05:08:41 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
+	<title>第一屆 NEPCON JAPAN [九月] 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>第一屆 NEPCON JAPAN [九月] 2022 (日本)</title>
+		<link>/playlist/nepcon_2022_08/</link>
+					<comments>/playlist/nepcon_2022_08/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 21 Sep 2022 05:08:41 +0000</pubDate>
+				<category><![CDATA[信息/電信]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[機械/工業技術]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41961</guid>
+
+					<description><![CDATA[<p>“1st Nepcon Japan [Autumn]”是一個展示支持電子設備多功能和高性能的世界上最先進的電子 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/nepcon_2022_08/">第一屆 NEPCON JAPAN [九月] 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>“1st Nepcon Japan [Autumn]”是一個展示支持電子設備多功能和高性能的世界上最先進的電子元件、材料、製造、安裝和檢查設備的展覽。<br />
+其目的是擴大對電子設備、半導體、汽車和汽車零部件製造商的銷售渠道。<br />
+同期舉辦“1st Automotive World [秋季]”、“1st Robodex [秋季]”、“1st Smart Factory EXPO [秋季]”、“FC EXPO [秋季] 2022”、“2nd [International] 2nd Next Battery Expo [秋季] ”和“第二屆脫碳管理博覽會[秋季]”。<br />
+展覽將從2022年8月31日星期三至2022年9月2日星期五舉行，為期三天。會場是幕張展覽館。</p>
+<p>1st Nepcon Japan [秋季]官方網站點擊這裡：<br />
+<a href="https://www.nepconjapan.jp/autumn/ja-jp.html" target="_blank" rel="noopener">https://www.nepconjapan.jp/autumn/ja-jp.html</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/nepcon_2022_08/">第一屆 NEPCON JAPAN [九月] 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/nepcon_2022_08/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">41961</post-id>
+	</item>
+	</channel>
+</rss>

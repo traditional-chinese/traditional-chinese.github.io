@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>ORGATEC 東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<atom:link href="/playlist-category/orgatec-%E6%9D%B1%E4%BA%AC-2022/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>世界各地展覽中最先進的產品</description>
+	<lastBuildDate>Wed, 11 May 2022 07:06:13 +0000</lastBuildDate>
+	<language>zh-TW</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+
+<image>
+	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
+	<title>ORGATEC 東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>ORGATEC 東京 2022</title>
+		<link>/playlist/orgatec-tokyo_2022/</link>
+					<comments>/playlist/orgatec-tokyo_2022/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Tue, 26 Apr 2022 09:00:00 +0000</pubDate>
+				<category><![CDATA[愛好/教育]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[服務]]></category>
+		<category><![CDATA[生活]]></category>
+		<guid isPermaLink="false">/playlist/orgatec-tokyo_2022/</guid>
+
+					<description><![CDATA[<p>“Olga Tech Tokyo 2022”是來自德國的辦公家具展。 主題是“混合工作的興起” 會議時間為20 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/orgatec-tokyo_2022/">ORGATEC 東京 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>“Olga Tech Tokyo 2022”是來自德國的辦公家具展。<br />
+主題是“混合工作的興起”<br />
+會議時間為2022年4月27日（星期三）至4月29日（星期五），為期3天。會場是東京Big Sight。</p>
+<p>點擊此處查看Olga Tech Tokyo 2022官方網站：<br />
+<a href="https://www.orgatec-tokyo.jp/" target="_blank" rel="noopener">https://www.orgatec-tokyo.jp/</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/orgatec-tokyo_2022/">ORGATEC 東京 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/orgatec-tokyo_2022/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">40443</post-id>
+	</item>
+	</channel>
+</rss>
