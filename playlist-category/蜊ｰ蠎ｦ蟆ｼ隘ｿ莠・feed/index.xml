@@ -15,13 +15,13 @@
 	<atom:link href="/playlist-category/%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9E/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>世界各地展覽中最先進的產品</description>
-	<lastBuildDate>Fri, 24 May 2024 06:22:29 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 28 Jun 2024 06:39:50 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
@@ -31,6 +31,35 @@
 	<height>32</height>
 </image> 
 <site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+		<title>2024 年印度建築科技博覽會 (印度尼西亞)</title>
+		<link>/playlist/indobuildtech_2024_06/</link>
+					<comments>/playlist/indobuildtech_2024_06/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 28 Jun 2024 06:39:50 +0000</pubDate>
+				<category><![CDATA[其他]]></category>
+		<category><![CDATA[印度尼西亞]]></category>
+		<category><![CDATA[基礎產業]]></category>
+		<category><![CDATA[建築/施工]]></category>
+		<category><![CDATA[機械/工業技術]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51667</guid>
+
+					<description><![CDATA[<p>「IndoBuildTech Expo 2024」是針對經銷商、零售商、企業對企業以及進出口貿易商的展覽。 展 [&#8230;]</p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/indobuildtech_2024_06/">2024 年印度建築科技博覽會 (印度尼西亞)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「IndoBuildTech Expo 2024」是針對經銷商、零售商、企業對企業以及進出口貿易商的展覽。</p>
+<p>展覽期間為2024年6月12日至2024年6月16日。舉辦地點為印尼ICE BSD City。</p>
+<p>IndoBuildTech Expo 2024 的官方首頁在這裡：<br /><a href="https://indobuildtech.com/" target="_blank" rel="noopener">https://indobuildtech.com/</a></p>
+<p>這篇文章 <a rel="nofollow" href="/playlist/indobuildtech_2024_06/">2024 年印度建築科技博覽會 (印度尼西亞)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/indobuildtech_2024_06/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51667</post-id>
+	</item>
+		<item>
 		<title>2024 年印尼食品飲料展 (印度尼西亞)</title>
 		<link>/playlist/foodbeverageindonesia_2024_05/</link>
 					<comments>/playlist/foodbeverageindonesia_2024_05/#respond</comments>
