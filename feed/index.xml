@@ -10,7 +10,7 @@
 <channel>
 	<title>在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>https://traditional-chinese.worldtradeshow.tv/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 03 Jul 2024 06:32:07 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -23,7 +23,7 @@
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
 	<title>在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
-	<link>/</link>
+	<link>https://traditional-chinese.worldtradeshow.tv/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
