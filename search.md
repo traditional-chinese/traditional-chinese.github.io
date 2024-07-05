@@ -1,0 +1,1 @@
+redirect_to: https://search-traditional-chinese.worldtradeshow.tv/search/
