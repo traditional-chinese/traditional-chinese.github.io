@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/propak-%E4%BA%9E%E6%B4%B2-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/propak-亞洲-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 15 Jul 2022 09:03:49 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/propak-亞洲-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>ProPak 亞洲 2022</title>
 		<link>/playlist/propak-asia-2022_propakasia_2022/</link>
 					<comments>/playlist/propak-asia-2022_propakasia_2022/#respond</comments>
@@ -39,24 +36,23 @@
 		<pubDate>Fri, 15 Jul 2022 09:03:49 +0000</pubDate>
 				<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41235</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41235</guid>
 
 					<description><![CDATA[<p>“ProPak Asia 2022——國際加工與包裝展覽會”是包裝與加工相關技術與服務的展會。 參展項目 食品 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/propak-asia-2022_propakasia_2022/">ProPak 亞洲 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/propak-asia-2022_propakasia_2022/">ProPak 亞洲 2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“ProPak Asia 2022——國際加工與包裝展覽會”是包裝與加工相關技術與服務的展會。<br />
 參展項目 食品安全與健康技術、包裝機械/包裝技術、釀造和飲料技術、自動化機器人、編碼、標記、標籤、印刷材料/技術、糖果機械、食品加工機械、糖果機械、化妝品和個人護理加工它針對包裝材料、物流/生產設備、廢物管理/環境技術等。</p>
 <p>會議時間為 2022 年 7 月 15 日至 2022 年 7 月 18 日。地點是泰國曼谷的Vitec展覽中心。</p>
 <p>點擊此處查看 ProPak Asia 2022 官方網站：<br />
 <a href="https://www.propakasia.com/ppka/2022/en/index.asp" target="_blank" rel="noopener">https://www.propakasia.com/ppka/2022/en/index.asp</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/propak-asia-2022_propakasia_2022/">ProPak 亞洲 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/propak-asia-2022_propakasia_2022/">ProPak 亞洲 2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/propak-asia-2022_propakasia_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41235</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41235</post-id>	</item>
 	</channel>
 </rss>

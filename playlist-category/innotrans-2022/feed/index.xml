@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>InnoTrans 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>InnoTrans 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/innotrans-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/innotrans-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 04 Oct 2022 01:50:23 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>InnoTrans 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>InnoTrans 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/innotrans-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>InnoTrans 2022 (德國)</title>
 		<link>/playlist/innotrans_2022_09/</link>
 					<comments>/playlist/innotrans_2022_09/#respond</comments>
@@ -41,23 +38,22 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42173</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42173</guid>
 
 					<description><![CDATA[<p>“InnoTrans 2022 &#8211; 國際鐵路技術交易會”是鐵路技術、鐵路基礎設施、公共交通、內飾和 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/innotrans_2022_09/">InnoTrans 2022 (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/innotrans_2022_09/">InnoTrans 2022 (德國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“InnoTrans 2022 &#8211; 國際鐵路技術交易會”是鐵路技術、鐵路基礎設施、公共交通、內飾和隧道建設的展覽。</p>
 <p>展覽將於2022年9月20日至2022年9月23日為期四天。地點是德國柏林的柏林展覽中心。</p>
 <p>訪問InnoTrans 2022——國際鐵路技術交易會官網：<br />
 <a href="https://www.innotrans.de/" target="_blank" rel="noopener">https://www.innotrans.de/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/innotrans_2022_09/">InnoTrans 2022 (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/innotrans_2022_09/">InnoTrans 2022 (德國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/innotrans_2022_09/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42173</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42173</post-id>	</item>
 	</channel>
 </rss>

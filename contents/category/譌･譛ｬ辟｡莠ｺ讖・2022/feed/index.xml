@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>日本無人機 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>日本無人機 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/%E6%97%A5%E6%9C%AC%E7%84%A1%E4%BA%BA%E6%A9%9F-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/日本無人機-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 04 Jul 2022 07:50:54 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>日本無人機 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>日本無人機 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/日本無人機-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社</title>
 		<link>/contents/41121/</link>
 					<comments>/contents/41121/#respond</comments>
@@ -44,10 +41,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41121</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41121</guid>
 
 					<description><![CDATA[<p>日本化藥株式會社 在 日本無人機 2022 處展示了 PARASAFE“PS CA06-01”。 網站：htt [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41121/">[日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41121/">[日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>日本化藥株式會社 在 日本無人機 2022 處展示了 PARASAFE“PS CA06-01”。</p>
 <p>網站：<a href="https://www.nipponkayaku.co.jp/" target="_blank" rel="noopener">https://www.nipponkayaku.co.jp/</a></p>
@@ -79,30 +76,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-10.jpg"></div>
 <div class="caption_text">從現在開始，隨著空中機動性的提升，我們是一家在許多無人機飛越天空時保護安全的公司。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41121/">[日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41121/">[日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41121/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41121</post-id>
-		<media:content url="https://www.youtube.com/embed/dPxUrA6TbcU" duration="83">
-			<media:player url="https://www.youtube.com/embed/dPxUrA6TbcU" />
-			<media:title type="html">[日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] PARASAFE“PS CA06-01” - 日本化藥株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/dpxura6tbcu.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_01-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41121</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司</title>
 		<link>/contents/41123/</link>
@@ -117,10 +98,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41123</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41123</guid>
 
 					<description><![CDATA[<p>索尼集團公司 在 日本無人機 2022 處展示了 專業無人機 Air peak S1。 網站：https:// [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41123/">[日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41123/">[日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>索尼集團公司 在 日本無人機 2022 處展示了 專業無人機 Air peak S1。</p>
 <p>網站：<a href="https://www.sony.jp/airpeak/brand/" target="_blank" rel="noopener">https://www.sony.jp/airpeak/brand/</a></p>
@@ -172,35 +153,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-14.jpg"></div>
 <div class="caption_text">未來，我們將在 Japan DRONE 展位上展示它，因為我們將考慮在工業領域包括除此之外的飛機。 ..</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41123/">[日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41123/">[日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41123/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41123</post-id>
-		<media:content url="https://www.youtube.com/embed/9Ua8ixWSz4M" duration="112">
-			<media:player url="https://www.youtube.com/embed/9Ua8ixWSz4M" />
-			<media:title type="html">[日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 專業無人機 Air peak S1 - 索尼集團公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/9ua8ixwsz4m.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_02-14.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41123</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社</title>
 		<link>/contents/41125/</link>
@@ -215,10 +175,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41125</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41125</guid>
 
 					<description><![CDATA[<p>SEKIDO株式會社 在 日本無人機 2022 處展示了 測量/基礎設施檢測模塊 MATRICE 300 RT [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41125/">[日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41125/">[日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>SEKIDO株式會社 在 日本無人機 2022 處展示了 測量/基礎設施檢測模塊 MATRICE 300 RTK。</p>
 <p>網站：<a href="https://sekidocorp.com/" target="_blank" rel="noopener">https://sekidocorp.com/</a></p>
@@ -262,33 +222,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-11.jpg"></div>
 <div class="caption_text">.此外，如果您在上方安裝 CSM 雷達，它可以檢測到相機上難以看到的細線，保持距離並停止。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41125/">[日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41125/">[日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41125/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41125</post-id>
-		<media:content url="https://www.youtube.com/embed/T2IHVHrd1mo" duration="92">
-			<media:player url="https://www.youtube.com/embed/T2IHVHrd1mo" />
-			<media:title type="html">[日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 測量/基礎設施檢測模塊 MATRICE 300 RTK - SEKIDO株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/t2ihvhrd1mo.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_03-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41125</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司</title>
 		<link>/contents/41127/</link>
@@ -303,10 +244,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41127</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41127</guid>
 
 					<description><![CDATA[<p>第一階段日本有限公司 在 日本無人機 2022 處展示了 基礎設施檢查/檢查攝像系統 Phase One P3 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41127/">[日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41127/">[日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>第一階段日本有限公司 在 日本無人機 2022 處展示了 基礎設施檢查/檢查攝像系統 Phase One P3 Payload。</p>
 <p>網站：<a href="https://www.phaseone.com/" target="_blank" rel="noopener">https://www.phaseone.com/</a></p>
@@ -354,34 +295,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-12.jpg"></div>
 <div class="caption_text">它並用無人機代替它，這台相機是一種新的解決方案。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41127/">[日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41127/">[日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41127/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41127</post-id>
-		<media:content url="https://www.youtube.com/embed/DJEWptfQbJk" duration="93">
-			<media:player url="https://www.youtube.com/embed/DJEWptfQbJk" />
-			<media:title type="html">[日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 基礎設施檢查/檢查攝像系統 Phase One P3 Payload - 第一階段日本有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/djewptfqbjk.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_04-12.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41127</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社</title>
 		<link>/contents/41129/</link>
@@ -396,10 +317,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41129</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41129</guid>
 
 					<description><![CDATA[<p>日本無人機組織株式會社 在 日本無人機 2022 處展示了 巡檢安檢固定翼無人機 DRAGON FISH 系列 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41129/">[日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41129/">[日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>日本無人機組織株式會社 在 日本無人機 2022 處展示了 巡檢安檢固定翼無人機 DRAGON FISH 系列。</p>
 <p>網站：<a href="https://jpndo.com/" target="_blank" rel="noopener">https://jpndo.com/</a></p>
@@ -431,30 +352,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-8.jpg"></div>
 <div class="caption_text">關於檢查，它有20倍光學變焦，所以我認為它適合遠距離檢查。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41129/">[日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41129/">[日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41129/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41129</post-id>
-		<media:content url="https://www.youtube.com/embed/BORPAt58y5Q" duration="70">
-			<media:player url="https://www.youtube.com/embed/BORPAt58y5Q" />
-			<media:title type="html">[日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 巡檢安檢固定翼無人機 DRAGON FISH 系列 - 日本無人機組織株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/borpat58y5q.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_05-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41129</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd.</title>
 		<link>/contents/41131/</link>
@@ -469,10 +374,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41131</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41131</guid>
 
 					<description><![CDATA[<p>Aero G Lab Co., Ltd. 在 日本無人機 2022 處展示了 遠程飛行混合動力無人機 Aero [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41131/">[日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41131/">[日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Aero G Lab Co., Ltd. 在 日本無人機 2022 處展示了 遠程飛行混合動力無人機 Aero Range Quad。</p>
 <p>網站：<a href="https://aerog-lab.com/" target="_blank" rel="noopener">https://aerog-lab.com/</a></p>
@@ -536,38 +441,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-17.jpg"></div>
 <div class="caption_text">我們處於進行大規模測試的情況。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41131/">[日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41131/">[日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41131/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41131</post-id>
-		<media:content url="https://www.youtube.com/embed/PIv6rT_KkDo" duration="122">
-			<media:player url="https://www.youtube.com/embed/PIv6rT_KkDo" />
-			<media:title type="html">[日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 遠程飛行混合動力無人機 Aero Range Quad - Aero G Lab Co., Ltd. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/piv6rt_kkdo.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_06-17.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41131</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社</title>
 		<link>/contents/41133/</link>
@@ -582,10 +463,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41133</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41133</guid>
 
 					<description><![CDATA[<p>航拍技研株式會社 在 日本無人機 2022 處展示了 陶人棒TB-005PRO。 網站：https://www/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41133/">[日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41133/">[日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>航拍技研株式會社 在 日本無人機 2022 處展示了 陶人棒TB-005PRO。</p>
 <p>網站：<a href="https://www.multicopter.co.jp/" target="_blank" rel="noopener">https://www.multicopter.co.jp/</a></p>
@@ -621,31 +502,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-8.jpg"></div>
 <div class="caption_text">您可以檢查基礎設施、隧道上方的燈光和火警警報。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41133/">[日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41133/">[日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41133/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41133</post-id>
-		<media:content url="https://www.youtube.com/embed/HKpeKhPFcNg" duration="64">
-			<media:player url="https://www.youtube.com/embed/HKpeKhPFcNg" />
-			<media:title type="html">[日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 陶人棒TB-005PRO - 航拍技研株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/hkpekhpfcng.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_07-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41133</post-id>	</item>
 		<item>
 		<title>[日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司</title>
 		<link>/contents/41135/</link>
@@ -660,10 +524,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41135</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41135</guid>
 
 					<description><![CDATA[<p>長藍科技有限公司 在 日本無人機 2022 處展示了 船舶自動操縱裝置 eb-NAVIGATOR 2.0。 網 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41135/">[日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41135/">[日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>長藍科技有限公司 在 日本無人機 2022 處展示了 船舶自動操縱裝置 eb-NAVIGATOR 2.0。</p>
 <p>網站：<a href="https://www.everblue.tech/" target="_blank" rel="noopener">https://www.everblue.tech/</a></p>
@@ -699,30 +563,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-12.jpg"></div>
 <div class="caption_text">希望通過開發水上無人機來實現可持續發展的社會。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41135/">[日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41135/">[日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41135/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41135</post-id>
-		<media:content url="https://www.youtube.com/embed/ApHekq-FnFA" duration="88">
-			<media:player url="https://www.youtube.com/embed/ApHekq-FnFA" />
-			<media:title type="html">[日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [日本無人機 2022] 船舶自動操縱裝置 eb-NAVIGATOR 2.0 - 長藍科技有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/aphekq-fnfa.jpg" />
-			<media:keywords>信息/電信,日本,機械/工業技術,生活,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/japan-drone_2022/japan-drone_2022_08-12.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41135</post-id>	</item>
 	</channel>
 </rss>

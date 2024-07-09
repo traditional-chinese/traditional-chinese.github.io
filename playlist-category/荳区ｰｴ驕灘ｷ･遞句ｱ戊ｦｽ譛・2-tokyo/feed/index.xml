@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>下水道工程展覽會`22 TOKYO 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>下水道工程展覽會`22 TOKYO 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E4%B8%8B%E6%B0%B4%E9%81%93%E5%B7%A5%E7%A8%8B%E5%B1%95%E8%A6%BD%E6%9C%8322-tokyo/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/下水道工程展覽會22-tokyo/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 09 Aug 2022 02:00:00 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>下水道工程展覽會`22 TOKYO 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>下水道工程展覽會`22 TOKYO 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/下水道工程展覽會22-tokyo/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>下水道工程展覽會`22 TOKYO</title>
 		<link>/playlist/gesuidouten_2022_08/</link>
 					<comments>/playlist/gesuidouten_2022_08/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[環境]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41669</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41669</guid>
 
 					<description><![CDATA[<p>“下水道展覽會&#8217;22東京”是展示和介紹與下水道相關的廣泛領域的最新技術和設備的展覽。 目的是讓公眾 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/gesuidouten_2022_08/">下水道工程展覽會`22 TOKYO</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/gesuidouten_2022_08/">下水道工程展覽會`22 TOKYO</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“下水道展覽會&#8217;22東京”是展示和介紹與下水道相關的廣泛領域的最新技術和設備的展覽。<br />
 目的是讓公眾了解污水處理系統並對其感興趣。<br />
@@ -52,14 +49,13 @@
 展覽將於2022年8月2日（星期二）至2021年8月5日（星期五）舉辦四天。地點：Tokyo Big Sight East 展覽館，會議塔。</p>
 <p>下水道展覽ʼ22 Tokyo的官方網站在這裡：<br />
 <a href="https://www.gesuidouten.jp/" target="_blank" rel="noopener">https://www.gesuidouten.jp/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/gesuidouten_2022_08/">下水道工程展覽會`22 TOKYO</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/gesuidouten_2022_08/">下水道工程展覽會`22 TOKYO</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/gesuidouten_2022_08/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41669</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41669</post-id>	</item>
 	</channel>
 </rss>

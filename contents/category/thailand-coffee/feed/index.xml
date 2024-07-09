@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Thailand Coffee 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>Thailand Coffee 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/thailand-coffee/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/thailand-coffee/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 11 Apr 2022 08:54:55 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>Thailand Coffee 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>Thailand Coffee 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/thailand-coffee/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#038; Vanivito</title>
 		<link>/contents/1163/</link>
 					<comments>/contents/1163/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/luumtan-coffee-vanivito_khunlao-coffee-beans/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/luumtan-coffee-vanivito_khunlao-coffee-beans/</guid>
 
 					<description><![CDATA[<p>Luumtan Coffee &#038; Vanivito 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 202 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1163/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#038; Vanivito</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1163/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#038; Vanivito</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Luumtan Coffee &#038; Vanivito 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 坤老咖啡豆。</p>
 </p>
@@ -90,33 +87,14 @@
 <div class="caption_text">喜歡吃棗子或者那個紅糖，<br />甘蔗糖<br />那是喉嚨深處的甜蜜。我支持這個</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Khunlao Coffee Beans" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1163/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#038; Vanivito</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1163/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#038; Vanivito</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1163/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1163</post-id>
-		<media:content url="https://www.youtube.com/embed/Duy4UaV37Ys" duration="75">
-			<media:player url="https://www.youtube.com/embed/Duy4UaV37Ys" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#38; Vanivito &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 坤老咖啡豆 - Luumtan Coffee &#38; Vanivito &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/duy4uav37ys.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_16-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1163</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空</title>
 		<link>/contents/1133/</link>
@@ -129,10 +107,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/te-time-and-space_midsummer-dream-tea/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/te-time-and-space_midsummer-dream-tea/</guid>
 
 					<description><![CDATA[<p>TE時空 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 仲夏夢茶。 我們是TE時空。我們開始製 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1133/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1133/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>TE時空 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 仲夏夢茶。</p>
 </p>
@@ -173,32 +151,14 @@
 <div class="caption_text">熱著吃很好吃，涼了，提神。<br />適合夏天。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Midsummer Dream Tea" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1133/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1133/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1133/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1133</post-id>
-		<media:content url="https://www.youtube.com/embed/kgfEHzehveE" duration="64">
-			<media:player url="https://www.youtube.com/embed/kgfEHzehveE" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 仲夏夢茶 - TE時空 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/kgfehzehvee.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_01-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1133</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板</title>
 		<link>/contents/1135/</link>
@@ -211,10 +171,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/ccl_thai-tea-premium-syrup/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/ccl_thai-tea-premium-syrup/</guid>
 
 					<description><![CDATA[<p>覆銅板 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 泰國茶高級糖漿。 我們是覆銅板公司。我們 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1135/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1135/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>覆銅板 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 泰國茶高級糖漿。</p>
 </p>
@@ -255,32 +215,14 @@
 <div class="caption_text">茶葉的澀味也存在。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Thai Tea Premium Syrup" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1135/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1135/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1135/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1135</post-id>
-		<media:content url="https://www.youtube.com/embed/I5i1WyRag-A" duration="72">
-			<media:player url="https://www.youtube.com/embed/I5i1WyRag-A" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 泰國茶高級糖漿 - 覆銅板 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/i5i1wyrag-a.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_02-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1135</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪</title>
 		<link>/contents/1137/</link>
@@ -293,10 +235,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/godi_instant-premium-coffee/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/godi_instant-premium-coffee/</guid>
 
 					<description><![CDATA[<p>高迪 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 速溶優質咖啡。 我們是戈迪。是速溶咖啡。它 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1137/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1137/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>高迪 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 速溶優質咖啡。</p>
 </p>
@@ -337,32 +279,14 @@
 <div class="caption_text">購物中心和一些美食市場分店，<br />它也在Foodland出售。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Instant Premium Coffee" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1137/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1137/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1137/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1137</post-id>
-		<media:content url="https://www.youtube.com/embed/mSzTQx88LBs" duration="67">
-			<media:player url="https://www.youtube.com/embed/mSzTQx88LBs" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 速溶優質咖啡 - 高迪 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/msztqx88lbs.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_03-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1137</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案</title>
 		<link>/contents/1139/</link>
@@ -375,10 +299,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/i-cream-solution_display-cabinet/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/i-cream-solution_display-cabinet/</guid>
 
 					<description><![CDATA[<p>i-Cream 解決方案 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 展示櫃。 我們是 i- [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1139/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1139/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>i-Cream 解決方案 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 展示櫃。</p>
 </p>
@@ -431,35 +355,14 @@
 <div class="caption_text">繼續照顧它。<br />如果客戶想詢問任何信息，<br />我們每天都提供服務。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Display Cabinet" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1139/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1139/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1139/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1139</post-id>
-		<media:content url="https://www.youtube.com/embed/3IKFTksX1Nk" duration="90">
-			<media:player url="https://www.youtube.com/embed/3IKFTksX1Nk" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 展示櫃 - i-Cream 解決方案 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/3ikftksx1nk.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-64.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-71.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_04-78.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1139</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡</title>
 		<link>/contents/1141/</link>
@@ -472,10 +375,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/the-first-espresso_thai-specialty-coffee/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/the-first-espresso_thai-specialty-coffee/</guid>
 
 					<description><![CDATA[<p>第一杯濃縮咖啡 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 泰國特色咖啡。 你好，我的名字是 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1141/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1141/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>第一杯濃縮咖啡 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 泰國特色咖啡。</p>
 </p>
@@ -536,37 +439,14 @@
 <div class="caption_text">我推薦它。這是來自 The First Espresso Wet Process 的清萊 Pang Khon 咖啡。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Thai Specialty Coffee" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1141/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1141/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1141/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1141</post-id>
-		<media:content url="https://www.youtube.com/embed/ToHhb9FceQ0" duration="106">
-			<media:player url="https://www.youtube.com/embed/ToHhb9FceQ0" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 泰國特色咖啡 - 第一杯濃縮咖啡 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/tohhb9fceq0.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-001.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-001.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-008.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-015.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-022.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-029.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-036.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-043.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-050.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-057.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-064.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-071.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-078.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-085.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_05-092.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1141</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特</title>
 		<link>/contents/1143/</link>
@@ -579,10 +459,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/moccamaster_handmade-coffee-maker/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/moccamaster_handmade-coffee-maker/</guid>
 
 					<description><![CDATA[<p>摩卡馬斯特 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 手工咖啡機。 這個是荷蘭手工製作的。 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1143/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1143/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>摩卡馬斯特 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 手工咖啡機。</p>
 </p>
@@ -635,35 +515,14 @@
 <div class="caption_text">它將增加 2,000 泰銖至 20,900 泰銖。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Handmade Coffee Maker" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1143/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1143/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1143/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1143</post-id>
-		<media:content url="https://www.youtube.com/embed/5uLTOSs0KKg" duration="85">
-			<media:player url="https://www.youtube.com/embed/5uLTOSs0KKg" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 手工咖啡機 - 摩卡馬斯特 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/5ultoss0kkg.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-64.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-71.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_06-78.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1143</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品</title>
 		<link>/contents/1145/</link>
@@ -676,10 +535,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/one-thai-foods_fibio-fiber-creamer/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/one-thai-foods_fibio-fiber-creamer/</guid>
 
 					<description><![CDATA[<p>一種泰國食品 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 Fibio 纖維奶精。 我們是一家 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1145/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1145/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>一種泰國食品 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 Fibio 纖維奶精。</p>
 </p>
@@ -712,30 +571,14 @@
 <div class="caption_text">它有助於改善健康並幫助消化系統。<br />我們所有的產品都不含反式脂肪。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Fibio Fiber Creamer" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1145/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1145/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1145/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1145</post-id>
-		<media:content url="https://www.youtube.com/embed/N1xybVPsrjA" duration="56">
-			<media:player url="https://www.youtube.com/embed/N1xybVPsrjA" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] Fibio 纖維奶精 - 一種泰國食品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/n1xybvpsrja.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_07-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1145</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 烘焙原料 - 施密特</title>
 		<link>/contents/1147/</link>
@@ -748,10 +591,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/schmidt_bakery-ingredients/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/schmidt_bakery-ingredients/</guid>
 
 					<description><![CDATA[<p>施密特 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 烘焙原料。 這是SCHHMIDT的展位， [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1147/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 烘焙原料 - 施密特</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1147/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 烘焙原料 - 施密特</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>施密特 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 烘焙原料。</p>
 </p>
@@ -792,32 +635,14 @@
 <div class="caption_text">這是我們帶來的亮點。<br />今天介紹，果然。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Bakery Ingredients" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1147/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 烘焙原料 - 施密特</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1147/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 烘焙原料 - 施密特</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1147/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1147</post-id>
-		<media:content url="https://www.youtube.com/embed/P31HGcpJGJc" duration="66">
-			<media:player url="https://www.youtube.com/embed/P31HGcpJGJc" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 烘焙原料 - 施密特 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 烘焙原料 - 施密特 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/p31hgcpjgjc.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_08-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1147</post-id>	</item>
 		<item>
 		<title>[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力</title>
 		<link>/contents/1149/</link>
@@ -830,10 +655,10 @@
 		<category><![CDATA[Thailand Coffee]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/siamaya-chocolate_handcrafted-chocolate/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/siamaya-chocolate_handcrafted-chocolate/</guid>
 
 					<description><![CDATA[<p>暹羅巧克力 在 泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022 處展示了 手工巧克力。 我是siamaya巧克 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/1149/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1149/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>暹羅巧克力 在 泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022 處展示了 手工巧克力。</p>
 </p>
@@ -890,35 +715,13 @@
 <div class="caption_text">一些中央食品大廳和圖標暹羅。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=Handcrafted Chocolate" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/1149/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/1149/">[泰國咖啡、茶和飲料 |麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/1149/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">1149</post-id>
-		<media:content url="https://www.youtube.com/embed/pceEXqUNvgo" duration="98">
-			<media:player url="https://www.youtube.com/embed/pceEXqUNvgo" />
-			<media:title type="html">[泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [泰國咖啡、茶和飲料 &#124;麵包店和冰淇淋 2022] 手工巧克力 - 暹羅巧克力 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/pceexqunvgo.jpg" />
-			<media:keywords>泰國,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-64.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-71.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-78.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/thailandcoffee_2022/thailandcoffee_2022_09-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">1149</post-id>	</item>
 	</channel>
 </rss>

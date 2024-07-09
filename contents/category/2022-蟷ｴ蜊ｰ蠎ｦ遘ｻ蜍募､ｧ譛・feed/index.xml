@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/2022-%E5%B9%B4%E5%8D%B0%E5%BA%A6%E7%A7%BB%E5%8B%95%E5%A4%A7%E6%9C%83/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/2022-年印度移動大會/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 11 Nov 2022 08:21:53 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/2022-年印度移動大會/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[2022 年印度移動大會] 智能電錶 - IIT德里</title>
 		<link>/contents/42848/</link>
 					<comments>/contents/42848/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42848</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42848</guid>
 
 					<description><![CDATA[<p>IIT德里 在 2022 年印度移動大會 處展示了 智能電錶。 這是我們在 IIT 德里實驗室製作的智能電錶。 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42848/">[2022 年印度移動大會] 智能電錶 - IIT德里</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42848/">[2022 年印度移動大會] 智能電錶 - IIT德里</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>IIT德里 在 2022 年印度移動大會 處展示了 智能電錶。</p>
 </p>
@@ -84,32 +81,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-9.jpg"></div>
 <div class="caption_text">謝謝你！ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42848/">[2022 年印度移動大會] 智能電錶 - IIT德里</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42848/">[2022 年印度移動大會] 智能電錶 - IIT德里</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42848/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42848</post-id>
-		<media:content url="https://www.youtube.com/embed/V9mKt08_QvY" duration="66">
-			<media:player url="https://www.youtube.com/embed/V9mKt08_QvY" />
-			<media:title type="html">[2022 年印度移動大會] 智能電錶 - IIT德里 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 智能電錶 - IIT德里 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/v9mkt08_qvy.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_01-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42848</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 電信解決方案 - ITI 有限公司</title>
 		<link>/contents/42850/</link>
@@ -121,10 +100,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42850</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42850</guid>
 
 					<description><![CDATA[<p>ITI 有限公司 在 2022 年印度移動大會 處展示了 電信解決方案。 我的名字是 Ramesh，我是技術支 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42850/">[2022 年印度移動大會] 電信解決方案 - ITI 有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42850/">[2022 年印度移動大會] 電信解決方案 - ITI 有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>ITI 有限公司 在 2022 年印度移動大會 處展示了 電信解決方案。</p>
 </p>
@@ -240,51 +219,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-32.jpg"></div>
 <div class="caption_text">謝謝你！ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42850/">[2022 年印度移動大會] 電信解決方案 - ITI 有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42850/">[2022 年印度移動大會] 電信解決方案 - ITI 有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42850/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42850</post-id>
-		<media:content url="https://www.youtube.com/embed/jknVTGbnZfE" duration="226">
-			<media:player url="https://www.youtube.com/embed/jknVTGbnZfE" />
-			<media:title type="html">[2022 年印度移動大會] 電信解決方案 - ITI 有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 電信解決方案 - ITI 有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/jknvtgbnzfe.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-25.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-26.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-27.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-28.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-30.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-31.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_02-32.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42850</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS</title>
 		<link>/contents/42852/</link>
@@ -296,10 +238,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42852</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42852</guid>
 
 					<description><![CDATA[<p>TCS 在 2022 年印度移動大會 處展示了 使用 VR 的遠程機器人操作系統。 你好，所以，我們在這裡展示 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42852/">[2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42852/">[2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>TCS 在 2022 年印度移動大會 處展示了 使用 VR 的遠程機器人操作系統。</p>
 </p>
@@ -343,33 +285,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-11.jpg"></div>
 <div class="caption_text">這是一個雲部署場景，它為機器人提供連接性、全局連接性。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42852/">[2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42852/">[2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42852/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42852</post-id>
-		<media:content url="https://www.youtube.com/embed/fB5Ywqj2znQ" duration="79">
-			<media:player url="https://www.youtube.com/embed/fB5Ywqj2znQ" />
-			<media:title type="html">[2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 使用 VR 的遠程機器人操作系統 - TCS &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/fb5ywqj2znq.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_03-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42852</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation</title>
 		<link>/contents/42854/</link>
@@ -381,10 +304,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42854</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42854</guid>
 
 					<description><![CDATA[<p>Zoho Corporation 在 2022 年印度移動大會 處展示了 低代碼物聯網平台和解決方案。 大家好 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42854/">[2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42854/">[2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Zoho Corporation 在 2022 年印度移動大會 處展示了 低代碼物聯網平台和解決方案。</p>
 </p>
@@ -420,31 +343,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-9.jpg"></div>
 <div class="caption_text">謝謝你！ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42854/">[2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42854/">[2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42854/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42854</post-id>
-		<media:content url="https://www.youtube.com/embed/9_350FhV9Uk" duration="60">
-			<media:player url="https://www.youtube.com/embed/9_350FhV9Uk" />
-			<media:title type="html">[2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 低代碼物聯網平台和解決方案 - Zoho Corporation &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/9_350fhv9uk.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_04-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42854</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室</title>
 		<link>/contents/42856/</link>
@@ -456,10 +362,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42856</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42856</guid>
 
 					<description><![CDATA[<p>奧蘭治伍德實驗室 在 2022 年印度移動大會 處展示了 支持 5G 的機械臂。 大家好，我是斯內哈。我在 O [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42856/">[2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42856/">[2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>奧蘭治伍德實驗室 在 2022 年印度移動大會 處展示了 支持 5G 的機械臂。</p>
 </p>
@@ -487,29 +393,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-6.jpg"></div>
 <div class="caption_text">並通過 orangewood.co 與我們聯繫以獲取更多信息。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42856/">[2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42856/">[2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42856/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42856</post-id>
-		<media:content url="https://www.youtube.com/embed/ZIFSJ1Ak2O0" duration="48">
-			<media:player url="https://www.youtube.com/embed/ZIFSJ1Ak2O0" />
-			<media:title type="html">[2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 支持 5G 的機械臂 - 奧蘭治伍德實驗室 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/zifsj1ak2o0.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_05-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42856</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技</title>
 		<link>/contents/42858/</link>
@@ -521,10 +412,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42858</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42858</guid>
 
 					<description><![CDATA[<p>三光科技 在 2022 年印度移動大會 處展示了 射頻和無線通信測試儀器。 大家好，我是 Sanko Tech [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42858/">[2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42858/">[2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>三光科技 在 2022 年印度移動大會 處展示了 射頻和無線通信測試儀器。</p>
 </p>
@@ -564,32 +455,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-11.jpg"></div>
 <div class="caption_text">太感謝了 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42858/">[2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42858/">[2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42858/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42858</post-id>
-		<media:content url="https://www.youtube.com/embed/i5jBbPRSTzA" duration="74">
-			<media:player url="https://www.youtube.com/embed/i5jBbPRSTzA" />
-			<media:title type="html">[2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 射頻和無線通信測試儀器 - 三光科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/i5jbbprstza.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_06-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42858</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑</title>
 		<link>/contents/42860/</link>
@@ -601,10 +474,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42860</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42860</guid>
 
 					<description><![CDATA[<p>信實傑 在 2022 年印度移動大會 處展示了 農業物聯網和奶牛健康監測設備。 這是一個農業物聯網設備。這將有 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42860/">[2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42860/">[2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>信實傑 在 2022 年印度移動大會 處展示了 農業物聯網和奶牛健康監測設備。</p>
 </p>
@@ -648,33 +521,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-10.jpg"></div>
 <div class="caption_text">它將從那裡將數據傳輸到雲端。<br />那裡有算法。<br />在此基礎上，如果奶牛出現任何問題或疾病，那麼農民會在他的申請中得到警報。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42860/">[2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42860/">[2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42860/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42860</post-id>
-		<media:content url="https://www.youtube.com/embed/hX9-7F7JhD8" duration="77">
-			<media:player url="https://www.youtube.com/embed/hX9-7F7JhD8" />
-			<media:title type="html">[2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 農業物聯網和奶牛健康監測設備 - 信實傑 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/hx9-7f7jhd8.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_07-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42860</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技</title>
 		<link>/contents/42862/</link>
@@ -686,10 +540,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42862</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42862</guid>
 
 					<description><![CDATA[<p>英維迪斯科技 在 2022 年印度移動大會 處展示了 基於物聯網的解決方案。 大家好，我是 Dhruv Dev [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42862/">[2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42862/">[2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>英維迪斯科技 在 2022 年印度移動大會 處展示了 基於物聯網的解決方案。</p>
 </p>
@@ -745,36 +599,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-16.jpg"></div>
 <div class="caption_text">謝謝！ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42862/">[2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42862/">[2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42862/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42862</post-id>
-		<media:content url="https://www.youtube.com/embed/YqBsqu7zOlk" duration="112">
-			<media:player url="https://www.youtube.com/embed/YqBsqu7zOlk" />
-			<media:title type="html">[2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 基於物聯網的解決方案 - 英維迪斯科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/yqbsqu7zolk.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_08-16.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42862</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴</title>
 		<link>/contents/42866/</link>
@@ -786,10 +618,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42866</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42866</guid>
 
 					<description><![CDATA[<p>IIIT 海得拉巴 在 2022 年印度移動大會 處展示了 智慧城市生活實驗室。 Namaste 並歡迎來到  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42866/">[2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42866/">[2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>IIIT 海得拉巴 在 2022 年印度移動大會 處展示了 智慧城市生活實驗室。</p>
 </p>
@@ -901,50 +733,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-29.jpg"></div>
 <div class="caption_text">同時，您還可以訪問智慧城市生活網站smartcityresearch.iiit.ac.in </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42866/">[2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42866/">[2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42866/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42866</post-id>
-		<media:content url="https://www.youtube.com/embed/Y2HQrSoQtos" duration="209">
-			<media:player url="https://www.youtube.com/embed/Y2HQrSoQtos" />
-			<media:title type="html">[2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 智慧城市生活實驗室 - IIIT 海得拉巴 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/y2hqrsoqtos.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-26.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-28.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_10-29.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42866</post-id>	</item>
 		<item>
 		<title>[2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度</title>
 		<link>/contents/42864/</link>
@@ -956,10 +752,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?p=42864</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42864</guid>
 
 					<description><![CDATA[<p>安立印度 在 2022 年印度移動大會 處展示了 電信測試與測量解決方案。 你好，我的名字是 Madhukar [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42864/">[2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42864/">[2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>安立印度 在 2022 年印度移動大會 處展示了 電信測試與測量解決方案。</p>
 </p>
@@ -999,31 +795,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-9.jpg"></div>
 <div class="caption_text">除此之外，我們還在這裡展示了我們的專利技術產品Shockline vna，它是4端口vna。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42864/">[2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42864/">[2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42864/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42864</post-id>
-		<media:content url="https://www.youtube.com/embed/aR7iHDWLIXY" duration="68">
-			<media:player url="https://www.youtube.com/embed/aR7iHDWLIXY" />
-			<media:title type="html">[2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年印度移動大會] 電信測試與測量解決方案 - 安立印度 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/ar7ihdwlixy.jpg" />
-			<media:keywords>信息/電信,印度</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/indiamobilecongress_2022_10/indiamobilecongress_2022_10_09-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42864</post-id>	</item>
 	</channel>
 </rss>

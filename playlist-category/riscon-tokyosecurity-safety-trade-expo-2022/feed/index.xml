@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>RISCON TOKYO(Security &amp; Safety Trade Expo) 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>RISCON TOKYO(Security &amp; Safety Trade Expo) 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/riscon-tokyosecurity-safety-trade-expo-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/riscon-tokyosecurity-safety-trade-expo-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 19 Oct 2022 06:47:08 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>RISCON TOKYO(Security &amp; Safety Trade Expo) 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>RISCON TOKYO(Security &amp; Safety Trade Expo) 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/riscon-tokyosecurity-safety-trade-expo-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>RISCON TOKYO(Security &#038; Safety Trade Expo) 2022 (日本)</title>
 		<link>/playlist/riscon_2022_10/</link>
 					<comments>/playlist/riscon_2022_10/#respond</comments>
@@ -39,10 +36,10 @@
 		<pubDate>Wed, 19 Oct 2022 06:47:08 +0000</pubDate>
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42524</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42524</guid>
 
 					<description><![CDATA[<p>“Risk Management Industry Exhibition (RISCON TOKYO) 202 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/riscon_2022_10/">RISCON TOKYO(Security &#038; Safety Trade Expo) 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/riscon_2022_10/">RISCON TOKYO(Security &#038; Safety Trade Expo) 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Risk Management Industry Exhibition (RISCON TOKYO) 2022”是日本最大的處理各種風險的“風險管理”綜合貿易展的展覽。<br />
 以“防災/減災”、“BCP/業務風險對策”、“安全”三大領域為基礎，將應對各種問題和風險的產品和服務集中在一個屋簷下，企業的業務活動，國家政府和地方政府，旨在以行業緊迫問題為主題，提出“新危機管理”，支持和發展新業務創造。<br />
@@ -50,14 +47,13 @@
 展覽將於2022年10月5日（星期三）至2022年10月7日（星期五）舉辦三天。地點：Tokyo Big Sight West Halls 1 和 2。</p>
 <p>點擊此處查看2022年風險管理行業展覽會（RISCON TOKYO）的官方網站：<br />
 <a href="https://www.kikikanri.biz/" target="_blank" rel="noopener">https://www.kikikanri.biz/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/riscon_2022_10/">RISCON TOKYO(Security &#038; Safety Trade Expo) 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/riscon_2022_10/">RISCON TOKYO(Security &#038; Safety Trade Expo) 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/riscon_2022_10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42524</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42524</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>德科萊克斯 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>德科萊克斯 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E5%BE%B7%E7%A7%91%E8%90%8A%E5%85%8B%E6%96%AF-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/德科萊克斯-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 01 Nov 2022 06:36:33 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>德科萊克斯 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>德科萊克斯 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/德科萊克斯-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>德科萊克斯 2022 (英國)</title>
 		<link>/playlist/decore_2022_10/</link>
 					<comments>/playlist/decore_2022_10/#respond</comments>
@@ -39,23 +36,22 @@
 		<pubDate>Tue, 01 Nov 2022 06:36:33 +0000</pubDate>
 				<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42610</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42610</guid>
 
 					<description><![CDATA[<p>“Decorex 2022”是高端室內設計展。 展覽將於2022年10月9日至12日舉行，為期四天。地點：倫敦 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/decore_2022_10/">德科萊克斯 2022 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/decore_2022_10/">德科萊克斯 2022 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Decorex 2022”是高端室內設計展。</p>
 <p>展覽將於2022年10月9日至12日舉行，為期四天。地點：倫敦奧林匹亞。</p>
 <p>Decorex 2022 的官方主頁在這裡：<br />
 <a href="https://www.decorex.com/en/home.html" target="_blank" rel="noopener">https://www.decorex.com/en/home.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/decore_2022_10/">德科萊克斯 2022 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/decore_2022_10/">德科萊克斯 2022 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/decore_2022_10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42610</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42610</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>第94屆東京國際禮品展2022秋季 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>第94屆東京國際禮品展2022秋季 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E7%AC%AC94%E5%B1%86%E6%9D%B1%E4%BA%AC%E5%9C%8B%E9%9A%9B%E7%A6%AE%E5%93%81%E5%B1%952022%E7%A7%8B%E5%AD%A3/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/第94屆東京國際禮品展2022秋季/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 29 Sep 2022 03:28:02 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>第94屆東京國際禮品展2022秋季 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>第94屆東京國際禮品展2022秋季 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/第94屆東京國際禮品展2022秋季/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>第94屆東京國際禮品展2022秋季 (日本)</title>
 		<link>/playlist/giftshow_2022_09/</link>
 					<comments>/playlist/giftshow_2022_09/#respond</comments>
@@ -39,10 +36,10 @@
 		<pubDate>Thu, 29 Sep 2022 03:28:02 +0000</pubDate>
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42038</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42038</guid>
 
 					<description><![CDATA[<p>第 94 屆東京國際禮品展 2022 年秋季是日本最大的個人禮品和家居用品國際貿易展覽會。從生活方式設計住宅的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/giftshow_2022_09/">第94屆東京國際禮品展2022秋季 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/giftshow_2022_09/">第94屆東京國際禮品展2022秋季 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>第 94 屆東京國際禮品展 2022 年秋季是日本最大的個人禮品和家居用品國際貿易展覽會。從生活方式設計住宅的翻新、設計和製造展覽。<br />
 主要展示滿足消費者生活方式的新產品，旨在發展消費品行業的國內製造商批發、進口貿易公司、其他服務、版權、新奇、OEM等業務。<br />
@@ -50,14 +47,13 @@
 展覽將於2022年9月7日（星期三）至2022年9月9日（星期五）舉辦三天。地點：東京Big Sight東展覽館。</p>
 <p>第94屆東京國際禮品展秋季2022官方網站在這裡：<br />
 <a href="https://www.giftshow.co.jp/tigs/94tigs/index.htm" target="_blank" rel="noopener">https://www.giftshow.co.jp/tigs/94tigs/index.htm</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/giftshow_2022_09/">第94屆東京國際禮品展2022秋季 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/giftshow_2022_09/">第94屆東京國際禮品展2022秋季 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/giftshow_2022_09/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42038</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42038</post-id>	</item>
 	</channel>
 </rss>

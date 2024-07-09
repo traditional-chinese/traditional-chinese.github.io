@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>INTERMACH 和 MTA 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>INTERMACH 和 MTA 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/intermach-%E5%92%8C-mta-%E4%BA%9E%E6%B4%B2-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/intermach-和-mta-亞洲-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 09 Jun 2022 07:11:40 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>INTERMACH 和 MTA 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>INTERMACH 和 MTA 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/intermach-和-mta-亞洲-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰</title>
 		<link>/contents/40850/</link>
 					<comments>/contents/40850/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40850</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40850</guid>
 
 					<description><![CDATA[<p>色拉泰 在 INTERMACH 和 MTA 亞洲 2022 處展示了 六角測量機。 您好，今天我們的 Hexa [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40850/">[INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40850/">[INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>色拉泰 在 INTERMACH 和 MTA 亞洲 2022 處展示了 六角測量機。</p>
 </p>
@@ -120,41 +117,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-148.jpg"></div>
 <div class="caption_text">這個 UR5e 機器人。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40850/">[INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40850/">[INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40850/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40850</post-id>
-		<media:content url="https://www.youtube.com/embed/e67TcJ7GDQY" duration="156">
-			<media:player url="https://www.youtube.com/embed/e67TcJ7GDQY" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 六角測量機 - 色拉泰 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/e67tcj7gdqy.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-015.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-085.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-092.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-099.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_11-148.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40850</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團</title>
 		<link>/contents/40848/</link>
@@ -166,10 +136,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40848</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40848</guid>
 
 					<description><![CDATA[<p>昭和電機集團 在 INTERMACH 和 MTA 亞洲 2022 處展示了 WORKRESA除塵器。 您好，我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40848/">[INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40848/">[INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>昭和電機集團 在 INTERMACH 和 MTA 亞洲 2022 處展示了 WORKRESA除塵器。</p>
 </p>
@@ -217,34 +187,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-092.jpg"></div>
 <div class="caption_text">我們提供維修諮詢、備件提供等售後服務，並有技術人員為新產品的選擇提供建議。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40848/">[INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40848/">[INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40848/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40848</post-id>
-		<media:content url="https://www.youtube.com/embed/v5SRWt1vd_U" duration="112">
-			<media:player url="https://www.youtube.com/embed/v5SRWt1vd_U" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] WORKRESA除塵器 - 昭和電機集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/v5srwt1vd_u.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-085.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_10-092.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40848</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團</title>
 		<link>/contents/40846/</link>
@@ -256,10 +206,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40846</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40846</guid>
 
 					<description><![CDATA[<p>格倫加集團 在 INTERMACH 和 MTA 亞洲 2022 處展示了 碼垛 i10。 你好，我來自 Ger [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40846/">[INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40846/">[INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>格倫加集團 在 INTERMACH 和 MTA 亞洲 2022 處展示了 碼垛 i10。</p>
 </p>
@@ -307,34 +257,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-71.jpg"></div>
 <div class="caption_text">售後服務是，我們還提供培訓<br />客戶買了之後，再想自己改程序，自己就可以輕鬆搞定。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40846/">[INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40846/">[INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40846/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40846</post-id>
-		<media:content url="https://www.youtube.com/embed/ZrtoB1-dSP4" duration="84">
-			<media:player url="https://www.youtube.com/embed/ZrtoB1-dSP4" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 碼垛 i10 - 格倫加集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/zrtob1-dsp4.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_09-71.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40846</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾</title>
 		<link>/contents/40844/</link>
@@ -346,10 +276,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40844</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40844</guid>
 
 					<description><![CDATA[<p>仲卡莫爾 在 INTERMACH 和 MTA 亞洲 2022 處展示了 DAREX 工具磨刀器。 我來自 Tr [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40844/">[INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40844/">[INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>仲卡莫爾 在 INTERMACH 和 MTA 亞洲 2022 處展示了 DAREX 工具磨刀器。</p>
 </p>
@@ -405,36 +335,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-092.jpg"></div>
 <div class="caption_text">機器將開始銳化，直到銳度良好。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40844/">[INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40844/">[INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40844/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40844</post-id>
-		<media:content url="https://www.youtube.com/embed/Shh6iwtbf0Q" duration="125">
-			<media:player url="https://www.youtube.com/embed/Shh6iwtbf0Q" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] DAREX 工具磨刀器 - 仲卡莫爾 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/shh6iwtbf0q.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-085.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_08-092.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40844</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件</title>
 		<link>/contents/40842/</link>
@@ -446,10 +354,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40842</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40842</guid>
 
 					<description><![CDATA[<p>C.C汽車零件 在 INTERMACH 和 MTA 亞洲 2022 處展示了 狹縫保護器。 我們是CC Aut [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40842/">[INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40842/">[INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>C.C汽車零件 在 INTERMACH 和 MTA 亞洲 2022 處展示了 狹縫保護器。</p>
 </p>
@@ -533,43 +441,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-162.jpg"></div>
 <div class="caption_text">這將很有幫助，並且可以節省廢物處理的成本。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40842/">[INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40842/">[INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40842/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40842</post-id>
-		<media:content url="https://www.youtube.com/embed/TiZSXq2Wnyg" duration="170">
-			<media:player url="https://www.youtube.com/embed/TiZSXq2Wnyg" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 狹縫保護器 - C.C汽車零件 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/tizsxq2wnyg.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-015.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-085.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-092.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-099.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_07-162.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40842</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機</title>
 		<link>/contents/40840/</link>
@@ -581,10 +460,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40840</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40840</guid>
 
 					<description><![CDATA[<p>超壓縮機 在 INTERMACH 和 MTA 亞洲 2022 處展示了 螺桿空壓機。 這就是 Ultra-Co [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40840/">[INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40840/">[INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>超壓縮機 在 INTERMACH 和 MTA 亞洲 2022 處展示了 螺桿空壓機。</p>
 </p>
@@ -612,29 +491,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-43.jpg"></div>
 <div class="caption_text">通過中心出來進入空氣乾燥器，以去除泵送空氣中的水分。<br />完成後，它會以這種方式出現。然後通過過濾器出來到我們使用的地方。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40840/">[INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40840/">[INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40840/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40840</post-id>
-		<media:content url="https://www.youtube.com/embed/omqYkcnbt1I" duration="59">
-			<media:player url="https://www.youtube.com/embed/omqYkcnbt1I" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 螺桿空壓機 - 超壓縮機 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/omqykcnbt1i.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_06-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40840</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統</title>
 		<link>/contents/40860/</link>
@@ -646,10 +510,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40860</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40860</guid>
 
 					<description><![CDATA[<p>TTL 工程系統 在 INTERMACH 和 MTA 亞洲 2022 處展示了 激光切割機。 我來自 TTL  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40860/">[INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40860/">[INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>TTL 工程系統 在 INTERMACH 和 MTA 亞洲 2022 處展示了 激光切割機。</p>
 </p>
@@ -685,31 +549,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-71.jpg"></div>
 <div class="caption_text">您現在可以訪問我們的網站。 www.ttlengineingsystem.com</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40860/">[INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40860/">[INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40860/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40860</post-id>
-		<media:content url="https://www.youtube.com/embed/OUJl6B8z2pw" duration="83">
-			<media:player url="https://www.youtube.com/embed/OUJl6B8z2pw" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 激光切割機 - TTL 工程系統 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/oujl6b8z2pw.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_16-71.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40860</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化</title>
 		<link>/contents/40838/</link>
@@ -721,10 +568,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40838</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40838</guid>
 
 					<description><![CDATA[<p>細化 在 INTERMACH 和 MTA 亞洲 2022 處展示了 RAGO HM-175-3200。 我們是 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40838/">[INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40838/">[INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>細化 在 INTERMACH 和 MTA 亞洲 2022 處展示了 RAGO HM-175-3200。</p>
 </p>
@@ -768,33 +615,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-64.jpg"></div>
 <div class="caption_text">並可根據鋼材的厚度進行選擇。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40838/">[INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40838/">[INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40838/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40838</post-id>
-		<media:content url="https://www.youtube.com/embed/uQwLukK6ml8" duration="75">
-			<media:player url="https://www.youtube.com/embed/uQwLukK6ml8" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] RAGO HM-175-3200 - 細化 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/uqwlukk6ml8.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_05-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40838</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星</title>
 		<link>/contents/40858/</link>
@@ -806,10 +634,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40858</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40858</guid>
 
 					<description><![CDATA[<p>太平洋水星 在 INTERMACH 和 MTA 亞洲 2022 處展示了 喬治機CY-300。 我來自 Pac [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40858/">[INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40858/">[INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>太平洋水星 在 INTERMACH 和 MTA 亞洲 2022 處展示了 喬治機CY-300。</p>
 </p>
@@ -857,34 +685,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-85.jpg"></div>
 <div class="caption_text">我們的售後服務貫穿整個使用壽命，有備件支持。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40858/">[INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40858/">[INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40858/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40858</post-id>
-		<media:content url="https://www.youtube.com/embed/lDCtrQUQU0s" duration="99">
-			<media:player url="https://www.youtube.com/embed/lDCtrQUQU0s" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 喬治機CY-300 - 太平洋水星 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/ldctrququ0s.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_15-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40858</post-id>	</item>
 		<item>
 		<title>[INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生</title>
 		<link>/contents/40836/</link>
@@ -896,10 +704,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=40836</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40836</guid>
 
 					<description><![CDATA[<p>湯姆先生 在 INTERMACH 和 MTA 亞洲 2022 處展示了 能量回收。 我們是 Mr.Tom 工程 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40836/">[INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40836/">[INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>湯姆先生 在 INTERMACH 和 MTA 亞洲 2022 處展示了 能量回收。</p>
 </p>
@@ -943,32 +751,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-85.jpg"></div>
 <div class="caption_text">這在交通上非常便宜。這將大大降低運輸成本。<br />這是從毫無價值的能量，今天我們可以製造一噸價值不低於兩千五百泰銖的能源。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40836/">[INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40836/">[INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40836/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40836</post-id>
-		<media:content url="https://www.youtube.com/embed/LW4cDH1EOog" duration="100">
-			<media:player url="https://www.youtube.com/embed/LW4cDH1EOog" />
-			<media:title type="html">[INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [INTERMACH 和 MTA 亞洲 2022] 能量回收 - 湯姆先生 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/lw4cdh1eoog.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/intermachshow_2022/intermachshow_2022_04-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40836</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年自行車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年自行車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/2022-%E5%B9%B4%E8%87%AA%E8%A1%8C%E8%BB%8A%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/2022-年自行車展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 23 May 2022 12:23:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年自行車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年自行車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/2022-年自行車展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[2022 年自行車展] 亨特碳路性能範圍</title>
 		<link>/contents/40658/</link>
 					<comments>/contents/40658/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40658</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40658</guid>
 
 					<description><![CDATA[<p>亨特碳路性能範圍 展出於 2022 年自行車展。 嗨，我是 Ollie，我在這里為 HUNT 工作。 我們在倫 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40658/">[2022 年自行車展] 亨特碳路性能範圍</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40658/">[2022 年自行車展] 亨特碳路性能範圍</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>亨特碳路性能範圍 展出於 2022 年自行車展。</p>
 </p>
@@ -100,36 +97,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-085.jpg"></div>
 <div class="caption_text">但你不一定會得到更多，因為你付出的更多，所以是的，這就是我們。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40658/">[2022 年自行車展] 亨特碳路性能範圍</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40658/">[2022 年自行車展] 亨特碳路性能範圍</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40658/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40658</post-id>
-		<media:content url="https://www.youtube.com/embed/NePPexohveA" duration="96">
-			<media:player url="https://www.youtube.com/embed/NePPexohveA" />
-			<media:title type="html">[2022 年自行車展] 亨特碳路性能範圍 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 亨特碳路性能範圍 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/neppexohvea.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-015.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_11-085.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40658</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] 狂熱的伊西莫</title>
 		<link>/contents/40656/</link>
@@ -141,10 +116,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40656</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40656</guid>
 
 					<description><![CDATA[<p>狂熱的伊西莫 展出於 2022 年自行車展。 嗨，我是美泰，我想談談瘋狂的電動自行車。 這是自 1968 年以 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40656/">[2022 年自行車展] 狂熱的伊西莫</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40656/">[2022 年自行車展] 狂熱的伊西莫</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>狂熱的伊西莫 展出於 2022 年自行車展。</p>
 </p>
@@ -184,32 +159,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-085.jpg"></div>
 <div class="caption_text">您可以在英國的不同經銷商商店購買並找到它，建議價格為 3090 歐元，即 2990 英鎊。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40656/">[2022 年自行車展] 狂熱的伊西莫</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40656/">[2022 年自行車展] 狂熱的伊西莫</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40656/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40656</post-id>
-		<media:content url="https://www.youtube.com/embed/hz3Lht4xojs" duration="110">
-			<media:player url="https://www.youtube.com/embed/hz3Lht4xojs" />
-			<media:title type="html">[2022 年自行車展] 狂熱的伊西莫 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 狂熱的伊西莫 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/hz3lht4xojs.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-015.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_10-085.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40656</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] 高西爾 G4</title>
 		<link>/contents/40654/</link>
@@ -221,10 +178,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40654</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40654</guid>
 
 					<description><![CDATA[<p>高西爾 G4 展出於 2022 年自行車展。 大家好，我是 Richard，我是 Gocycle 的創始人兼設 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40654/">[2022 年自行車展] 高西爾 G4</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40654/">[2022 年自行車展] 高西爾 G4</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>高西爾 G4 展出於 2022 年自行車展。</p>
 </p>
@@ -268,33 +225,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-92.jpg"></div>
 <div class="caption_text">基本上，兩個閂鎖，你已經準備好了。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40654/">[2022 年自行車展] 高西爾 G4</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40654/">[2022 年自行車展] 高西爾 G4</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40654/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40654</post-id>
-		<media:content url="https://www.youtube.com/embed/XnIaI0gTmd4" duration="112">
-			<media:player url="https://www.youtube.com/embed/XnIaI0gTmd4" />
-			<media:title type="html">[2022 年自行車展] 高西爾 G4 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 高西爾 G4 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/xniai0gtmd4.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_09-92.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40654</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] Gazelle Makki 負載</title>
 		<link>/contents/40652/</link>
@@ -306,10 +244,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40652</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40652</guid>
 
 					<description><![CDATA[<p>Gazelle Makki 負載 展出於 2022 年自行車展。 嗨，我是 Gazelle 的 Herman， [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40652/">[2022 年自行車展] Gazelle Makki 負載</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40652/">[2022 年自行車展] Gazelle Makki 負載</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Gazelle Makki 負載 展出於 2022 年自行車展。</p>
 </p>
@@ -345,31 +283,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-64.jpg"></div>
 <div class="caption_text">使用最大的電池，您可以行駛 70-80 英里。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40652/">[2022 年自行車展] Gazelle Makki 負載</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40652/">[2022 年自行車展] Gazelle Makki 負載</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40652/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40652</post-id>
-		<media:content url="https://www.youtube.com/embed/0jm__l4lJEs" duration="78">
-			<media:player url="https://www.youtube.com/embed/0jm__l4lJEs" />
-			<media:title type="html">[2022 年自行車展] Gazelle Makki 負載 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] Gazelle Makki 負載 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/0jm__l4ljes.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_08-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40652</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] 隈研吾自行車</title>
 		<link>/contents/40650/</link>
@@ -381,10 +302,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40650</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40650</guid>
 
 					<description><![CDATA[<p>隈研吾自行車 展出於 2022 年自行車展。 大家好，我叫 Kevin，是 Kuma Bikes 的創始人和設 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40650/">[2022 年自行車展] 隈研吾自行車</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40650/">[2022 年自行車展] 隈研吾自行車</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>隈研吾自行車 展出於 2022 年自行車展。</p>
 </p>
@@ -448,38 +369,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-106.jpg"></div>
 <div class="caption_text">我們所有的自行車都享有都柏林提供的兩年保修服務，我們所有的自行車都是在都柏林內部組裝的。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40650/">[2022 年自行車展] 隈研吾自行車</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40650/">[2022 年自行車展] 隈研吾自行車</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40650/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40650</post-id>
-		<media:content url="https://www.youtube.com/embed/M6Pq8ek5rO0" duration="124">
-			<media:player url="https://www.youtube.com/embed/M6Pq8ek5rO0" />
-			<media:title type="html">[2022 年自行車展] 隈研吾自行車 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 隈研吾自行車 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/m6pq8ek5ro0.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-015.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-085.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-092.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-099.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_07-106.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40650</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] Hygge Bikes 奧胡斯</title>
 		<link>/contents/40648/</link>
@@ -491,10 +388,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40648</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40648</guid>
 
 					<description><![CDATA[<p>Hygge Bikes 奧胡斯 展出於 2022 年自行車展。 嗨，我的名字是 Nevid，我來自 Hygge [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40648/">[2022 年自行車展] Hygge Bikes 奧胡斯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40648/">[2022 年自行車展] Hygge Bikes 奧胡斯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Hygge Bikes 奧胡斯 展出於 2022 年自行車展。</p>
 </p>
@@ -538,33 +435,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-71.jpg"></div>
 <div class="caption_text">這就是產品，希望你喜歡它，產品名為 Aarhus，公司名為 Hygge 自行車。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40648/">[2022 年自行車展] Hygge Bikes 奧胡斯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40648/">[2022 年自行車展] Hygge Bikes 奧胡斯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40648/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40648</post-id>
-		<media:content url="https://www.youtube.com/embed/ez-GevkEkeY" duration="87">
-			<media:player url="https://www.youtube.com/embed/ez-GevkEkeY" />
-			<media:title type="html">[2022 年自行車展] Hygge Bikes 奧胡斯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] Hygge Bikes 奧胡斯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/ez-gevkekey.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_06-71.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40648</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] 羅利貨運自行車范圍</title>
 		<link>/contents/40646/</link>
@@ -576,10 +454,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40646</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40646</guid>
 
 					<description><![CDATA[<p>羅利貨運自行車范圍 展出於 2022 年自行車展。 嗨，我是來自羅利的 Dan，這是我們的 Pro Trike [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40646/">[2022 年自行車展] 羅利貨運自行車范圍</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40646/">[2022 年自行車展] 羅利貨運自行車范圍</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>羅利貨運自行車范圍 展出於 2022 年自行車展。</p>
 </p>
@@ -619,32 +497,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-64.jpg"></div>
 <div class="caption_text">它配備了荷蘭風格的騎行自行車，因此在交通中感覺非常直立，並且不像市場上的其他自行車那樣快節奏。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40646/">[2022 年自行車展] 羅利貨運自行車范圍</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40646/">[2022 年自行車展] 羅利貨運自行車范圍</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40646/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40646</post-id>
-		<media:content url="https://www.youtube.com/embed/e49iogrBQR4" duration="80">
-			<media:player url="https://www.youtube.com/embed/e49iogrBQR4" />
-			<media:title type="html">[2022 年自行車展] 羅利貨運自行車范圍 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 羅利貨運自行車范圍 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/e49iogrbqr4.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_05-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40646</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] Revolution Works Revos 電動自行車改裝套件</title>
 		<link>/contents/40644/</link>
@@ -656,10 +516,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40644</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40644</guid>
 
 					<description><![CDATA[<p>Revolution Works Revos 電動自行車改裝套件 展出於 2022 年自行車展。 嗨，我在 R [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40644/">[2022 年自行車展] Revolution Works Revos 電動自行車改裝套件</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40644/">[2022 年自行車展] Revolution Works Revos 電動自行車改裝套件</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Revolution Works Revos 電動自行車改裝套件 展出於 2022 年自行車展。</p>
 </p>
@@ -711,35 +571,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-78.jpg"></div>
 <div class="caption_text">但是在那之後，您將自行車變成了電動自行車，並且您仍然擁有自己喜歡的自行車。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40644/">[2022 年自行車展] Revolution Works Revos 電動自行車改裝套件</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40644/">[2022 年自行車展] Revolution Works Revos 電動自行車改裝套件</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40644/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40644</post-id>
-		<media:content url="https://www.youtube.com/embed/KACdSaUdoiM" duration="89">
-			<media:player url="https://www.youtube.com/embed/KACdSaUdoiM" />
-			<media:title type="html">[2022 年自行車展] Revolution Works Revos 電動自行車改裝套件 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] Revolution Works Revos 電動自行車改裝套件 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/kacdsaudoim.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_04-78.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40644</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] 光環輪</title>
 		<link>/contents/40642/</link>
@@ -751,10 +590,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40642</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40642</guid>
 
 					<description><![CDATA[<p>光環輪 展出於 2022 年自行車展。 嗨，我是來自 Halo 車輪的 Josh，在英國，我在這裡與您談談我們 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40642/">[2022 年自行車展] 光環輪</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40642/">[2022 年自行車展] 光環輪</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>光環輪 展出於 2022 年自行車展。</p>
 </p>
@@ -790,31 +629,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-50.jpg"></div>
 <div class="caption_text">因此，當您需要在燃燒時或在路上進行最後的踢球以及最終參與時，這是理想的選擇。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40642/">[2022 年自行車展] 光環輪</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40642/">[2022 年自行車展] 光環輪</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40642/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40642</post-id>
-		<media:content url="https://www.youtube.com/embed/Z3FGIuNG-Xw" duration="65">
-			<media:player url="https://www.youtube.com/embed/Z3FGIuNG-Xw" />
-			<media:title type="html">[2022 年自行車展] 光環輪 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 光環輪 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/z3fgiung-xw.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_03-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40642</post-id>	</item>
 		<item>
 		<title>[2022 年自行車展] 專業渦輪增壓器</title>
 		<link>/contents/40640/</link>
@@ -826,10 +648,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=40640</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40640</guid>
 
 					<description><![CDATA[<p>專業渦輪增壓器 展出於 2022 年自行車展。 嗨，我是來自 Specialized 的 Kirsty。我和我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40640/">[2022 年自行車展] 專業渦輪增壓器</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40640/">[2022 年自行車展] 專業渦輪增壓器</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>專業渦輪增壓器 展出於 2022 年自行車展。</p>
 </p>
@@ -865,30 +687,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-50.jpg"></div>
 <div class="caption_text">因此，它會佔用您的力量並將其放大四倍。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40640/">[2022 年自行車展] 專業渦輪增壓器</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40640/">[2022 年自行車展] 專業渦輪增壓器</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40640/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40640</post-id>
-		<media:content url="https://www.youtube.com/embed/2xvAZDeOWm4" duration="62">
-			<media:player url="https://www.youtube.com/embed/2xvAZDeOWm4" />
-			<media:title type="html">[2022 年自行車展] 專業渦輪增壓器 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年自行車展] 專業渦輪增壓器 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/2xvazdeowm4.jpg" />
-			<media:keywords>愛好/教育,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cycleshow_2022/cycleshow_2022_02-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40640</post-id>	</item>
 	</channel>
 </rss>

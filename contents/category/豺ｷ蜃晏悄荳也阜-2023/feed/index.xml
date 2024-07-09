@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>混凝土世界 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>混凝土世界 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/%E6%B7%B7%E5%87%9D%E5%9C%9F%E4%B8%96%E7%95%8C-2023/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/混凝土世界-2023/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 31 Jan 2023 01:32:48 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>混凝土世界 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>混凝土世界 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/混凝土世界-2023/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[混凝土世界 2023] 專業分包商的現場管理軟件 - 田野</title>
 		<link>/contents/43811/</link>
 					<comments>/contents/43811/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43811</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43811</guid>
 
 					<description><![CDATA[<p>田野 在 混凝土世界 2023 處展示了 專業分包商的現場管理軟件。 歡迎來到拉斯維加斯，我們來到了 2023 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43811/">[混凝土世界 2023] 專業分包商的現場管理軟件 - 田野</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43811/">[混凝土世界 2023] 專業分包商的現場管理軟件 - 田野</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>田野 在 混凝土世界 2023 處展示了 專業分包商的現場管理軟件。</p>
 </p>
@@ -76,30 +73,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-43.jpg"></div>
 <div class="caption_text">非常感謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43811/">[混凝土世界 2023] 專業分包商的現場管理軟件 - 田野</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43811/">[混凝土世界 2023] 專業分包商的現場管理軟件 - 田野</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43811/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43811</post-id>
-		<media:content url="https://www.youtube.com/embed/TszD7cZ_HDg" duration="49">
-			<media:player url="https://www.youtube.com/embed/TszD7cZ_HDg" />
-			<media:title type="html">[混凝土世界 2023] 專業分包商的現場管理軟件 - 田野 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 專業分包商的現場管理軟件 - 田野 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/tszd7cz_hdg.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_01-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43811</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] 燃油管理系統 - LINK2泵</title>
 		<link>/contents/43813/</link>
@@ -111,10 +92,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43813</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43813</guid>
 
 					<description><![CDATA[<p>LINK2泵 在 混凝土世界 2023 處展示了 燃油管理系統。 大家好，歡迎來到拉斯維加斯的 World o [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43813/">[混凝土世界 2023] 燃油管理系統 - LINK2泵</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43813/">[混凝土世界 2023] 燃油管理系統 - LINK2泵</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>LINK2泵 在 混凝土世界 2023 處展示了 燃油管理系統。</p>
 </p>
@@ -146,30 +127,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-64.jpg"></div>
 <div class="caption_text">謝謝你。   </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43813/">[混凝土世界 2023] 燃油管理系統 - LINK2泵</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43813/">[混凝土世界 2023] 燃油管理系統 - LINK2泵</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43813/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43813</post-id>
-		<media:content url="https://www.youtube.com/embed/VjbEnrzwDzM" duration="73">
-			<media:player url="https://www.youtube.com/embed/VjbEnrzwDzM" />
-			<media:title type="html">[混凝土世界 2023] 燃油管理系統 - LINK2泵 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 燃油管理系統 - LINK2泵 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/vjbenrzwdzm.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_02-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43813</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技</title>
 		<link>/contents/43815/</link>
@@ -181,10 +146,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43815</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43815</guid>
 
 					<description><![CDATA[<p>安比科技 在 混凝土世界 2023 處展示了 APPI-CovR：隨處即時聯網。 大家好，我是 APPI Te [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43815/">[混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43815/">[混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>安比科技 在 混凝土世界 2023 處展示了 APPI-CovR：隨處即時聯網。</p>
 </p>
@@ -264,42 +229,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-148.jpg"></div>
 <div class="caption_text">因此，即使您的團隊因為處於坑中而無法訪問網絡，他們也可以與遠程人員交談，因為您是整個通信網絡的橋樑。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43815/">[混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43815/">[混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43815/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43815</post-id>
-		<media:content url="https://www.youtube.com/embed/BkORB3sWGK0" duration="168">
-			<media:player url="https://www.youtube.com/embed/BkORB3sWGK0" />
-			<media:title type="html">[混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] APPI-CovR：隨處即時聯網 - 安比科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/bkorb3swgk0.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_03-148.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43815</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓</title>
 		<link>/contents/43817/</link>
@@ -311,10 +248,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43817</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43817</guid>
 
 					<description><![CDATA[<p>天貓 在 混凝土世界 2023 處展示了 用於鋼筋打捆的自主機器人。 您好，歡迎來到拉斯維加斯的混凝土世界。我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43817/">[混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43817/">[混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>天貓 在 混凝土世界 2023 處展示了 用於鋼筋打捆的自主機器人。</p>
 </p>
@@ -338,28 +275,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-29.jpg"></div>
 <div class="caption_text">去那個十字路口，用槍把它綁起來。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43817/">[混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43817/">[混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43817/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43817</post-id>
-		<media:content url="https://www.youtube.com/embed/YXk5bdatBDU" duration="44">
-			<media:player url="https://www.youtube.com/embed/YXk5bdatBDU" />
-			<media:title type="html">[混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 用於鋼筋打捆的自主機器人 - 天貓 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/yxk5bdatbdu.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_04-29.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43817</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] 平面度檢測 - 法如科技</title>
 		<link>/contents/43819/</link>
@@ -371,10 +294,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43819</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43819</guid>
 
 					<description><![CDATA[<p>法如科技 在 混凝土世界 2023 處展示了 平面度檢測。 我叫 Faro Technologies 的 Al [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43819/">[混凝土世界 2023] 平面度檢測 - 法如科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43819/">[混凝土世界 2023] 平面度檢測 - 法如科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>法如科技 在 混凝土世界 2023 處展示了 平面度檢測。</p>
 </p>
@@ -398,28 +321,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-43.jpg"></div>
 <div class="caption_text">如果他們能節省時間、金錢和一套非常動態的新工具，顯然有助於提高生產力。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43819/">[混凝土世界 2023] 平面度檢測 - 法如科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43819/">[混凝土世界 2023] 平面度檢測 - 法如科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43819/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43819</post-id>
-		<media:content url="https://www.youtube.com/embed/8LdYFmMOcgc" duration="58">
-			<media:player url="https://www.youtube.com/embed/8LdYFmMOcgc" />
-			<media:title type="html">[混凝土世界 2023] 平面度檢測 - 法如科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 平面度檢測 - 法如科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/8ldyfmmocgc.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_05-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43819</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品</title>
 		<link>/contents/43823/</link>
@@ -431,10 +340,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43823</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43823</guid>
 
 					<description><![CDATA[<p>恩康安全產品 在 混凝土世界 2023 處展示了 用於安全眼鏡的 AFR 塗層。 大家好，我叫 Felipe  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43823/">[混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43823/">[混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>恩康安全產品 在 混凝土世界 2023 處展示了 用於安全眼鏡的 AFR 塗層。</p>
 </p>
@@ -486,35 +395,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-99.jpg"></div>
 <div class="caption_text">謝謝你和安全產品。   </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43823/">[混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43823/">[混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43823/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43823</post-id>
-		<media:content url="https://www.youtube.com/embed/m_goACMXINI" duration="106">
-			<media:player url="https://www.youtube.com/embed/m_goACMXINI" />
-			<media:title type="html">[混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 用於安全眼鏡的 AFR 塗層 - 恩康安全產品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/m_goacmxini.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_07-99.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43823</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] 智能皮膚 - RAM 安裝系統</title>
 		<link>/contents/43821/</link>
@@ -526,10 +414,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43821</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43821</guid>
 
 					<description><![CDATA[<p>RAM 安裝系統 在 混凝土世界 2023 處展示了 智能皮膚。 大家好，我叫 Kyle Lonzak，負責  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43821/">[混凝土世界 2023] 智能皮膚 - RAM 安裝系統</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43821/">[混凝土世界 2023] 智能皮膚 - RAM 安裝系統</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>RAM 安裝系統 在 混凝土世界 2023 處展示了 智能皮膚。</p>
 </p>
@@ -557,29 +445,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-36.jpg"></div>
 <div class="caption_text">然後我們有一個擴展塢，您可以將平板電腦放入其中。<br />並且能夠輕鬆鎖定到位並充電並保持。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43821/">[混凝土世界 2023] 智能皮膚 - RAM 安裝系統</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43821/">[混凝土世界 2023] 智能皮膚 - RAM 安裝系統</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43821/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43821</post-id>
-		<media:content url="https://www.youtube.com/embed/K40rB1ZjilM" duration="51">
-			<media:player url="https://www.youtube.com/embed/K40rB1ZjilM" />
-			<media:title type="html">[混凝土世界 2023] 智能皮膚 - RAM 安裝系統 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 智能皮膚 - RAM 安裝系統 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/k40rb1zjilm.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_06-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43821</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] EOS 360 - 普林斯頓技術學院</title>
 		<link>/contents/43825/</link>
@@ -591,10 +464,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43825</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43825</guid>
 
 					<description><![CDATA[<p>普林斯頓技術學院 在 混凝土世界 2023 處展示了 EOS 360。 大家好，我是普林斯頓科技公司的銷售總監 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43825/">[混凝土世界 2023] EOS 360 - 普林斯頓技術學院</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43825/">[混凝土世界 2023] EOS 360 - 普林斯頓技術學院</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>普林斯頓技術學院 在 混凝土世界 2023 處展示了 EOS 360。</p>
 </p>
@@ -626,30 +499,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-43.jpg"></div>
 <div class="caption_text">這就是典型的應用程序，您將再次在 princetontech.com 上看到 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43825/">[混凝土世界 2023] EOS 360 - 普林斯頓技術學院</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43825/">[混凝土世界 2023] EOS 360 - 普林斯頓技術學院</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43825/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43825</post-id>
-		<media:content url="https://www.youtube.com/embed/vEc87EsQ_qw" duration="62">
-			<media:player url="https://www.youtube.com/embed/vEc87EsQ_qw" />
-			<media:title type="html">[混凝土世界 2023] EOS 360 - 普林斯頓技術學院 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] EOS 360 - 普林斯頓技術學院 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/vec87esq_qw.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_08-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43825</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡</title>
 		<link>/contents/43827/</link>
@@ -661,10 +518,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43827</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43827</guid>
 
 					<description><![CDATA[<p>內陸防水布和襯裡 在 混凝土世界 2023 處展示了 ITL RCR鋼筋混凝土輥。 大家好，我叫 Willia [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43827/">[混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43827/">[混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>內陸防水布和襯裡 在 混凝土世界 2023 處展示了 ITL RCR鋼筋混凝土輥。</p>
 </p>
@@ -732,39 +589,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-113.jpg"></div>
 <div class="caption_text">我叫 William Powell，是我所在地區的業務發展經理。   </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43827/">[混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43827/">[混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43827/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43827</post-id>
-		<media:content url="https://www.youtube.com/embed/i0Pw1k7wjpU" duration="121">
-			<media:player url="https://www.youtube.com/embed/i0Pw1k7wjpU" />
-			<media:title type="html">[混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] ITL RCR鋼筋混凝土輥 - 內陸防水布和襯裡 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/i0pw1k7wjpu.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_09-113.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43827</post-id>	</item>
 		<item>
 		<title>[混凝土世界 2023] 混凝土接縫 - PSCS</title>
 		<link>/contents/43829/</link>
@@ -776,10 +608,10 @@
 		<category><![CDATA[混凝土世界 2023]]></category>
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43829</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43829</guid>
 
 					<description><![CDATA[<p>PSCS 在 混凝土世界 2023 處展示了 混凝土接縫。 你好，我叫安迪·韋克福德。我代表 Hengelho [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43829/">[混凝土世界 2023] 混凝土接縫 - PSCS</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43829/">[混凝土世界 2023] 混凝土接縫 - PSCS</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>PSCS 在 混凝土世界 2023 處展示了 混凝土接縫。</p>
 </p>
@@ -811,29 +643,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-64.jpg"></div>
 <div class="caption_text">所以我們是 PCS CS，希望您可以在我們的網站上查看我們。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43829/">[混凝土世界 2023] 混凝土接縫 - PSCS</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43829/">[混凝土世界 2023] 混凝土接縫 - PSCS</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43829/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43829</post-id>
-		<media:content url="https://www.youtube.com/embed/oeBYFaQZsnA" duration="80">
-			<media:player url="https://www.youtube.com/embed/oeBYFaQZsnA" />
-			<media:title type="html">[混凝土世界 2023] 混凝土接縫 - PSCS &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [混凝土世界 2023] 混凝土接縫 - PSCS &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/oebyfaqzsna.jpg" />
-			<media:keywords>建築/施工,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/worldofconcrete_2023_01/worldofconcrete_2023_01_10-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43829</post-id>	</item>
 	</channel>
 </rss>

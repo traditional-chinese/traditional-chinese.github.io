@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年亞洲未來交通展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年亞洲未來交通展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/2022-%E5%B9%B4%E4%BA%9E%E6%B4%B2%E6%9C%AA%E4%BE%86%E4%BA%A4%E9%80%9A%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/2022-年亞洲未來交通展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 29 Aug 2022 06:50:14 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年亞洲未來交通展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年亞洲未來交通展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/2022-年亞洲未來交通展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[2022 年亞洲未來交通展] 移動交易 - BEEP 波動率</title>
 		<link>/contents/41722/</link>
 					<comments>/contents/41722/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41722</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41722</guid>
 
 					<description><![CDATA[<p>BEEP 波動率 在 2022 年亞洲未來交通展 處展示了 移動交易。 嗨，我的名字是克里斯托弗。我是 Bee [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41722/">[2022 年亞洲未來交通展] 移動交易 - BEEP 波動率</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41722/">[2022 年亞洲未來交通展] 移動交易 - BEEP 波動率</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>BEEP 波動率 在 2022 年亞洲未來交通展 處展示了 移動交易。</p>
 </p>
@@ -104,37 +101,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-14.jpg"></div>
 <div class="caption_text">以及汽車製造商。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41722/">[2022 年亞洲未來交通展] 移動交易 - BEEP 波動率</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41722/">[2022 年亞洲未來交通展] 移動交易 - BEEP 波動率</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41722/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41722</post-id>
-		<media:content url="https://www.youtube.com/embed/6Ff-syWDf2Y" duration="98">
-			<media:player url="https://www.youtube.com/embed/6Ff-syWDf2Y" />
-			<media:title type="html">[2022 年亞洲未來交通展] 移動交易 - BEEP 波動率 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 移動交易 - BEEP 波動率 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/6ff-sywdf2y.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_01-14.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41722</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯</title>
 		<link>/contents/41724/</link>
@@ -146,10 +120,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41724</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41724</guid>
 
 					<description><![CDATA[<p>普利姆斯 在 2022 年亞洲未來交通展 處展示了 伏特城電動車。 我們的 VOLT 品牌由 EV Primu [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41724/">[2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41724/">[2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>普利姆斯 在 2022 年亞洲未來交通展 處展示了 伏特城電動車。</p>
 </p>
@@ -205,36 +179,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-13.jpg"></div>
 <div class="caption_text">我們有售後服務，因為有服務中心支持。<br />並且有一個 24 小時呼叫中心尋求幫助。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41724/">[2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41724/">[2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41724/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41724</post-id>
-		<media:content url="https://www.youtube.com/embed/w20igNVpq9o" duration="97">
-			<media:player url="https://www.youtube.com/embed/w20igNVpq9o" />
-			<media:title type="html">[2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 伏特城電動車 - 普利姆斯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/w20ignvpq9o.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_02-13.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41724</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 電動滑板車 - ECLIMO</title>
 		<link>/contents/41726/</link>
@@ -246,10 +198,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41726</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41726</guid>
 
 					<description><![CDATA[<p>ECLIMO 在 2022 年亞洲未來交通展 處展示了 電動滑板車。 你好，我是來自 Eclimo 公司的丹妮 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41726/">[2022 年亞洲未來交通展] 電動滑板車 - ECLIMO</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41726/">[2022 年亞洲未來交通展] 電動滑板車 - ECLIMO</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>ECLIMO 在 2022 年亞洲未來交通展 處展示了 電動滑板車。</p>
 </p>
@@ -309,37 +261,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-14.jpg"></div>
 <div class="caption_text">您只需花五分鐘即可更換輪胎。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41726/">[2022 年亞洲未來交通展] 電動滑板車 - ECLIMO</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41726/">[2022 年亞洲未來交通展] 電動滑板車 - ECLIMO</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41726/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41726</post-id>
-		<media:content url="https://www.youtube.com/embed/VkZePcFR90o" duration="99">
-			<media:player url="https://www.youtube.com/embed/VkZePcFR90o" />
-			<media:title type="html">[2022 年亞洲未來交通展] 電動滑板車 - ECLIMO &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 電動滑板車 - ECLIMO &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/vkzepcfr90o.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_03-14.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41726</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 激光設備 - 通快</title>
 		<link>/contents/41728/</link>
@@ -351,10 +280,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41728</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41728</guid>
 
 					<description><![CDATA[<p>通快 在 2022 年亞洲未來交通展 處展示了 激光設備。 歡迎大家光臨通快展位。我代表通快東南亞。我們正在銷 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41728/">[2022 年亞洲未來交通展] 激光設備 - 通快</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41728/">[2022 年亞洲未來交通展] 激光設備 - 通快</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>通快 在 2022 年亞洲未來交通展 處展示了 激光設備。</p>
 </p>
@@ -394,32 +323,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-9.jpg"></div>
 <div class="caption_text">我們通過本地銷售和本地服務為您提供支持。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41728/">[2022 年亞洲未來交通展] 激光設備 - 通快</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41728/">[2022 年亞洲未來交通展] 激光設備 - 通快</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41728/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41728</post-id>
-		<media:content url="https://www.youtube.com/embed/njCNqfewOCg" duration="67">
-			<media:player url="https://www.youtube.com/embed/njCNqfewOCg" />
-			<media:title type="html">[2022 年亞洲未來交通展] 激光設備 - 通快 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 激光設備 - 通快 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/njcnqfewocg.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_04-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41728</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 車輛防火 - 大佛更多</title>
 		<link>/contents/41730/</link>
@@ -431,10 +342,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41730</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41730</guid>
 
 					<description><![CDATA[<p>大佛更多 在 2022 年亞洲未來交通展 處展示了 車輛防火。 所以，這就是達佛的展位。我們在曼谷的 Futu [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41730/">[2022 年亞洲未來交通展] 車輛防火 - 大佛更多</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41730/">[2022 年亞洲未來交通展] 車輛防火 - 大佛更多</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>大佛更多 在 2022 年亞洲未來交通展 處展示了 車輛防火。</p>
 </p>
@@ -526,45 +437,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-26.jpg"></div>
 <div class="caption_text">以防電纜損壞或系統發生故障。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41730/">[2022 年亞洲未來交通展] 車輛防火 - 大佛更多</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41730/">[2022 年亞洲未來交通展] 車輛防火 - 大佛更多</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41730/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41730</post-id>
-		<media:content url="https://www.youtube.com/embed/-CoEEMLcev8" duration="187">
-			<media:player url="https://www.youtube.com/embed/-CoEEMLcev8" />
-			<media:title type="html">[2022 年亞洲未來交通展] 車輛防火 - 大佛更多 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 車輛防火 - 大佛更多 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/coeemlcev8.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_05-26.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41730</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 電動摩托車 - 離子</title>
 		<link>/contents/41732/</link>
@@ -576,10 +456,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41732</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41732</guid>
 
 					<description><![CDATA[<p>離子 在 2022 年亞洲未來交通展 處展示了 電動摩托車。 嗨，我的名字是詹姆斯。我是 ION Mobili [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41732/">[2022 年亞洲未來交通展] 電動摩托車 - 離子</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41732/">[2022 年亞洲未來交通展] 電動摩托車 - 離子</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>離子 在 2022 年亞洲未來交通展 處展示了 電動摩托車。</p>
 </p>
@@ -627,34 +507,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-11.jpg"></div>
 <div class="caption_text">我們一定會很好地支持他們。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41732/">[2022 年亞洲未來交通展] 電動摩托車 - 離子</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41732/">[2022 年亞洲未來交通展] 電動摩托車 - 離子</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41732/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41732</post-id>
-		<media:content url="https://www.youtube.com/embed/TdkQD_allBc" duration="80">
-			<media:player url="https://www.youtube.com/embed/TdkQD_allBc" />
-			<media:title type="html">[2022 年亞洲未來交通展] 電動摩托車 - 離子 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 電動摩托車 - 離子 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/tdkqd_allbc.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_06-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41732</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能</title>
 		<link>/contents/41734/</link>
@@ -666,10 +526,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41734</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41734</guid>
 
 					<description><![CDATA[<p>天能 在 2022 年亞洲未來交通展 處展示了 鉛酸和鋰離子電池。 這是來自中國的天能集團，我們是中國電池行業 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41734/">[2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41734/">[2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>天能 在 2022 年亞洲未來交通展 處展示了 鉛酸和鋰離子電池。</p>
 </p>
@@ -733,38 +593,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-17.jpg"></div>
 <div class="caption_text">這裡的小電池是用於短期運輸的。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41734/">[2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41734/">[2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41734/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41734</post-id>
-		<media:content url="https://www.youtube.com/embed/oGo3WF9oDHw" duration="126">
-			<media:player url="https://www.youtube.com/embed/oGo3WF9oDHw" />
-			<media:title type="html">[2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 鉛酸和鋰離子電池 - 天能 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/ogo3wf9odhw.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_07-17.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41734</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特</title>
 		<link>/contents/41736/</link>
@@ -776,10 +612,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41736</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41736</guid>
 
 					<description><![CDATA[<p>澤利奧特 在 2022 年亞洲未來交通展 處展示了 移動解決方案。 大家好。這是阿諾普。我是 Zeliot C [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41736/">[2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41736/">[2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>澤利奧特 在 2022 年亞洲未來交通展 處展示了 移動解決方案。</p>
 </p>
@@ -843,38 +679,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-15.jpg"></div>
 <div class="caption_text">謝謝你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41736/">[2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41736/">[2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41736/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41736</post-id>
-		<media:content url="https://www.youtube.com/embed/IqKytYVjsZE" duration="107">
-			<media:player url="https://www.youtube.com/embed/IqKytYVjsZE" />
-			<media:title type="html">[2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 移動解決方案 - 澤利奧特 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/iqkytyvjsze.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_08-15.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41736</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM</title>
 		<link>/contents/41738/</link>
@@ -886,10 +698,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41738</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41738</guid>
 
 					<description><![CDATA[<p>FOMM 在 2022 年亞洲未來交通展 處展示了 緊湊型電動汽車。 我來自泰國的 FOMM Asia。我們總 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41738/">[2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41738/">[2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>FOMM 在 2022 年亞洲未來交通展 處展示了 緊湊型電動汽車。</p>
 </p>
@@ -949,37 +761,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-14.jpg"></div>
 <div class="caption_text">我們將我們的服務團隊派往泰國各地的客戶所在地。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41738/">[2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41738/">[2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41738/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41738</post-id>
-		<media:content url="https://www.youtube.com/embed/N2_VKfG10Q8" duration="104">
-			<media:player url="https://www.youtube.com/embed/N2_VKfG10Q8" />
-			<media:title type="html">[2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 緊湊型電動汽車 - FOMM &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/n2_vkfg10q8.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_09-14.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41738</post-id>	</item>
 		<item>
 		<title>[2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活</title>
 		<link>/contents/41740/</link>
@@ -991,10 +780,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[泰國]]></category>
-		<guid isPermaLink="false">/?p=41740</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41740</guid>
 
 					<description><![CDATA[<p>GEKO生活 在 2022 年亞洲未來交通展 處展示了 時尚（電動摩托車）。 我們是我們公司 Geko Lif [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41740/">[2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41740/">[2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>GEKO生活 在 2022 年亞洲未來交通展 處展示了 時尚（電動摩托車）。</p>
 </p>
@@ -1034,31 +823,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-9.jpg"></div>
 <div class="caption_text">因為這輛車是使用節能車輛的一種選擇，而且它是環保的。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41740/">[2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41740/">[2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41740/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41740</post-id>
-		<media:content url="https://www.youtube.com/embed/PjzBWsivuH0" duration="66">
-			<media:player url="https://www.youtube.com/embed/PjzBWsivuH0" />
-			<media:title type="html">[2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年亞洲未來交通展] 時尚（電動摩托車） - GEKO生活 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/08/pjzbwsivuh0.jpg" />
-			<media:keywords>機械/工業技術,泰國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/future-mobility_asia_2022_07/future-mobility_asia_2022_07_10-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41740</post-id>	</item>
 	</channel>
 </rss>

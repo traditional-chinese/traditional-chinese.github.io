@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>信息通信 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>信息通信 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/%E4%BF%A1%E6%81%AF%E9%80%9A%E4%BF%A1-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/信息通信-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 30 Jun 2022 03:02:42 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>信息通信 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>信息通信 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/信息通信-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd.</title>
 		<link>/contents/41055/</link>
 					<comments>/contents/41055/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41055</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41055</guid>
 
 					<description><![CDATA[<p>JTS Professional Co., Ltd. 在 信息通信 2022 處展示了 麥克風系統。 #Exh [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41055/">[信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41055/">[信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>JTS Professional Co., Ltd. 在 信息通信 2022 處展示了 麥克風系統。</p>
 <p>#Exhibition #Tokyo Big Sight #Makuhari Messe #Pacifico Yokohama</p>
@@ -106,37 +103,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-106.jpg"></div>
 <div class="caption_text">這允許在麥克風和接收器之間進行近場通信，以便在發射器和接收器之間輕鬆進行無線同步。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41055/">[信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41055/">[信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41055/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41055</post-id>
-		<media:content url="https://www.youtube.com/embed/1g6XN_HmNyw" duration="121">
-			<media:player url="https://www.youtube.com/embed/1g6XN_HmNyw" />
-			<media:title type="html">[信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 麥克風系統 - JTS Professional Co., Ltd. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/1g6xn_hmnyw.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_01-106.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41055</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司</title>
 		<link>/contents/41057/</link>
@@ -150,10 +124,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41057</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41057</guid>
 
 					<description><![CDATA[<p>Broadata 通信公司 在 信息通信 2022 處展示了 醫療設備無線傳輸。 您好，通過廣泛的數據通信，我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41057/">[信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41057/">[信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Broadata 通信公司 在 信息通信 2022 處展示了 醫療設備無線傳輸。</p>
 </p>
@@ -197,33 +171,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-106.jpg"></div>
 <div class="caption_text">在過去的 15 年中，Broad data Technology 一直是醫療製造領域的專家，與世界頂級 OEM 製造商合作。謝謝你。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41057/">[信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41057/">[信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41057/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41057</post-id>
-		<media:content url="https://www.youtube.com/embed/ryp-DqKjRtw" duration="119">
-			<media:player url="https://www.youtube.com/embed/ryp-DqKjRtw" />
-			<media:title type="html">[信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 醫療設備無線傳輸 - Broadata 通信公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/ryp-dqkjrtw.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_02-106.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41057</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 閃電控制系統 - 視覺製作公司</title>
 		<link>/contents/41059/</link>
@@ -237,10 +192,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41059</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41059</guid>
 
 					<description><![CDATA[<p>視覺製作公司 在 信息通信 2022 處展示了 閃電控制系統。 歡迎來到視覺製作展台。建築和系統集成項目的照明 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41059/">[信息通信 2022] 閃電控制系統 - 視覺製作公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41059/">[信息通信 2022] 閃電控制系統 - 視覺製作公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>視覺製作公司 在 信息通信 2022 處展示了 閃電控制系統。</p>
 </p>
@@ -276,31 +231,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-64.jpg"></div>
 <div class="caption_text">它將在幾週內推出，這將完成來自荷蘭的視覺製作燈光控制之旅。太感謝了。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41059/">[信息通信 2022] 閃電控制系統 - 視覺製作公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41059/">[信息通信 2022] 閃電控制系統 - 視覺製作公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41059/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41059</post-id>
-		<media:content url="https://www.youtube.com/embed/o9CFSbzYXuc" duration="78">
-			<media:player url="https://www.youtube.com/embed/o9CFSbzYXuc" />
-			<media:title type="html">[信息通信 2022] 閃電控制系統 - 視覺製作公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 閃電控制系統 - 視覺製作公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/o9cfsbzyxuc.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_03-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41059</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司</title>
 		<link>/contents/41061/</link>
@@ -314,10 +252,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41061</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41061</guid>
 
 					<description><![CDATA[<p>上海立威汽車有限公司 在 信息通信 2022 處展示了 360 度相機 COOLPO。 你好，我是 Valer [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41061/">[信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41061/">[信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>上海立威汽車有限公司 在 信息通信 2022 處展示了 360 度相機 COOLPO。</p>
 </p>
@@ -341,28 +279,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-29.jpg"></div>
 <div class="caption_text">您想要關注的區域以及您想要屏蔽的區域。<br />然後你可以在底部找到那個 360 度條，你也可以打開和關閉它。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41061/">[信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41061/">[信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41061/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41061</post-id>
-		<media:content url="https://www.youtube.com/embed/gC5EK9hwWZM" duration="41">
-			<media:player url="https://www.youtube.com/embed/gC5EK9hwWZM" />
-			<media:title type="html">[信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 360 度相機 COOLPO - 上海立威汽車有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/gc5ek9hwwzm.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_04-29.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41061</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 捕獲、流式傳輸、共享 - 抵達</title>
 		<link>/contents/41065/</link>
@@ -376,10 +300,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41065</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41065</guid>
 
 					<description><![CDATA[<p>抵達 在 信息通信 2022 處展示了 捕獲、流式傳輸、共享。 嘿，我是 AJ，我們在 Reach 的 Inf [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41065/">[信息通信 2022] 捕獲、流式傳輸、共享 - 抵達</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41065/">[信息通信 2022] 捕獲、流式傳輸、共享 - 抵達</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>抵達 在 信息通信 2022 處展示了 捕獲、流式傳輸、共享。</p>
 </p>
@@ -435,36 +359,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-85.jpg"></div>
 <div class="caption_text">同樣，它是一個端到端的解決方案，讓您知道錄製和捕捉，然後與碰巧的觀眾分享內容。謝謝你。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41065/">[信息通信 2022] 捕獲、流式傳輸、共享 - 抵達</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41065/">[信息通信 2022] 捕獲、流式傳輸、共享 - 抵達</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41065/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41065</post-id>
-		<media:content url="https://www.youtube.com/embed/lTMXGG5CmVs" duration="97">
-			<media:player url="https://www.youtube.com/embed/lTMXGG5CmVs" />
-			<media:title type="html">[信息通信 2022] 捕獲、流式傳輸、共享 - 抵達 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 捕獲、流式傳輸、共享 - 抵達 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/ltmxgg5cmvs.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_06-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41065</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 定制泡沫 - MyCaseBuilder</title>
 		<link>/contents/41063/</link>
@@ -478,10 +380,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41063</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41063</guid>
 
 					<description><![CDATA[<p>MyCaseBuilder 在 信息通信 2022 處展示了 定制泡沫。 嗨，我是您在線設計的“我的案例製造商 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41063/">[信息通信 2022] 定制泡沫 - MyCaseBuilder</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41063/">[信息通信 2022] 定制泡沫 - MyCaseBuilder</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>MyCaseBuilder 在 信息通信 2022 處展示了 定制泡沫。</p>
 </p>
@@ -513,30 +415,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-43.jpg"></div>
 <div class="caption_text">因此，可能性是無窮無盡的，感謝您訪問我的案件建設者。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41063/">[信息通信 2022] 定制泡沫 - MyCaseBuilder</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41063/">[信息通信 2022] 定制泡沫 - MyCaseBuilder</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41063/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41063</post-id>
-		<media:content url="https://www.youtube.com/embed/Rt7V3a-s1N8" duration="56">
-			<media:player url="https://www.youtube.com/embed/Rt7V3a-s1N8" />
-			<media:title type="html">[信息通信 2022] 定制泡沫 - MyCaseBuilder &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 定制泡沫 - MyCaseBuilder &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/rt7v3a-s1n8.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_05-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41063</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc.</title>
 		<link>/contents/41067/</link>
@@ -550,10 +436,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41067</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41067</guid>
 
 					<description><![CDATA[<p>Macnica Americas, Inc. 在 信息通信 2022 處展示了 IPMX：IP 上的 AV。  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41067/">[信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41067/">[信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Macnica Americas, Inc. 在 信息通信 2022 處展示了 IPMX：IP 上的 AV。</p>
 </p>
@@ -589,31 +475,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-57.jpg"></div>
 <div class="caption_text">這是發送端的視頻，這是接收端的視頻。如您所見，它具有低延遲。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41067/">[信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41067/">[信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41067/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41067</post-id>
-		<media:content url="https://www.youtube.com/embed/aQ5kGXEXfnU" duration="74">
-			<media:player url="https://www.youtube.com/embed/aQ5kGXEXfnU" />
-			<media:title type="html">[信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] IPMX：IP 上的 AV - Macnica Americas, Inc. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/aq5kgxexfnu.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_07-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41067</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 音頻和聲學測量 - NTI 音頻公司</title>
 		<link>/contents/41069/</link>
@@ -627,10 +496,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41069</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41069</guid>
 
 					<description><![CDATA[<p>NTI 音頻公司 在 信息通信 2022 處展示了 音頻和聲學測量。 您好，您好，歡迎來到 Infocomm  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41069/">[信息通信 2022] 音頻和聲學測量 - NTI 音頻公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41069/">[信息通信 2022] 音頻和聲學測量 - NTI 音頻公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>NTI 音頻公司 在 信息通信 2022 處展示了 音頻和聲學測量。</p>
 </p>
@@ -654,28 +523,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-29.jpg"></div>
 <div class="caption_text">謝謝你。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41069/">[信息通信 2022] 音頻和聲學測量 - NTI 音頻公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41069/">[信息通信 2022] 音頻和聲學測量 - NTI 音頻公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41069/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41069</post-id>
-		<media:content url="https://www.youtube.com/embed/HLdEJ7pwcKI" duration="38">
-			<media:player url="https://www.youtube.com/embed/HLdEJ7pwcKI" />
-			<media:title type="html">[信息通信 2022] 音頻和聲學測量 - NTI 音頻公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 音頻和聲學測量 - NTI 音頻公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/hldej7pwcki.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_08-29.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41069</post-id>	</item>
 		<item>
 		<title>[信息通信 2022] 監控系統 - 聽到技術</title>
 		<link>/contents/41071/</link>
@@ -689,10 +544,10 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=41071</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41071</guid>
 
 					<description><![CDATA[<p>聽到技術 在 信息通信 2022 處展示了 監控系統。 我是“聽覺技術”的高級設計工程師 Nason Tack [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41071/">[信息通信 2022] 監控系統 - 聽到技術</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41071/">[信息通信 2022] 監控系統 - 聽到技術</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>聽到技術 在 信息通信 2022 處展示了 監控系統。</p>
 </p>
@@ -824,54 +679,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-260.jpg"></div>
 <div class="caption_text">heretechnologies.com。<br />我們也在社交媒體 twitter Facebook Instagram 上，謝謝。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41071/">[信息通信 2022] 監控系統 - 聽到技術</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41071/">[信息通信 2022] 監控系統 - 聽到技術</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41071/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41071</post-id>
-		<media:content url="https://www.youtube.com/embed/tr_1OunzFhQ" duration="273">
-			<media:player url="https://www.youtube.com/embed/tr_1OunzFhQ" />
-			<media:title type="html">[信息通信 2022] 監控系統 - 聽到技術 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [信息通信 2022] 監控系統 - 聽到技術 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/06/tr_1ounzfhq.jpg" />
-			<media:keywords>信息/電信,基礎產業,服務,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-183.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-190.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-197.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-204.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-211.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-225.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-232.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-239.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-246.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-253.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/infocommshow_2022/infocommshow_2022_09-260.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41071</post-id>	</item>
 	</channel>
 </rss>

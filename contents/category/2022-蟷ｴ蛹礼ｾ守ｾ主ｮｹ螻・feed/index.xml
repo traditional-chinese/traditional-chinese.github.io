@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/2022-%E5%B9%B4%E5%8C%97%E7%BE%8E%E7%BE%8E%E5%AE%B9%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/2022-年北美美容展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 25 Jul 2022 07:55:42 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/2022-年北美美容展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[2022 年北美美容展] 美容儀器 - ACE-TEC</title>
 		<link>/contents/41382/</link>
 					<comments>/contents/41382/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41382</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41382</guid>
 
 					<description><![CDATA[<p>ACE-TEC 在 2022 年北美美容展 處展示了 美容儀器。 大家好，今天我代表 ace tech 我們是 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41382/">[2022 年北美美容展] 美容儀器 - ACE-TEC</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41382/">[2022 年北美美容展] 美容儀器 - ACE-TEC</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>ACE-TEC 在 2022 年北美美容展 處展示了 美容儀器。</p>
 </p>
@@ -73,29 +70,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-6.jpg"></div>
 <div class="caption_text">並且真的很享受只是查看行業的最新動態    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41382/">[2022 年北美美容展] 美容儀器 - ACE-TEC</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41382/">[2022 年北美美容展] 美容儀器 - ACE-TEC</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41382/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41382</post-id>
-		<media:content url="https://www.youtube.com/embed/Y_4jSUzWoBg" duration="49">
-			<media:player url="https://www.youtube.com/embed/Y_4jSUzWoBg" />
-			<media:title type="html">[2022 年北美美容展] 美容儀器 - ACE-TEC &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 美容儀器 - ACE-TEC &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/y_4jsuzwobg.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_01-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41382</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 德國美女 - 格斯克</title>
 		<link>/contents/41384/</link>
@@ -108,10 +90,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41384</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41384</guid>
 
 					<description><![CDATA[<p>格斯克 在 2022 年北美美容展 處展示了 德國美女。 您好，歡迎來到 Geske，我是 gesca Ger [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41384/">[2022 年北美美容展] 德國美女 - 格斯克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41384/">[2022 年北美美容展] 德國美女 - 格斯克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>格斯克 在 2022 年北美美容展 處展示了 德國美女。</p>
 </p>
@@ -151,32 +133,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-9.jpg"></div>
 <div class="caption_text">教程內容個性化的例程，指導您確保滿足所有需求    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41384/">[2022 年北美美容展] 德國美女 - 格斯克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41384/">[2022 年北美美容展] 德國美女 - 格斯克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41384/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41384</post-id>
-		<media:content url="https://www.youtube.com/embed/x9zWWmvigyY" duration="69">
-			<media:player url="https://www.youtube.com/embed/x9zWWmvigyY" />
-			<media:title type="html">[2022 年北美美容展] 德國美女 - 格斯克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 德國美女 - 格斯克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/x9zwwmvigyy.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_02-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41384</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 頭髮護理 - 盧塞塔</title>
 		<link>/contents/41386/</link>
@@ -189,10 +153,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41386</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41386</guid>
 
 					<description><![CDATA[<p>盧塞塔 在 2022 年北美美容展 處展示了 頭髮護理。 嗨，我是黃褐色，我代表 lucetta 美妝，嗯，我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41386/">[2022 年北美美容展] 頭髮護理 - 盧塞塔</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41386/">[2022 年北美美容展] 頭髮護理 - 盧塞塔</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>盧塞塔 在 2022 年北美美容展 處展示了 頭髮護理。</p>
 </p>
@@ -240,34 +204,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-11.jpg"></div>
 <div class="caption_text">如果您還沒有聽說過我們，請務必查看我們    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41386/">[2022 年北美美容展] 頭髮護理 - 盧塞塔</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41386/">[2022 年北美美容展] 頭髮護理 - 盧塞塔</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41386/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41386</post-id>
-		<media:content url="https://www.youtube.com/embed/8dFMqlazrBU" duration="83">
-			<media:player url="https://www.youtube.com/embed/8dFMqlazrBU" />
-			<media:title type="html">[2022 年北美美容展] 頭髮護理 - 盧塞塔 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 頭髮護理 - 盧塞塔 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/8dfmqlazrbu.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_03-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41386</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 髮型產品 - 妮基·克拉克</title>
 		<link>/contents/41390/</link>
@@ -280,10 +224,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41390</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41390</guid>
 
 					<description><![CDATA[<p>妮基·克拉克 在 2022 年北美美容展 處展示了 髮型產品。 你好，我們是 Nicky Clarke，我們有 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41390/">[2022 年北美美容展] 髮型產品 - 妮基·克拉克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41390/">[2022 年北美美容展] 髮型產品 - 妮基·克拉克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>妮基·克拉克 在 2022 年北美美容展 處展示了 髮型產品。</p>
 </p>
@@ -303,27 +247,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_05-4.jpg"></div>
 <div class="caption_text">歐洲市場以及很快在南非首次亮相，並有望很快在美國市場亮相    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41390/">[2022 年北美美容展] 髮型產品 - 妮基·克拉克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41390/">[2022 年北美美容展] 髮型產品 - 妮基·克拉克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41390/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41390</post-id>
-		<media:content url="https://www.youtube.com/embed/XCxPrjQNo-s" duration="36">
-			<media:player url="https://www.youtube.com/embed/XCxPrjQNo-s" />
-			<media:title type="html">[2022 年北美美容展] 髮型產品 - 妮基·克拉克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 髮型產品 - 妮基·克拉克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/xcxprjqno-s.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_05-4.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41390</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 頭髮專家 - K89</title>
 		<link>/contents/41388/</link>
@@ -336,10 +267,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41388</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41388</guid>
 
 					<description><![CDATA[<p>K89 在 2022 年北美美容展 處展示了 頭髮專家。 嗨，我的名字是 Pilar Quirante，我在西 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41388/">[2022 年北美美容展] 頭髮專家 - K89</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41388/">[2022 年北美美容展] 頭髮專家 - K89</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>K89 在 2022 年北美美容展 處展示了 頭髮專家。</p>
 </p>
@@ -363,28 +294,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-6.jpg"></div>
 <div class="caption_text">我們的網站是k89 我在等你謝謝    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41388/">[2022 年北美美容展] 頭髮專家 - K89</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41388/">[2022 年北美美容展] 頭髮專家 - K89</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41388/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41388</post-id>
-		<media:content url="https://www.youtube.com/embed/B4fuplaPngk" duration="43">
-			<media:player url="https://www.youtube.com/embed/B4fuplaPngk" />
-			<media:title type="html">[2022 年北美美容展] 頭髮專家 - K89 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 頭髮專家 - K89 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/b4fuplapngk.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_04-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41388</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 製造商公司 - 定期實驗室</title>
 		<link>/contents/41392/</link>
@@ -397,10 +314,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41392</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41392</guid>
 
 					<description><![CDATA[<p>定期實驗室 在 2022 年北美美容展 處展示了 製造商公司。 嗨，我是 Serena，我在周期性實驗室參與營 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41392/">[2022 年北美美容展] 製造商公司 - 定期實驗室</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41392/">[2022 年北美美容展] 製造商公司 - 定期實驗室</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>定期實驗室 在 2022 年北美美容展 處展示了 製造商公司。</p>
 </p>
@@ -508,49 +425,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-27.jpg"></div>
 <div class="caption_text">不是我們得到的唯一產品我們還有更多產品所以請加入我們謝謝再見    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41392/">[2022 年北美美容展] 製造商公司 - 定期實驗室</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41392/">[2022 年北美美容展] 製造商公司 - 定期實驗室</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41392/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41392</post-id>
-		<media:content url="https://www.youtube.com/embed/_EHPnjt_dVs" duration="195">
-			<media:player url="https://www.youtube.com/embed/_EHPnjt_dVs" />
-			<media:title type="html">[2022 年北美美容展] 製造商公司 - 定期實驗室 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 製造商公司 - 定期實驗室 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/ehpnjt_dvs.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-25.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-26.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_06-27.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41392</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 皮膚護理 - 釜山</title>
 		<link>/contents/41394/</link>
@@ -563,10 +445,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41394</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41394</guid>
 
 					<description><![CDATA[<p>釜山 在 2022 年北美美容展 處展示了 皮膚護理。 你好，我叫 hayan yoon，我是中央辦公室主任， [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41394/">[2022 年北美美容展] 皮膚護理 - 釜山</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41394/">[2022 年北美美容展] 皮膚護理 - 釜山</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>釜山 在 2022 年北美美容展 處展示了 皮膚護理。</p>
 </p>
@@ -634,39 +516,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-18.jpg"></div>
 <div class="caption_text">非常歡迎所有來自美國的買家非常感謝非常感謝    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41394/">[2022 年北美美容展] 皮膚護理 - 釜山</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41394/">[2022 年北美美容展] 皮膚護理 - 釜山</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41394/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41394</post-id>
-		<media:content url="https://www.youtube.com/embed/1gGyegWVSng" duration="134">
-			<media:player url="https://www.youtube.com/embed/1gGyegWVSng" />
-			<media:title type="html">[2022 年北美美容展] 皮膚護理 - 釜山 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 皮膚護理 - 釜山 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/1ggyegwvsng.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_07-18.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41394</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 皮膚護理 - 宇宙生活</title>
 		<link>/contents/41396/</link>
@@ -679,10 +536,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41396</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41396</guid>
 
 					<description><![CDATA[<p>宇宙生活 在 2022 年北美美容展 處展示了 皮膚護理。 嗨，我叫 daria，我正在為土耳其的 Cosmo [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41396/">[2022 年北美美容展] 皮膚護理 - 宇宙生活</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41396/">[2022 年北美美容展] 皮膚護理 - 宇宙生活</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>宇宙生活 在 2022 年北美美容展 處展示了 皮膚護理。</p>
 </p>
@@ -710,29 +567,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-6.jpg"></div>
 <div class="caption_text">世界上最大的美容和美容展，明年來 cosmoprof las vegas 拜訪我們吧    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41396/">[2022 年北美美容展] 皮膚護理 - 宇宙生活</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41396/">[2022 年北美美容展] 皮膚護理 - 宇宙生活</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41396/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41396</post-id>
-		<media:content url="https://www.youtube.com/embed/U_OJdoJgmFE" duration="55">
-			<media:player url="https://www.youtube.com/embed/U_OJdoJgmFE" />
-			<media:title type="html">[2022 年北美美容展] 皮膚護理 - 宇宙生活 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 皮膚護理 - 宇宙生活 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/u_ojdojgmfe.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_08-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41396</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] SPA、美容、醫療 - 好久不見</title>
 		<link>/contents/41398/</link>
@@ -745,10 +587,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41398</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41398</guid>
 
 					<description><![CDATA[<p>好久不見 在 2022 年北美美容展 處展示了 SPA、美容、醫療。 所以你好呃你好歡迎我們是utsukush [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41398/">[2022 年北美美容展] SPA、美容、醫療 - 好久不見</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41398/">[2022 年北美美容展] SPA、美容、醫療 - 好久不見</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>好久不見 在 2022 年北美美容展 處展示了 SPA、美容、醫療。</p>
 </p>
@@ -784,31 +626,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-9.jpg"></div>
 <div class="caption_text">非常高興和我們的合作夥伴一起來這裡，嗯，我們肯定會回到拉斯維加斯    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41398/">[2022 年北美美容展] SPA、美容、醫療 - 好久不見</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41398/">[2022 年北美美容展] SPA、美容、醫療 - 好久不見</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41398/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41398</post-id>
-		<media:content url="https://www.youtube.com/embed/rwDrW5fcbLA" duration="73">
-			<media:player url="https://www.youtube.com/embed/rwDrW5fcbLA" />
-			<media:title type="html">[2022 年北美美容展] SPA、美容、醫療 - 好久不見 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] SPA、美容、醫療 - 好久不見 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/rwdrw5fcbla.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_09-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41398</post-id>	</item>
 		<item>
 		<title>[2022 年北美美容展] 專業護理 - 專業桁架</title>
 		<link>/contents/41400/</link>
@@ -821,10 +646,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=41400</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41400</guid>
 
 					<description><![CDATA[<p>專業桁架 在 2022 年北美美容展 處展示了 專業護理。 大家好，我的名字是 yana tama 我是教育家 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41400/">[2022 年北美美容展] 專業護理 - 專業桁架</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41400/">[2022 年北美美容展] 專業護理 - 專業桁架</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>專業桁架 在 2022 年北美美容展 處展示了 專業護理。</p>
 </p>
@@ -976,59 +801,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-38.jpg"></div>
 <div class="caption_text">在世界上有一天它改變了我的職業生活，我希望它也會改變你的生活    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41400/">[2022 年北美美容展] 專業護理 - 專業桁架</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41400/">[2022 年北美美容展] 專業護理 - 專業桁架</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41400/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41400</post-id>
-		<media:content url="https://www.youtube.com/embed/FnGidTXyEIk" duration="278">
-			<media:player url="https://www.youtube.com/embed/FnGidTXyEIk" />
-			<media:title type="html">[2022 年北美美容展] 專業護理 - 專業桁架 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2022 年北美美容展] 專業護理 - 專業桁架 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/fngidtxyeik.jpg" />
-			<media:keywords>生活,美國,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-25.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-26.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-27.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-28.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-30.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-31.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-32.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-33.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-34.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-35.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-37.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/cosmoprofnorthamerica_2022_07/cosmoprofnorthamerica_2022_07_10-38.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41400</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2023 國際果蔬展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2023 國際果蔬展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/2023-%E5%9C%8B%E9%9A%9B%E6%9E%9C%E8%94%AC%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/2023-國際果蔬展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 03 Mar 2023 04:31:10 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2023 國際果蔬展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2023 國際果蔬展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/2023-國際果蔬展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省</title>
 		<link>/contents/44279/</link>
 					<comments>/contents/44279/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44279</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44279</guid>
 
 					<description><![CDATA[<p>皮欽查省 在 2023 國際果蔬展 處展示了 牛油果、洋蔥、火龍果、金色漿果。 您好，我們是皮欽查地方政府。我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44279/">[2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44279/">[2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>皮欽查省 在 2023 國際果蔬展 處展示了 牛油果、洋蔥、火龍果、金色漿果。</p>
 </p>
@@ -101,36 +98,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-99.jpg"></div>
 <div class="caption_text">您可以在我們的網站 www.pichincha.gob.ec/ 找到我們 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44279/">[2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44279/">[2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44279/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44279</post-id>
-		<media:content url="https://www.youtube.com/embed/42Oo5MBzVEE" duration="115">
-			<media:player url="https://www.youtube.com/embed/42Oo5MBzVEE" />
-			<media:title type="html">[2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 牛油果、洋蔥、火龍果、金色漿果 - 皮欽查省 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/42oo5mbzvee.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_01-99.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44279</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 百畝果園管理軟件 - 百</title>
 		<link>/contents/44281/</link>
@@ -143,10 +118,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44281</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44281</guid>
 
 					<description><![CDATA[<p>百 在 2023 國際果蔬展 處展示了 百畝果園管理軟件。 您好，我是來自 Hectre Orchard Ma [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44281/">[2023 國際果蔬展] 百畝果園管理軟件 - 百</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44281/">[2023 國際果蔬展] 百畝果園管理軟件 - 百</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>百 在 2023 國際果蔬展 處展示了 百畝果園管理軟件。</p>
 </p>
@@ -174,29 +149,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-43.jpg"></div>
 <div class="caption_text">公頃拼寫為 h-e-c-t-r-e。<br />我們也可以在我們的網站 www.hectre.com/ 上找到 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44281/">[2023 國際果蔬展] 百畝果園管理軟件 - 百</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44281/">[2023 國際果蔬展] 百畝果園管理軟件 - 百</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44281/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44281</post-id>
-		<media:content url="https://www.youtube.com/embed/wK6C5aKtsz0" duration="59">
-			<media:player url="https://www.youtube.com/embed/wK6C5aKtsz0" />
-			<media:title type="html">[2023 國際果蔬展] 百畝果園管理軟件 - 百 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 百畝果園管理軟件 - 百 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/wk6c5aktsz0.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_02-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44281</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 加納芒果 - 亨迪農場</title>
 		<link>/contents/44283/</link>
@@ -209,10 +169,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44283</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44283</guid>
 
 					<description><![CDATA[<p>亨迪農場 在 2023 國際果蔬展 處展示了 加納芒果。 您好，我們是 Hendy Farms。我們是一家位於 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44283/">[2023 國際果蔬展] 加納芒果 - 亨迪農場</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44283/">[2023 國際果蔬展] 加納芒果 - 亨迪農場</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>亨迪農場 在 2023 國際果蔬展 處展示了 加納芒果。</p>
 </p>
@@ -236,28 +196,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-36.jpg"></div>
 <div class="caption_text">或者在 Hendy Farms 等任何社交媒體平台上通過社交媒體聯繫我們。謝謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44283/">[2023 國際果蔬展] 加納芒果 - 亨迪農場</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44283/">[2023 國際果蔬展] 加納芒果 - 亨迪農場</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44283/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44283</post-id>
-		<media:content url="https://www.youtube.com/embed/lY4bf5GjSqU" duration="52">
-			<media:player url="https://www.youtube.com/embed/lY4bf5GjSqU" />
-			<media:title type="html">[2023 國際果蔬展] 加納芒果 - 亨迪農場 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 加納芒果 - 亨迪農場 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/ly4bf5gjsqu.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_03-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44283</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd</title>
 		<link>/contents/44285/</link>
@@ -270,10 +216,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44285</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44285</guid>
 
 					<description><![CDATA[<p>Freshcore Provision Pvt Ltd 在 2023 國際果蔬展 處展示了 超級李子。 我的名 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44285/">[2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44285/">[2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Freshcore Provision Pvt Ltd 在 2023 國際果蔬展 處展示了 超級李子。</p>
 </p>
@@ -329,36 +275,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-99.jpg"></div>
 <div class="caption_text">欲了解更多詳情，請訪問我們的網站。<br />每個客戶都會通過它獲得更多詳細信息。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44285/">[2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44285/">[2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44285/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44285</post-id>
-		<media:content url="https://www.youtube.com/embed/dknU2X7t8H8" duration="111">
-			<media:player url="https://www.youtube.com/embed/dknU2X7t8H8" />
-			<media:title type="html">[2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 超級李子 - Freshcore Provision Pvt Ltd &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/dknu2x7t8h8.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_04-99.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44285</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料</title>
 		<link>/contents/44287/</link>
@@ -371,10 +295,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44287</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44287</guid>
 
 					<description><![CDATA[<p>聯合香料 在 2023 國際果蔬展 處展示了 豆類、糖脆、荷蘭豆的品種。 大家好，我叫艾倫·薩菲。我是 UNI [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44287/">[2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44287/">[2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>聯合香料 在 2023 國際果蔬展 處展示了 豆類、糖脆、荷蘭豆的品種。</p>
 </p>
@@ -406,30 +330,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-50.jpg"></div>
 <div class="caption_text">我們很樂意回答您的任何問題。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44287/">[2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44287/">[2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44287/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44287</post-id>
-		<media:content url="https://www.youtube.com/embed/0aHXrHcn6PI" duration="59">
-			<media:player url="https://www.youtube.com/embed/0aHXrHcn6PI" />
-			<media:title type="html">[2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 豆類、糖脆、荷蘭豆的品種 - 聯合香料 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/0ahxrhcn6pi.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_05-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44287</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納</title>
 		<link>/contents/44289/</link>
@@ -442,10 +350,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44289</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44289</guid>
 
 					<description><![CDATA[<p>椰子聯合會加納 在 2023 國際果蔬展 處展示了 出口乾椰子。 大家好，我是來自加納的 Kwaku Boat [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44289/">[2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44289/">[2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>椰子聯合會加納 在 2023 國際果蔬展 處展示了 出口乾椰子。</p>
 </p>
@@ -481,31 +389,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-50.jpg"></div>
 <div class="caption_text">我們將在椰子產業的每個價值鏈中為您提供幫助。謝謝。  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44289/">[2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44289/">[2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44289/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44289</post-id>
-		<media:content url="https://www.youtube.com/embed/LHaDnsFdzEA" duration="70">
-			<media:player url="https://www.youtube.com/embed/LHaDnsFdzEA" />
-			<media:title type="html">[2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 出口乾椰子 - 椰子聯合會加納 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/lhadnsfdzea.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_06-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44289</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛</title>
 		<link>/contents/44291/</link>
@@ -518,10 +409,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44291</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44291</guid>
 
 					<description><![CDATA[<p>長笛 在 2023 國際果蔬展 處展示了 荷蘭豆、甜豌豆和鱷梨。 大家好，我叫 Luis Fernando T [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44291/">[2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44291/">[2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>長笛 在 2023 國際果蔬展 處展示了 荷蘭豆、甜豌豆和鱷梨。</p>
 </p>
@@ -589,39 +480,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-134.jpg"></div>
 <div class="caption_text">我們很樂意與您聯繫，並希望能一起做一些生意。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44291/">[2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44291/">[2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44291/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44291</post-id>
-		<media:content url="https://www.youtube.com/embed/90Ici-OPrh0" duration="152">
-			<media:player url="https://www.youtube.com/embed/90Ici-OPrh0" />
-			<media:title type="html">[2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 荷蘭豆、甜豌豆和鱷梨 - 長笛 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/90ici-oprh0.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_07-134.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44291</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品</title>
 		<link>/contents/44293/</link>
@@ -634,10 +500,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44293</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44293</guid>
 
 					<description><![CDATA[<p>非洲食品 在 2023 國際果蔬展 處展示了 新鮮豆類、辣椒、百香果和鱷梨。 所以我的名字是 Sakina U [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44293/">[2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44293/">[2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>非洲食品 在 2023 國際果蔬展 處展示了 新鮮豆類、辣椒、百香果和鱷梨。</p>
 </p>
@@ -685,34 +551,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-85.jpg"></div>
 <div class="caption_text">謝謝，期待與您合作。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44293/">[2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44293/">[2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44293/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44293</post-id>
-		<media:content url="https://www.youtube.com/embed/G-jhL2rT7II" duration="96">
-			<media:player url="https://www.youtube.com/embed/G-jhL2rT7II" />
-			<media:title type="html">[2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 新鮮豆類、辣椒、百香果和鱷梨 - 非洲食品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/g-jhl2rt7ii.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_08-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44293</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司</title>
 		<link>/contents/44295/</link>
@@ -725,10 +571,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44295</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44295</guid>
 
 					<description><![CDATA[<p>聯合珍珠出口商有限公司 在 2023 國際果蔬展 處展示了 新鮮水果、蔬菜和異國情調的食物。 大家好，我是De [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44295/">[2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44295/">[2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>聯合珍珠出口商有限公司 在 2023 國際果蔬展 處展示了 新鮮水果、蔬菜和異國情調的食物。</p>
 </p>
@@ -760,30 +606,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-50.jpg"></div>
 <div class="caption_text">非常感謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44295/">[2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44295/">[2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44295/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44295</post-id>
-		<media:content url="https://www.youtube.com/embed/2mkIhTnENFQ" duration="60">
-			<media:player url="https://www.youtube.com/embed/2mkIhTnENFQ" />
-			<media:title type="html">[2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 新鮮水果、蔬菜和異國情調的食物 - 聯合珍珠出口商有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/2mkihtnenfq.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_09-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44295</post-id>	</item>
 		<item>
 		<title>[2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流</title>
 		<link>/contents/44297/</link>
@@ -796,10 +626,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=44297</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44297</guid>
 
 					<description><![CDATA[<p>綠流 在 2023 國際果蔬展 處展示了 大蒜、生薑、柚子、蘋果梨和水果。 大家好，我是濟寧綠溪果蔬有限公司的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44297/">[2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44297/">[2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>綠流 在 2023 國際果蔬展 處展示了 大蒜、生薑、柚子、蘋果梨和水果。</p>
 </p>
@@ -831,29 +661,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-43.jpg"></div>
 <div class="caption_text">我們真誠地希望與您建立密切的關係。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44297/">[2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44297/">[2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44297/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44297</post-id>
-		<media:content url="https://www.youtube.com/embed/tumfei5_xXs" duration="57">
-			<media:player url="https://www.youtube.com/embed/tumfei5_xXs" />
-			<media:title type="html">[2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2023 國際果蔬展] 大蒜、生薑、柚子、蘋果梨和水果 - 綠流 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/tumfei5_xxs.jpg" />
-			<media:keywords>德國,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/fruitlogistica_2023_02/fruitlogistica_2023_02_10-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44297</post-id>	</item>
 	</channel>
 </rss>

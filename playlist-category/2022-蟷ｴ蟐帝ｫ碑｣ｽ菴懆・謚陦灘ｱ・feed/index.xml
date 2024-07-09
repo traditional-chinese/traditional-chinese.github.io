@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年媒體製作與技術展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年媒體製作與技術展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E5%AA%92%E9%AB%94%E8%A3%BD%E4%BD%9C%E8%88%87%E6%8A%80%E8%A1%93%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年媒體製作與技術展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 25 May 2022 04:46:57 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年媒體製作與技術展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年媒體製作與技術展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年媒體製作與技術展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年媒體製作與技術展</title>
 		<link>/playlist/mediaproductionshow_2022/</link>
 					<comments>/playlist/mediaproductionshow_2022/#respond</comments>
@@ -40,23 +37,22 @@
 				<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=40687</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=40687</guid>
 
 					<description><![CDATA[<p>2022年媒體製作與技術展（MPTS 2022）是一個關於所有內容創作的展覽，包括音頻、遠程製作、照明、後期、 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/mediaproductionshow_2022/">2022 年媒體製作與技術展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/mediaproductionshow_2022/">2022 年媒體製作與技術展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>2022年媒體製作與技術展（MPTS 2022）是一個關於所有內容創作的展覽，包括音頻、遠程製作、照明、後期、體育廣播、培訓、製作、虛擬製作等方面的最新技術進步。..</p>
 <p>會議將於 2022 年 5 月 11 日至 12 日為期兩天。地點是倫敦奧林匹亞。</p>
 <p>點擊此處查看 2022 年媒體製作與技術展的官方網站：<br />
 <a href="https://www.mediaproductionshow.com/" target="_blank" rel="noopener">https://www.mediaproductionshow.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/mediaproductionshow_2022/">2022 年媒體製作與技術展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/mediaproductionshow_2022/">2022 年媒體製作與技術展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/mediaproductionshow_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40687</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40687</post-id>	</item>
 	</channel>
 </rss>

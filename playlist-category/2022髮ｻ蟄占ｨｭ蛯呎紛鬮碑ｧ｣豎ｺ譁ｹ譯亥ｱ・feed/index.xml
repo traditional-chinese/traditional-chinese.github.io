@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022電子設備整體解決方案展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022電子設備整體解決方案展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022%E9%9B%BB%E5%AD%90%E8%A8%AD%E5%82%99%E6%95%B4%E9%AB%94%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022電子設備整體解決方案展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 30 Jun 2022 05:38:16 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022電子設備整體解決方案展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022電子設備整體解決方案展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022電子設備整體解決方案展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022電子設備整體解決方案展</title>
 		<link>/playlist/jpca_2022/</link>
 					<comments>/playlist/jpca_2022/#respond</comments>
@@ -40,24 +37,23 @@
 				<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41092</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41092</guid>
 
 					<description><![CDATA[<p>“Electronic Equipment Total Solution Exhibition 2022”是匯 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/jpca_2022/">2022電子設備整體解決方案展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/jpca_2022/">2022電子設備整體解決方案展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Electronic Equipment Total Solution Exhibition 2022”是匯集各類電子、信息通信、控制設備的電子電路及貼裝技術的展覽會。<br />
 組成展有“JPCA Show（國際電子電路工業展覽會）”、“Microelectronics Show（State-of-the-art Mounting Technology / Packaging Exhibition）”、“JIS SO PROTEC（Mounting Process Technology Exhibition）”、“SDGs Device展”、“WIRE Japan Show (Electricity)”。・光傳輸技術展）“JEP / TEP Show”“電子展”“Smart Sensing”“邊緣計算”“Interopt”“ELED Japan”“Imaging Japan”<br />
 會議將於2022年6月15日（星期三）至2022年6月17日（星期五）舉行，為期三天。會場是東京Big Sight</p>
 <p>點擊此處查看2022年電子器件整體解決方案展官網：<br />
 <a href="https://www.jpcashow.com/show2022/index.html" target="_blank" rel="noopener">https://www.jpcashow.com/show2022/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/jpca_2022/">2022電子設備整體解決方案展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/jpca_2022/">2022電子設備整體解決方案展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/jpca_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41092</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41092</post-id>	</item>
 	</channel>
 </rss>

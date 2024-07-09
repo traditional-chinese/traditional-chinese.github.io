@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>机械/工业技术 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>机械/工业技术 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/tag/%E6%9C%BA%E6%A2%B0-%E5%B7%A5%E4%B8%9A%E6%8A%80%E6%9C%AF/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/tag/机械-工业技术/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 02 Sep 2022 03:55:44 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>机械/工业技术 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>机械/工业技术 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/tag/机械-工业技术/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水</title>
 		<link>/contents/41833/</link>
 					<comments>/contents/41833/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41833</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41833</guid>
 
 					<description><![CDATA[<p>电子墨水 在 K-Display 2022（韩国展示展） 处展示了 电子纸展示。 我们是一家名为 E-Ink  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41833/">[K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41833/">[K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>电子墨水 在 K-Display 2022（韩国展示展） 处展示了 电子纸展示。</p>
 </p>
@@ -76,30 +73,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-8.jpg"></div>
 <div class="caption_text">韩国还有很多人不了解E Ink，所以我们第一次参加了这个展会。<br />以本次展会为契机，希望能有更多的人来参观我们的产品，感受我们产品的长处，并对其进行评价，以便使用。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41833/">[K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41833/">[K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41833/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41833</post-id>
-		<media:content url="https://www.youtube.com/embed/ZYzgEx34Buk" duration="69">
-			<media:player url="https://www.youtube.com/embed/ZYzgEx34Buk" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 电子纸展示 - 电子墨水 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/zyzgex34buk.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_01-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41833</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL</title>
 		<link>/contents/41837/</link>
@@ -111,10 +92,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41837</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41837</guid>
 
 					<description><![CDATA[<p>COSWEAL 在 K-Display 2022（韩国展示展） 处展示了 超虚拟网络。 大家好，我是Coswe [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41837/">[K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41837/">[K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>COSWEAL 在 K-Display 2022（韩国展示展） 处展示了 超虚拟网络。</p>
 </p>
@@ -154,32 +135,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-10.jpg"></div>
 <div class="caption_text">请有兴趣观看，谢谢    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41837/">[K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41837/">[K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41837/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41837</post-id>
-		<media:content url="https://www.youtube.com/embed/_DHQ5rcChtI" duration="71">
-			<media:player url="https://www.youtube.com/embed/_DHQ5rcChtI" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 超虚拟网络 - COSWEAL &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/dhq5rcchti.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_03-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41837</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 维格 - 工程师</title>
 		<link>/contents/41835/</link>
@@ -191,10 +154,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41835</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41835</guid>
 
 					<description><![CDATA[<p>工程师 在 K-Display 2022（韩国展示展） 处展示了 维格。 您好，我司是一家主要研发生产半导体后 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41835/">[K-Display 2022（韩国展示展）] 维格 - 工程师</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41835/">[K-Display 2022（韩国展示展）] 维格 - 工程师</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>工程师 在 K-Display 2022（韩国展示展） 处展示了 维格。</p>
 </p>
@@ -230,31 +193,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-10.jpg"></div>
 <div class="caption_text">感谢您对我们的产品感兴趣。谢谢    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41835/">[K-Display 2022（韩国展示展）] 维格 - 工程师</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41835/">[K-Display 2022（韩国展示展）] 维格 - 工程师</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41835/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41835</post-id>
-		<media:content url="https://www.youtube.com/embed/c3hLIH5tAFI" duration="74">
-			<media:player url="https://www.youtube.com/embed/c3hLIH5tAFI" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 维格 - 工程师 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 维格 - 工程师 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/c3hlih5tafi.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_02-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41835</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷</title>
 		<link>/contents/41839/</link>
@@ -266,10 +212,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41839</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41839</guid>
 
 					<description><![CDATA[<p>善捷 在 K-Display 2022（韩国展示展） 处展示了 静电整体解决方案。 我们公司是一家名为SUNJ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41839/">[K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41839/">[K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>善捷 在 K-Display 2022（韩国展示展） 处展示了 静电整体解决方案。</p>
 </p>
@@ -305,31 +251,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-8.jpg"></div>
 <div class="caption_text">感谢您对静电的关注。谢谢你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41839/">[K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41839/">[K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41839/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41839</post-id>
-		<media:content url="https://www.youtube.com/embed/GEYa00go9lo" duration="56">
-			<media:player url="https://www.youtube.com/embed/GEYa00go9lo" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 静电整体解决方案 - 善捷 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/geya00go9lo.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_04-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41839</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器</title>
 		<link>/contents/41843/</link>
@@ -341,10 +270,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41843</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41843</guid>
 
 					<description><![CDATA[<p>连接器 在 K-Display 2022（韩国展示展） 处展示了 干涉式 3d 测量。 您好，我们是一家名为  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41843/">[K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41843/">[K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>连接器 在 K-Display 2022（韩国展示展） 处展示了 干涉式 3d 测量。</p>
 </p>
@@ -380,31 +309,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-9.jpg"></div>
 <div class="caption_text">当您联系我们时，您可以在我们的网站上留下询问。<br />或者您可以通过网站上的电子邮件地址与我们联系，也可以直接与我联系。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41843/">[K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41843/">[K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41843/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41843</post-id>
-		<media:content url="https://www.youtube.com/embed/p6n2s5ibVIk" duration="68">
-			<media:player url="https://www.youtube.com/embed/p6n2s5ibVIk" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 干涉式 3d 测量 - 连接器 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/p6n2s5ibvik.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_06-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41843</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统</title>
 		<link>/contents/41841/</link>
@@ -416,10 +328,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41841</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41841</guid>
 
 					<description><![CDATA[<p>管理系统 在 K-Display 2022（韩国展示展） 处展示了 光学特性测量系统。 您好，我们是一家叫LM [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41841/">[K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41841/">[K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>管理系统 在 K-Display 2022（韩国展示展） 处展示了 光学特性测量系统。</p>
 </p>
@@ -459,32 +371,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-12.jpg"></div>
 <div class="caption_text">谢谢你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41841/">[K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41841/">[K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41841/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41841</post-id>
-		<media:content url="https://www.youtube.com/embed/Dc3PPCOBaO8" duration="88">
-			<media:player url="https://www.youtube.com/embed/Dc3PPCOBaO8" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 光学特性测量系统 - 管理系统 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/dc3ppcobao8.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_05-12.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41841</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示</title>
 		<link>/contents/41845/</link>
@@ -496,10 +390,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41845</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41845</guid>
 
 					<description><![CDATA[<p>清晰的显示 在 K-Display 2022（韩国展示展） 处展示了 定制展示解决方案。 我们是Clear D [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41845/">[K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41845/">[K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>清晰的显示 在 K-Display 2022（韩国展示展） 处展示了 定制展示解决方案。</p>
 </p>
@@ -539,32 +433,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-10.jpg"></div>
 <div class="caption_text">请多多使用我们的产品，未来我们会成长得更多，希望大家多多关注    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41845/">[K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41845/">[K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41845/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41845</post-id>
-		<media:content url="https://www.youtube.com/embed/hpW7KLSHpmI" duration="78">
-			<media:player url="https://www.youtube.com/embed/hpW7KLSHpmI" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 定制展示解决方案 - 清晰的显示 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/hpw7klshpmi.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_07-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41845</post-id>	</item>
 		<item>
 		<title>[K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料</title>
 		<link>/contents/41847/</link>
@@ -576,10 +452,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[机械/工业技术]]></category>
 		<category><![CDATA[韩国]]></category>
-		<guid isPermaLink="false">/?p=41847</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41847</guid>
 
 					<description><![CDATA[<p>默克高性能材料 在 K-Display 2022（韩国展示展） 处展示了 液晶窗。 我想介绍一下默克。默克在德 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41847/">[K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41847/">[K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>默克高性能材料 在 K-Display 2022（韩国展示展） 处展示了 液晶窗。</p>
 </p>
@@ -627,33 +503,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-12.jpg"></div>
 <div class="caption_text">非常感谢。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41847/">[K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41847/">[K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41847/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41847</post-id>
-		<media:content url="https://www.youtube.com/embed/9Rz0FMUi-U8" duration="86">
-			<media:player url="https://www.youtube.com/embed/9Rz0FMUi-U8" />
-			<media:title type="html">[K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [K-Display 2022（韩国展示展）] 液晶窗 - 默克高性能材料 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/09/9rz0fmui-u8.jpg" />
-			<media:keywords>机械/工业技术,韩国</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/k-display_2022_08/k-display_2022_08_08-12.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41847</post-id>	</item>
 	</channel>
 </rss>

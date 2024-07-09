@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>亞洲食品包裝展 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>亞洲食品包裝展 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E4%BA%9E%E6%B4%B2%E9%A3%9F%E5%93%81%E5%8C%85%E8%A3%9D%E5%B1%95-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/亞洲食品包裝展-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 17 May 2022 01:37:36 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>亞洲食品包裝展 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>亞洲食品包裝展 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/亞洲食品包裝展-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>亞洲食品包裝展 2022</title>
 		<link>/playlist/foodpackthai_2022/</link>
 					<comments>/playlist/foodpackthai_2022/#respond</comments>
@@ -39,24 +36,23 @@
 		<pubDate>Mon, 04 Apr 2022 09:00:00 +0000</pubDate>
 				<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/playlist/foodpackthai_2022/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/playlist/foodpackthai_2022/</guid>
 
 					<description><![CDATA[<p>“Food Pack Asia 2022”是泰國食品、飲料和包裝行業機械技術的綜合展覽。 肉類切片機、包裝機、 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodpackthai_2022/">亞洲食品包裝展 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodpackthai_2022/">亞洲食品包裝展 2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Food Pack Asia 2022”是泰國食品、飲料和包裝行業機械技術的綜合展覽。<br />
 肉類切片機、包裝機、立臥式包裝機、膠囊灌裝機、代工、打碼機、條碼打印機、紙盒選選機/封口機/標準型、紙盒機、稱重機/食品包裝、紙盒封口機、吹瓶機成型機、飲用水生產線等</p>
 <p>會議將於 2022 年 4 月 4 日至 2022 年 4 月 7 日舉行，為期四天。地點是曼谷國際貿易展覽中心（BITEC，曼谷）。</p>
 <p>點擊此處查看 Food Pack Asia 2022 官方網站：<br />
 <a href="https://foodpackthai.com/en/home/" target="_blank" rel="noopener">https://foodpackthai.com/en/home/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodpackthai_2022/">亞洲食品包裝展 2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodpackthai_2022/">亞洲食品包裝展 2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/foodpackthai_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40467</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40467</post-id>	</item>
 	</channel>
 </rss>

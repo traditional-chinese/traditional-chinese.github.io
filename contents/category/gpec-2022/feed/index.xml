@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>GPEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>GPEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/gpec-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/gpec-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 29 Jul 2022 06:23:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>GPEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>GPEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/gpec-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[GPEC 2022] GreenPower LED 系列 - CCS 公司</title>
 		<link>/contents/41546/</link>
 					<comments>/contents/41546/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41546</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41546</guid>
 
 					<description><![CDATA[<p>CCS 公司 在 GPEC 2022 處展示了 GreenPower LED 系列。 網站：https://w/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41546/">[GPEC 2022] GreenPower LED 系列 - CCS 公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41546/">[GPEC 2022] GreenPower LED 系列 - CCS 公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>CCS 公司 在 GPEC 2022 處展示了 GreenPower LED 系列。</p>
 <p>網站：<a href="https://www.ccs-inc.co.jp/" target="_blank" rel="noopener">https://www.ccs-inc.co.jp/</a></p>
@@ -81,31 +78,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-11.jpg"></div>
 <div class="caption_text">通過優化解決方案，包括解決方案，我們建議幫助進一步促進生長並避免諸如芯片燒傷等生理障礙。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41546/">[GPEC 2022] GreenPower LED 系列 - CCS 公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41546/">[GPEC 2022] GreenPower LED 系列 - CCS 公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41546/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41546</post-id>
-		<media:content url="https://www.youtube.com/embed/wLdAQvXiGWI" duration="88">
-			<media:player url="https://www.youtube.com/embed/wLdAQvXiGWI" />
-			<media:title type="html">[GPEC 2022] GreenPower LED 系列 - CCS 公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] GreenPower LED 系列 - CCS 公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/wldaqvxigwi.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_01-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41546</post-id>	</item>
 		<item>
 		<title>[GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司</title>
 		<link>/contents/41548/</link>
@@ -118,10 +98,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41548</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41548</guid>
 
 					<description><![CDATA[<p>尼彭公司 在 GPEC 2022 處展示了 連接下一代房屋 Kaonki。 網站：https://www.ne/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41548/">[GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41548/">[GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>尼彭公司 在 GPEC 2022 處展示了 連接下一代房屋 Kaonki。</p>
 <p>網站：<a href="https://www.nepon.co.jp/" target="_blank" rel="noopener">https://www.nepon.co.jp/</a></p>
@@ -157,31 +137,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-10.jpg"></div>
 <div class="caption_text">它是一種產品，可大幅降低燃料成本、減少二氧化碳排放和脫碳。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41548/">[GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41548/">[GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41548/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41548</post-id>
-		<media:content url="https://www.youtube.com/embed/eaB43yKRpDs" duration="84">
-			<media:player url="https://www.youtube.com/embed/eaB43yKRpDs" />
-			<media:title type="html">[GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] 連接下一代房屋 Kaonki - 尼彭公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/eab43ykrpds.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_02-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41548</post-id>	</item>
 		<item>
 		<title>[GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社</title>
 		<link>/contents/41550/</link>
@@ -194,10 +157,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41550</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41550</guid>
 
 					<description><![CDATA[<p>久保田株式會社 在 GPEC 2022 處展示了 枯萎檢測式自動澆水控制系統 Hamirus。 網站：http [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41550/">[GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41550/">[GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>久保田株式會社 在 GPEC 2022 處展示了 枯萎檢測式自動澆水控制系統 Hamirus。</p>
 <p>網站：<a href="https://www.kubota.co.jp/" target="_blank" rel="noopener">https://www.kubota.co.jp/</a></p>
@@ -245,34 +208,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-11.jpg"></div>
 <div class="caption_text">我期待著與您合作。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41550/">[GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41550/">[GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41550/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41550</post-id>
-		<media:content url="https://www.youtube.com/embed/cAgvuRq1Rng" duration="78">
-			<media:player url="https://www.youtube.com/embed/cAgvuRq1Rng" />
-			<media:title type="html">[GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] 枯萎檢測式自動澆水控制系統 Hamirus - 久保田株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/cagvurq1rng.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_03-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41550</post-id>	</item>
 		<item>
 		<title>[GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社</title>
 		<link>/contents/41552/</link>
@@ -285,10 +228,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41552</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41552</guid>
 
 					<description><![CDATA[<p>古田電氣株式會社 在 GPEC 2022 處展示了 顆粒熱風加熱器。 網站：http://www.fulta./ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41552/">[GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41552/">[GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>古田電氣株式會社 在 GPEC 2022 處展示了 顆粒熱風加熱器。</p>
 <p>網站：<a href="http://www.fulta.co.jp/" target="_blank" rel="noopener">http://www.fulta.co.jp/</a></p>
@@ -320,30 +263,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-7.jpg"></div>
 <div class="caption_text">最終，在我們的案例中，顆粒燃燒殆盡，變成了灰燼，使回收變得非常容易。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41552/">[GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41552/">[GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41552/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41552</post-id>
-		<media:content url="https://www.youtube.com/embed/kEWcjjyDgYg" duration="57">
-			<media:player url="https://www.youtube.com/embed/kEWcjjyDgYg" />
-			<media:title type="html">[GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] 顆粒熱風加熱器 - 古田電氣株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/kewcjjydgyg.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_04-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41552</post-id>	</item>
 		<item>
 		<title>[GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司</title>
 		<link>/contents/41554/</link>
@@ -356,10 +283,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41554</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41554</guid>
 
 					<description><![CDATA[<p>洋馬農業日本有限公司 在 GPEC 2022 處展示了 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機。  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41554/">[GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41554/">[GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>洋馬農業日本有限公司 在 GPEC 2022 處展示了 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機。</p>
 <p>網站：<a href="https://www.yanmar.com/jp/agri/products/vegetable/fruit_grader/" target="_blank" rel="noopener">https://www.yanmar.com/jp/agri/products/vegetable/fruit_grader/</a></p>
@@ -431,40 +358,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-20.jpg"></div>
 <div class="caption_text">這將是這台機器的一個特點。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41554/">[GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41554/">[GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41554/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41554</post-id>
-		<media:content url="https://www.youtube.com/embed/PihC0SGXoFg" duration="147">
-			<media:player url="https://www.youtube.com/embed/PihC0SGXoFg" />
-			<media:title type="html">[GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] 配備透射式光學傳感器 鍵盤式水果分揀機 智能分揀機 - 洋馬農業日本有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/pihc0sgxofg.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_05-20.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41554</post-id>	</item>
 		<item>
 		<title>[GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司</title>
 		<link>/contents/41556/</link>
@@ -477,10 +378,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41556</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41556</guid>
 
 					<description><![CDATA[<p>大同企業股份有限公司 在 GPEC 2022 處展示了 商用納米氣泡氫水發生器 SUIREX Agri。 網站 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41556/">[GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41556/">[GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>大同企業股份有限公司 在 GPEC 2022 處展示了 商用納米氣泡氫水發生器 SUIREX Agri。</p>
 <p>網站：<a href="https://www.cosmos-rom.net/" target="_blank" rel="noopener">https://www.cosmos-rom.net/</a></p>
@@ -508,29 +409,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-6.jpg"></div>
 <div class="caption_text">這種氫的抗氧化作用使作物健康生長是非常有特點的。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41556/">[GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41556/">[GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41556/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41556</post-id>
-		<media:content url="https://www.youtube.com/embed/8uYcx35jZQs" duration="49">
-			<media:player url="https://www.youtube.com/embed/8uYcx35jZQs" />
-			<media:title type="html">[GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] 商用納米氣泡氫水發生器 SUIREX Agri - 大同企業股份有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/8uycx35jzqs.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_06-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41556</post-id>	</item>
 		<item>
 		<title>[GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社</title>
 		<link>/contents/41558/</link>
@@ -543,10 +429,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=41558</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41558</guid>
 
 					<description><![CDATA[<p>有光工業株式會社 在 GPEC 2022 處展示了 室溫吸煙室噴霧。 網站：http://www.arimit/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41558/">[GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41558/">[GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>有光工業株式會社 在 GPEC 2022 處展示了 室溫吸煙室噴霧。</p>
 <p>網站：<a href="http://www.arimitsu.co.jp/" target="_blank" rel="noopener">http://www.arimitsu.co.jp/</a></p>
@@ -598,34 +484,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-13.jpg"></div>
 <div class="caption_text">我認為這些產品將來會變得更容易使用。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41558/">[GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41558/">[GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41558/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41558</post-id>
-		<media:content url="https://www.youtube.com/embed/7fhp4CmeLMs" duration="97">
-			<media:player url="https://www.youtube.com/embed/7fhp4CmeLMs" />
-			<media:title type="html">[GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [GPEC 2022] 室溫吸煙室噴霧 - 有光工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/7fhp4cmelms.jpg" />
-			<media:keywords>日本,生活,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/gpec_2022_0720/gpec_2022_0720_07-13.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41558</post-id>	</item>
 	</channel>
 </rss>

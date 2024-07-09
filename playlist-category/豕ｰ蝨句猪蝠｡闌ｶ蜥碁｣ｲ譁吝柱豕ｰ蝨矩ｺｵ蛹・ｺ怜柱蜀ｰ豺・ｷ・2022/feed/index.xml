@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E6%B3%B0%E5%9C%8B%E5%92%96%E5%95%A1%E8%8C%B6%E5%92%8C%E9%A3%B2%E6%96%99%E5%92%8C%E6%B3%B0%E5%9C%8B%E9%BA%B5%E5%8C%85%E5%BA%97%E5%92%8C%E5%86%B0%E6%B7%87%E6%B7%8B-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/泰國咖啡茶和飲料和泰國麵包店和冰淇淋-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 30 Sep 2022 01:57:21 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/泰國咖啡茶和飲料和泰國麵包店和冰淇淋-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 (泰國)</title>
 		<link>/playlist/thailandcoffee_2022_08/</link>
 					<comments>/playlist/thailandcoffee_2022_08/#respond</comments>
@@ -39,23 +36,22 @@
 		<pubDate>Fri, 30 Sep 2022 01:57:21 +0000</pubDate>
 				<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42082</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42082</guid>
 
 					<description><![CDATA[<p>“Thailand Coffee Tea &#38; Drinks and Thailand Bakery &#038; [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/thailandcoffee_2022_08/">泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 (泰國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/thailandcoffee_2022_08/">泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Thailand Coffee Tea &amp; Drinks and Thailand Bakery &amp; Ice Cream 2022”是咖啡館、麵包店和冰淇淋相關公司展示其最新產品並會見餐廳和咖啡館等潛在買家的展覽。</p>
 <p>展覽將於2022年8月25日（星期三）至2022年8月28日（星期五）舉辦三天。地點是泰國曼谷的曼谷國際貿易展覽中心（BITEC）。</p>
 <p>Thai Coffee Tea &amp; Drinks 和 Thailand Bakery &amp; Ice Cream 2022 的官方網站在這裡：<br />
 <a href="https://www.thailandcoffee.net/" target="_blank" rel="noopener">https://www.thailandcoffee.net/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/thailandcoffee_2022_08/">泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 (泰國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/thailandcoffee_2022_08/">泰國咖啡茶和飲料和泰國麵包店和冰淇淋 2022 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/thailandcoffee_2022_08/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42082</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42082</post-id>	</item>
 	</channel>
 </rss>

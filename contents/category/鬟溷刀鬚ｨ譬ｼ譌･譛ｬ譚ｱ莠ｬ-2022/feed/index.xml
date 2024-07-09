@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/%E9%A3%9F%E5%93%81%E9%A2%A8%E6%A0%BC%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/食品風格日本東京-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 19 Oct 2022 04:27:53 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/食品風格日本東京-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店</title>
 		<link>/contents/42459/</link>
 					<comments>/contents/42459/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42459</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42459</guid>
 
 					<description><![CDATA[<p>奧芝商店 在 食品風格日本東京 2022 處展示了 奧芝升騰蝦湯咖哩。 網站：https://okushiba/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42459/">[食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42459/">[食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>奧芝商店 在 食品風格日本東京 2022 處展示了 奧芝升騰蝦湯咖哩。</p>
 <p>網站：<a href="https://okushiba.net/" target="_blank" rel="noopener">https://okushiba.net/</a></p>
@@ -66,27 +63,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_01-4.jpg"></div>
 <div class="caption_text">謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42459/">[食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42459/">[食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42459/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42459</post-id>
-		<media:content url="https://www.youtube.com/embed/_Au-HXSPbdo" duration="31">
-			<media:player url="https://www.youtube.com/embed/_Au-HXSPbdo" />
-			<media:title type="html">[食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 奧芝升騰蝦湯咖哩 - 奧芝商店 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/au-hxspbdo.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_01-4.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42459</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 大豆肉 - 八度株式會社</title>
 		<link>/contents/42461/</link>
@@ -100,10 +84,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42461</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42461</guid>
 
 					<description><![CDATA[<p>八度株式會社 在 食品風格日本東京 2022 處展示了 大豆肉。 網站：https://octo8-fukuo/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42461/">[食品風格日本東京 2022] 大豆肉 - 八度株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42461/">[食品風格日本東京 2022] 大豆肉 - 八度株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>八度株式會社 在 食品風格日本東京 2022 處展示了 大豆肉。</p>
 <p>網站：<a href="https://octo8-fukuoka.com/" target="_blank" rel="noopener">https://octo8-fukuoka.com/</a></p>
@@ -127,28 +111,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-8.jpg"></div>
 <div class="caption_text">田中社長會做美味的魚，日本料理，西餐，所以如果您有什麼，請不要猶豫與我們聯繫。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42461/">[食品風格日本東京 2022] 大豆肉 - 八度株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42461/">[食品風格日本東京 2022] 大豆肉 - 八度株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42461/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42461</post-id>
-		<media:content url="https://www.youtube.com/embed/hXp7cJ6qrbM" duration="69">
-			<media:player url="https://www.youtube.com/embed/hXp7cJ6qrbM" />
-			<media:title type="html">[食品風格日本東京 2022] 大豆肉 - 八度株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 大豆肉 - 八度株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/hxp7cj6qrbm.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_02-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42461</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社</title>
 		<link>/contents/42463/</link>
@@ -162,10 +132,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42463</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42463</guid>
 
 					<description><![CDATA[<p>山佐商株式會社 在 食品風格日本東京 2022 處展示了 美味的石卷系列。 網站：https://www.ya/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42463/">[食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42463/">[食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>山佐商株式會社 在 食品風格日本東京 2022 處展示了 美味的石卷系列。</p>
 <p>網站：<a href="https://www.yamasakousho.co.jp/home" target="_blank" rel="noopener">https://www.yamasakousho.co.jp/home</a></p>
@@ -181,26 +151,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_03-4.jpg"></div>
 <div class="caption_text">如果我們的任何客戶有興趣，請隨時與我們聯繫，訪問我們，並來到我們的展位。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42463/">[食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42463/">[食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42463/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42463</post-id>
-		<media:content url="https://www.youtube.com/embed/PtWYtas7sw4" duration="37">
-			<media:player url="https://www.youtube.com/embed/PtWYtas7sw4" />
-			<media:title type="html">[食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 美味的石卷系列 - 山佐商株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/ptwytas7sw4.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_03-4.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42463</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社</title>
 		<link>/contents/42467/</link>
@@ -214,10 +172,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42467</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42467</guid>
 
 					<description><![CDATA[<p>Urisul 日本株式會社 在 食品風格日本東京 2022 處展示了 韓國“燒酒、馬格利酒、清酒”。 網站：h [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42467/">[食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42467/">[食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Urisul 日本株式會社 在 食品風格日本東京 2022 處展示了 韓國“燒酒、馬格利酒、清酒”。</p>
 <p>網站：<a href="http://maggulli.jp/" target="_blank" rel="noopener">http://maggulli.jp/</a></p>
@@ -257,32 +215,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-9.jpg"></div>
 <div class="caption_text">我們會期待你的。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42467/">[食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42467/">[食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42467/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42467</post-id>
-		<media:content url="https://www.youtube.com/embed/5HH8w72X_7I" duration="65">
-			<media:player url="https://www.youtube.com/embed/5HH8w72X_7I" />
-			<media:title type="html">[食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 韓國“燒酒、馬格利酒、清酒” - Urisul 日本株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/5hh8w72x_7i.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_05-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42467</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 運動員飯加 - 三橋米</title>
 		<link>/contents/42465/</link>
@@ -296,10 +236,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42465</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42465</guid>
 
 					<description><![CDATA[<p>三橋米 在 食品風格日本東京 2022 處展示了 運動員飯加。 網站：https://www.3284rice/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42465/">[食品風格日本東京 2022] 運動員飯加 - 三橋米</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42465/">[食品風格日本東京 2022] 運動員飯加 - 三橋米</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>三橋米 在 食品風格日本東京 2022 處展示了 運動員飯加。</p>
 <p>網站：<a href="https://www.3284rice.com/" target="_blank" rel="noopener">https://www.3284rice.com/</a></p>
@@ -327,29 +267,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-6.jpg"></div>
 <div class="caption_text">在諸如在遊戲中展示性能等方面很有用。 . </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42465/">[食品風格日本東京 2022] 運動員飯加 - 三橋米</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42465/">[食品風格日本東京 2022] 運動員飯加 - 三橋米</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42465/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42465</post-id>
-		<media:content url="https://www.youtube.com/embed/ck5zBeXpxyc" duration="50">
-			<media:player url="https://www.youtube.com/embed/ck5zBeXpxyc" />
-			<media:title type="html">[食品風格日本東京 2022] 運動員飯加 - 三橋米 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 運動員飯加 - 三橋米 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/ck5zbexpxyc.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_04-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42465</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社</title>
 		<link>/contents/42469/</link>
@@ -363,10 +288,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42469</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42469</guid>
 
 					<description><![CDATA[<p>福井工藝株式會社 在 食品風格日本東京 2022 處展示了 由蛋殼製成的環保容器“Shellmine”。 網站 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42469/">[食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42469/">[食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>福井工藝株式會社 在 食品風格日本東京 2022 處展示了 由蛋殼製成的環保容器“Shellmine”。</p>
 <p>網站：<a href="http://www.fukuicraft.co.jp/" target="_blank" rel="noopener">http://www.fukuicraft.co.jp/</a></p>
@@ -406,32 +331,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-11.jpg"></div>
 <div class="caption_text">當然，我們希望在紙張、木材、塑料等方面做得很好。我認為。<br />再次感謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42469/">[食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42469/">[食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42469/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42469</post-id>
-		<media:content url="https://www.youtube.com/embed/sWBaztuXUEQ" duration="83">
-			<media:player url="https://www.youtube.com/embed/sWBaztuXUEQ" />
-			<media:title type="html">[食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 由蛋殼製成的環保容器“Shellmine” - 福井工藝株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/swbaztuxueq.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_06-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42469</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司</title>
 		<link>/contents/42471/</link>
@@ -445,10 +352,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42471</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42471</guid>
 
 					<description><![CDATA[<p>莫蘭邦有限公司 在 食品風格日本東京 2022 處展示了 萬能醬油，辣醬油。 網站：https://www.m/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42471/">[食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42471/">[食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>莫蘭邦有限公司 在 食品風格日本東京 2022 處展示了 萬能醬油，辣醬油。</p>
 <p>網站：<a href="https://www.moranbong.co.jp/" target="_blank" rel="noopener">https://www.moranbong.co.jp/</a></p>
@@ -468,27 +375,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_07-5.jpg"></div>
 <div class="caption_text">我們已經準備了一些品嚐，所以請到我們的攤位來。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42471/">[食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42471/">[食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42471/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42471</post-id>
-		<media:content url="https://www.youtube.com/embed/Y8QTseXEwCw" duration="44">
-			<media:player url="https://www.youtube.com/embed/Y8QTseXEwCw" />
-			<media:title type="html">[食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 萬能醬油，辣醬油 - 莫蘭邦有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/y8qtsexewcw.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_07-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42471</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所</title>
 		<link>/contents/42475/</link>
@@ -502,10 +396,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42475</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42475</guid>
 
 					<description><![CDATA[<p>大和製作所 在 食品風格日本東京 2022 處展示了 桌面商用水煮蛋剝皮器“金蛋”。 網站：https://w/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42475/">[食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42475/">[食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>大和製作所 在 食品風格日本東京 2022 處展示了 桌面商用水煮蛋剝皮器“金蛋”。</p>
 <p>網站：<a href="https://www.yamatomfg.com/" target="_blank" rel="noopener">https://www.yamatomfg.com/</a></p>
@@ -525,27 +419,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_09-5.jpg"></div>
 <div class="caption_text">在這方面，也可以<br />降低成本，而且由於海外勞動力成本特別高，我認為其中一個特點是勞動力成本的降低。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42475/">[食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42475/">[食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42475/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42475</post-id>
-		<media:content url="https://www.youtube.com/embed/KfrOhChqgjU" duration="46">
-			<media:player url="https://www.youtube.com/embed/KfrOhChqgjU" />
-			<media:title type="html">[食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 桌面商用水煮蛋剝皮器“金蛋” - 大和製作所 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/kfrohchqgju.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_09-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42475</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業）</title>
 		<link>/contents/42473/</link>
@@ -559,10 +440,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42473</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42473</guid>
 
 					<description><![CDATA[<p>MLA（澳大利亞肉類和畜牧業） 在 食品風格日本東京 2022 處展示了 澳洲牛肉，澳洲羊肉。 網站：http [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42473/">[食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業）</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42473/">[食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業）</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>MLA（澳大利亞肉類和畜牧業） 在 食品風格日本東京 2022 處展示了 澳洲牛肉，澳洲羊肉。</p>
 <p>網站：<a href="https://www.aussiebeef.jp/b2b/mla/" target="_blank" rel="noopener">https://www.aussiebeef.jp/b2b/mla/</a></p>
@@ -618,36 +499,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-13.jpg"></div>
 <div class="caption_text">澳洲牛肉的魅力。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42473/">[食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業）</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42473/">[食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業）</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42473/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42473</post-id>
-		<media:content url="https://www.youtube.com/embed/Ti2N6xrOaos" duration="97">
-			<media:player url="https://www.youtube.com/embed/Ti2N6xrOaos" />
-			<media:title type="html">[食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業） &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 澳洲牛肉，澳洲羊肉 - MLA（澳大利亞肉類和畜牧業） &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/ti2n6xroaos.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_08-13.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42473</post-id>	</item>
 		<item>
 		<title>[食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社</title>
 		<link>/contents/42477/</link>
@@ -661,10 +520,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=42477</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42477</guid>
 
 					<description><![CDATA[<p>堀口園株式會社 在 食品風格日本東京 2022 處展示了 薩摩抹茶。 網站：https://www.horig/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42477/">[食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42477/">[食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>堀口園株式會社 在 食品風格日本東京 2022 處展示了 薩摩抹茶。</p>
 <p>網站：<a href="https://www.horiguchien1986.com/" target="_blank" rel="noopener">https://www.horiguchien1986.com/</a></p>
@@ -688,27 +547,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-5.jpg"></div>
 <div class="caption_text">我們每天都在努力製作安全可靠的茶。<br />謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42477/">[食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42477/">[食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42477/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42477</post-id>
-		<media:content url="https://www.youtube.com/embed/mc3SVSZFACQ" duration="40">
-			<media:player url="https://www.youtube.com/embed/mc3SVSZFACQ" />
-			<media:title type="html">[食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [食品風格日本東京 2022] 薩摩抹茶 - 堀口園株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/mc3svszfacq.jpg" />
-			<media:keywords>建築/施工,日本,服務,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/foodstyle_2022_09/foodstyle_2022_09_10-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42477</post-id>	</item>
 	</channel>
 </rss>

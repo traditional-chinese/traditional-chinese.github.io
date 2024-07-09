@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>公路技術博覽會 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>公路技術博覽會 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E5%85%AC%E8%B7%AF%E6%8A%80%E8%A1%93%E5%8D%9A%E8%A6%BD%E6%9C%83-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/公路技術博覽會-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 02 Dec 2022 05:37:20 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>公路技術博覽會 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>公路技術博覽會 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/公路技術博覽會-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>公路技術博覽會 2022 (日本)</title>
 		<link>/playlist/htf_2022_11/</link>
 					<comments>/playlist/htf_2022_11/#respond</comments>
@@ -42,24 +39,23 @@
 		<category><![CDATA[建築/施工]]></category>
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=43245</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=43245</guid>
 
 					<description><![CDATA[<p>“Highway Techno Fair 2022”是一個聚焦“公路建設管理技術”的展會。 傳播有關道路施工管 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/htf_2022_11/">公路技術博覽會 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/htf_2022_11/">公路技術博覽會 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Highway Techno Fair 2022”是一個聚焦“公路建設管理技術”的展會。<br />
 傳播有關道路施工管理的最新技術、施工方法和開發技術的信息。<br />
 展覽將於11月24日（週四）至10月25日（週五）在東京國際展示場舉行，為期兩天。</p>
 <p>Highway Techno Fair 2022 的官方網站在這裡：<br />
 <a href="https://htf.express-highway.or.jp/" target="_blank" rel="noopener">https://htf.express-highway.or.jp/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/htf_2022_11/">公路技術博覽會 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/htf_2022_11/">公路技術博覽會 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/htf_2022_11/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43245</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43245</post-id>	</item>
 	</channel>
 </rss>

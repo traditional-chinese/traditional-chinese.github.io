@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>DOMOTEX 2023 - 地板世界 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>DOMOTEX 2023 - 地板世界 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/domotex-2023-%E5%9C%B0%E6%9D%BF%E4%B8%96%E7%95%8C/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/domotex-2023-地板世界/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 24 Jan 2023 01:18:49 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>DOMOTEX 2023 - 地板世界 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>DOMOTEX 2023 - 地板世界 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/domotex-2023-地板世界/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科</title>
 		<link>/contents/43680/</link>
 					<comments>/contents/43680/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43680</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43680</guid>
 
 					<description><![CDATA[<p>斯泰科 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 木纖維製成的天然保溫板。 是的，你好 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43680/">[DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43680/">[DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>斯泰科 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 木纖維製成的天然保溫板。</p>
 </p>
@@ -130,43 +127,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-148.jpg"></div>
 <div class="caption_text">感謝您的關注。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43680/">[DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43680/">[DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43680/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43680</post-id>
-		<media:content url="https://www.youtube.com/embed/0dy45JNfmI8" duration="162">
-			<media:player url="https://www.youtube.com/embed/0dy45JNfmI8" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 木纖維製成的天然保溫板 - 斯泰科 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/0dy45jnfmi8.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_01-148.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43680</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司</title>
 		<link>/contents/43682/</link>
@@ -180,10 +148,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43682</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43682</guid>
 
 					<description><![CDATA[<p>理查德·皮里斯公司 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 橡膠地墊。 早上好。我們 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43682/">[DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43682/">[DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>理查德·皮里斯公司 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 橡膠地墊。</p>
 </p>
@@ -351,64 +319,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-323.jpg"></div>
 <div class="caption_text">謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43682/">[DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43682/">[DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43682/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43682</post-id>
-		<media:content url="https://www.youtube.com/embed/WPeOlmww_oQ" duration="332">
-			<media:player url="https://www.youtube.com/embed/WPeOlmww_oQ" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 橡膠地墊 - 理查德·皮里斯公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/wpeolmww_oq.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-183.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-190.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-197.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-204.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-218.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-225.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-232.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-239.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-246.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-253.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-260.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-267.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-274.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-281.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-288.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-302.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-309.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_02-323.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43682</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇</title>
 		<link>/contents/43684/</link>
@@ -422,10 +340,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43684</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43684</guid>
 
 					<description><![CDATA[<p>皇家椰殼簇 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 椰子纖維和線圈。 我是來自印度的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43684/">[DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43684/">[DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>皇家椰殼簇 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 椰子纖維和線圈。</p>
 </p>
@@ -517,45 +435,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-155.jpg"></div>
 <div class="caption_text">在印度、世界各地開展業務。<br />我們的網站 https://www.noyyalcoircluster.com/ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43684/">[DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43684/">[DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43684/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43684</post-id>
-		<media:content url="https://www.youtube.com/embed/QJE5njHqvRk" duration="174">
-			<media:player url="https://www.youtube.com/embed/QJE5njHqvRk" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 椰子纖維和線圈 - 皇家椰殼簇 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/qje5njhqvrk.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_03-155.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43684</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 人造草 - CC草</title>
 		<link>/contents/43686/</link>
@@ -569,10 +456,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43686</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43686</guid>
 
 					<description><![CDATA[<p>CC草 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 人造草。 好的，歡迎來到 CCGra [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43686/">[DOMOTEX 2023 - 地板世界] 人造草 - CC草</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43686/">[DOMOTEX 2023 - 地板世界] 人造草 - CC草</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>CC草 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 人造草。</p>
 </p>
@@ -608,31 +495,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-57.jpg"></div>
 <div class="caption_text">隨時歡迎你。我們的網站是 https://www.ccgrass.com/ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43686/">[DOMOTEX 2023 - 地板世界] 人造草 - CC草</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43686/">[DOMOTEX 2023 - 地板世界] 人造草 - CC草</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43686/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43686</post-id>
-		<media:content url="https://www.youtube.com/embed/lkCpj2ua-QA" duration="68">
-			<media:player url="https://www.youtube.com/embed/lkCpj2ua-QA" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 人造草 - CC草 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 人造草 - CC草 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/lkcpj2ua-qa.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_04-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43686</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可</title>
 		<link>/contents/43688/</link>
@@ -646,10 +516,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43688</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43688</guid>
 
 					<description><![CDATA[<p>力可 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 纖維蛋白。 大家好，我是 LICO 公 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43688/">[DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43688/">[DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>力可 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 纖維蛋白。</p>
 </p>
@@ -689,32 +559,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-71.jpg"></div>
 <div class="caption_text">如需更多信息，請訪問我們的網站 https://lico.ch/ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43688/">[DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43688/">[DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43688/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43688</post-id>
-		<media:content url="https://www.youtube.com/embed/99KmgQUsBZo" duration="84">
-			<media:player url="https://www.youtube.com/embed/99KmgQUsBZo" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 纖維蛋白 - 力可 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/99kmgqusbzo.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_05-71.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43688</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫</title>
 		<link>/contents/43690/</link>
@@ -728,10 +580,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43690</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43690</guid>
 
 					<description><![CDATA[<p>法提赫 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 藝術品：用地毯的廢料製成。 你好，我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43690/">[DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43690/">[DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>法提赫 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 藝術品：用地毯的廢料製成。</p>
 </p>
@@ -823,45 +675,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-197.jpg"></div>
 <div class="caption_text">如果您想了解更多信息和更多收藏，可以關注網站 https://www.fatihtr.com/ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43690/">[DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43690/">[DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43690/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43690</post-id>
-		<media:content url="https://www.youtube.com/embed/ePzj6mt2jok" duration="214">
-			<media:player url="https://www.youtube.com/embed/ePzj6mt2jok" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 藝術品：用地毯的廢料製成 - 法提赫 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/epzj6mt2jok.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-190.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_06-197.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43690</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨</title>
 		<link>/contents/43692/</link>
@@ -875,10 +696,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43692</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43692</guid>
 
 					<description><![CDATA[<p>Travancore椰絨 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 門墊和地毯。 你好 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43692/">[DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43692/">[DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Travancore椰絨 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 門墊和地毯。</p>
 </p>
@@ -918,32 +739,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-57.jpg"></div>
 <div class="caption_text">您也可以查看我們的在線網站 https://onlymat.com/ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43692/">[DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43692/">[DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43692/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43692</post-id>
-		<media:content url="https://www.youtube.com/embed/sV4ZJo8ye88" duration="77">
-			<media:player url="https://www.youtube.com/embed/sV4ZJo8ye88" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 門墊和地毯 - Travancore椰絨 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/sv4zjo8ye88.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_07-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43692</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維</title>
 		<link>/contents/43694/</link>
@@ -957,10 +760,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43694</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43694</guid>
 
 					<description><![CDATA[<p>椰殼纖維 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 天然椰子纖維製品及土工紡織製品。  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43694/">[DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43694/">[DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>椰殼纖維 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 天然椰子纖維製品及土工紡織製品。</p>
 </p>
@@ -1024,38 +827,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-106.jpg"></div>
 <div class="caption_text">並且每次都會保持產品的質量。非常感謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43694/">[DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43694/">[DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43694/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43694</post-id>
-		<media:content url="https://www.youtube.com/embed/W3-FhyIKnjk" duration="119">
-			<media:player url="https://www.youtube.com/embed/W3-FhyIKnjk" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 天然椰子纖維製品及土工紡織製品 - 椰殼纖維 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/w3-fhyiknjk.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_08-106.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43694</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 點擊為你 - i4F</title>
 		<link>/contents/43696/</link>
@@ -1069,10 +848,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43696</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43696</guid>
 
 					<description><![CDATA[<p>i4F 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 點擊為你。 大家好，我是 John  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43696/">[DOMOTEX 2023 - 地板世界] 點擊為你 - i4F</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43696/">[DOMOTEX 2023 - 地板世界] 點擊為你 - i4F</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>i4F 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 點擊為你。</p>
 </p>
@@ -1280,74 +1059,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-449.jpg"></div>
 <div class="caption_text">因此，在 i4f.com 上，您會發現比現在看到的更令人興奮的創新，當然還有您剛剛看到的創新。非常感謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43696/">[DOMOTEX 2023 - 地板世界] 點擊為你 - i4F</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43696/">[DOMOTEX 2023 - 地板世界] 點擊為你 - i4F</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43696/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43696</post-id>
-		<media:content url="https://www.youtube.com/embed/a882fpcVeTA" duration="467">
-			<media:player url="https://www.youtube.com/embed/a882fpcVeTA" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 點擊為你 - i4F &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 點擊為你 - i4F &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/a882fpcveta.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-183.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-197.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-204.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-218.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-225.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-239.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-246.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-253.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-260.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-274.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-281.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-288.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-295.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-302.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-309.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-330.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-337.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-344.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-351.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-358.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-365.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-372.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-379.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-386.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-393.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-400.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-407.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-414.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-421.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-435.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-442.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_09-449.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43696</post-id>	</item>
 		<item>
 		<title>[DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團</title>
 		<link>/contents/43698/</link>
@@ -1361,10 +1080,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?p=43698</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43698</guid>
 
 					<description><![CDATA[<p>CHERUSSERIKALAM 集團 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 地墊。 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43698/">[DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43698/">[DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>CHERUSSERIKALAM 集團 在 DOMOTEX 2023 &#8211; 地板世界 處展示了 地墊。</p>
 </p>
@@ -1488,52 +1207,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-211.jpg"></div>
 <div class="caption_text">我們的網站是 www.cherusserikalamgroup.com   </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43698/">[DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43698/">[DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43698/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43698</post-id>
-		<media:content url="https://www.youtube.com/embed/0g6-Wx2DhaU" duration="223">
-			<media:player url="https://www.youtube.com/embed/0g6-Wx2DhaU" />
-			<media:title type="html">[DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [DOMOTEX 2023 - 地板世界] 地墊 - CHERUSSERIKALAM 集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/0g6-wx2dhau.jpg" />
-			<media:keywords>建築/施工,德國,機械/工業技術,生活</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-183.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-190.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-197.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-204.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/domotex_2023_01/domotex_2023_01_10-211.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43698</post-id>	</item>
 	</channel>
 </rss>

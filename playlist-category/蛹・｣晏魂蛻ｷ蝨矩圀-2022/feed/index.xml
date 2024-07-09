@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>包裝印刷國際 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>包裝印刷國際 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E5%8C%85%E8%A3%9D%E5%8D%B0%E5%88%B7%E5%9C%8B%E9%9A%9B-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/包裝印刷國際-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 02 Dec 2022 02:57:55 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>包裝印刷國際 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>包裝印刷國際 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/包裝印刷國際-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>包裝印刷國際 2022 (泰國)</title>
 		<link>/playlist/pack-print_2022_10/</link>
 					<comments>/playlist/pack-print_2022_10/#respond</comments>
@@ -39,23 +36,22 @@
 		<pubDate>Fri, 02 Dec 2022 02:57:55 +0000</pubDate>
 				<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=43194</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=43194</guid>
 
 					<description><![CDATA[<p>“PACK PRINT INTERNATIONAL 2022”是包裝機械設備、包裝貼標機、標籤/包裝材料、輔助 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/pack-print_2022_10/">包裝印刷國際 2022 (泰國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/pack-print_2022_10/">包裝印刷國際 2022 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“PACK PRINT INTERNATIONAL 2022”是包裝機械設備、包裝貼標機、標籤/包裝材料、輔助設備/倉儲、物流運輸設備/服務生產及機械展。</p>
 <p>展覽將於2022年10月19日至22日為期三天。舉辦地點為泰國曼谷BITEC。</p>
 <p>PACK PRINT INTERNATIONAL 2022 的官方網站在這裡：<br />
 <a href="https://www.pack-print.de/" target="_blank" rel="noopener">https://www.pack-print.de/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/pack-print_2022_10/">包裝印刷國際 2022 (泰國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/pack-print_2022_10/">包裝印刷國際 2022 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/pack-print_2022_10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43194</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43194</post-id>	</item>
 	</channel>
 </rss>

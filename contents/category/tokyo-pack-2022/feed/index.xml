@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>TOKYO PACK 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>TOKYO PACK 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/tokyo-pack-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/tokyo-pack-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 08 Nov 2022 02:09:43 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>TOKYO PACK 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>TOKYO PACK 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/tokyo-pack-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 倫理系列紙盤/紙碗 - 紙製品有限公司</title>
 		<link>/contents/42698/</link>
 					<comments>/contents/42698/#respond</comments>
@@ -45,10 +42,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42698</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42698</guid>
 
 					<description><![CDATA[<p>紙製品有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 倫理系列紙盤/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42698/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 倫理系列紙盤/紙碗 - 紙製品有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42698/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 倫理系列紙盤/紙碗 - 紙製品有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>紙製品有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 倫理系列紙盤/紙碗。</p>
 <p>網站：<a href="https://www.paperware.co.jp/" target="_blank" rel="noopener">https://www.paperware.co.jp/</a></p>
@@ -72,28 +69,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-7.jpg"></div>
 <div class="caption_text">即使用嚴格控制的原材料。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42698/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 倫理系列紙盤/紙碗 - 紙製品有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42698/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 倫理系列紙盤/紙碗 - 紙製品有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42698/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42698</post-id>
-		<media:content url="https://www.youtube.com/embed/v7_3r9z5DUI" duration="51">
-			<media:player url="https://www.youtube.com/embed/v7_3r9z5DUI" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 倫理系列紙盤/紙碗 - 紙製品有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 倫理系列紙盤/紙碗 - 紙製品有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/v7_3r9z5dui.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_01-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42698</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司</title>
 		<link>/contents/42700/</link>
@@ -109,10 +92,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42700</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42700</guid>
 
 					<description><![CDATA[<p>埃克託有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 電子水膠膠帶機 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42700/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42700/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>埃克託有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 電子水膠膠帶機“GTD-500”。</p>
 <p>網站：<a href="https://www.ectinc.co.jp/" target="_blank" rel="noopener">https://www.ectinc.co.jp/</a></p>
@@ -140,29 +123,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-6.jpg"></div>
 <div class="caption_text">廢物，這對全球環境有益。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42700/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42700/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42700/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42700</post-id>
-		<media:content url="https://www.youtube.com/embed/c_x9QGNAJD4" duration="47">
-			<media:player url="https://www.youtube.com/embed/c_x9QGNAJD4" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 電子水膠膠帶機“GTD-500” - 埃克託有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/c_x9qgnajd4.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_02-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42700</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 鋁軌轉運系統 - 綠加有限公司</title>
 		<link>/contents/42702/</link>
@@ -178,10 +146,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42702</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42702</guid>
 
 					<description><![CDATA[<p>綠加有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 鋁軌轉運系統。  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42702/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 鋁軌轉運系統 - 綠加有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42702/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 鋁軌轉運系統 - 綠加有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>綠加有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 鋁軌轉運系統。</p>
 <p>網站：<a href="https://www.gnplus.com/" target="_blank" rel="noopener">https://www.gnplus.com/</a></p>
@@ -225,33 +193,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-11.jpg"></div>
 <div class="caption_text">非常感謝您的支持。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42702/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 鋁軌轉運系統 - 綠加有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42702/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 鋁軌轉運系統 - 綠加有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42702/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42702</post-id>
-		<media:content url="https://www.youtube.com/embed/dKq-sV_2YC0" duration="85">
-			<media:player url="https://www.youtube.com/embed/dKq-sV_2YC0" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 鋁軌轉運系統 - 綠加有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 鋁軌轉運系統 - 綠加有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/dkq-sv_2yc0.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_03-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42702</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司</title>
 		<link>/contents/42704/</link>
@@ -267,10 +216,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42704</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42704</guid>
 
 					<description><![CDATA[<p>克萊爾有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 超節能彩色電子 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42704/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42704/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>克萊爾有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 超節能彩色電子紙標牌“EPS”。</p>
 <p>網站：<a href="https://www.crea2007.co.jp/" target="_blank" rel="noopener">https://www.crea2007.co.jp/</a></p>
@@ -306,31 +255,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-10.jpg"></div>
 <div class="caption_text">即使在如此強的光線下，顯示屏也清晰可見。<br />我認為這是電子紙的一大特點。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42704/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42704/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42704/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42704</post-id>
-		<media:content url="https://www.youtube.com/embed/D6XH1XTs-ao" duration="79">
-			<media:player url="https://www.youtube.com/embed/D6XH1XTs-ao" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 超節能彩色電子紙標牌“EPS” - 克萊爾有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/d6xh1xts-ao.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_04-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42704</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 有助於循環和減少食物損失 - 三井化學集團</title>
 		<link>/contents/42706/</link>
@@ -346,10 +278,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42706</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42706</guid>
 
 					<description><![CDATA[<p>三井化學集團 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 有助於循環和減少 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42706/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 有助於循環和減少食物損失 - 三井化學集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42706/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 有助於循環和減少食物損失 - 三井化學集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>三井化學集團 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 有助於循環和減少食物損失。</p>
 <p>網站：<a href="https://jp.mitsuichemicals.com/" target="_blank" rel="noopener">https://jp.mitsuichemicals.com/</a></p>
@@ -377,29 +309,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-7.jpg"></div>
 <div class="caption_text">我們希望您能參觀三井化學的展位。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42706/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 有助於循環和減少食物損失 - 三井化學集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42706/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 有助於循環和減少食物損失 - 三井化學集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42706/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42706</post-id>
-		<media:content url="https://www.youtube.com/embed/BhW4D0F1J7A" duration="53">
-			<media:player url="https://www.youtube.com/embed/BhW4D0F1J7A" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 有助於循環和減少食物損失 - 三井化學集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 有助於循環和減少食物損失 - 三井化學集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/bhw4d0f1j7a.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_05-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42706</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司</title>
 		<link>/contents/42708/</link>
@@ -415,10 +332,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42708</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42708</guid>
 
 					<description><![CDATA[<p>雅馬尼包裝有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 對 FSC [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42708/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42708/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>雅馬尼包裝有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 對 FSC 認證產品的建議。</p>
 <p>網站：<a href="https://yamani-p-onlineshop.com/" target="_blank" rel="noopener">https://yamani-p-onlineshop.com/</a></p>
@@ -438,27 +355,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_06-8.jpg"></div>
 <div class="caption_text">現在是我們選擇環保特殊紙張的時代。<br />我們希望您會對我們的 Yamani 套餐感興趣，因為我們可以再次提出這樣的套餐。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42708/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42708/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42708/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42708</post-id>
-		<media:content url="https://www.youtube.com/embed/HWzud6LiwMQ" duration="73">
-			<media:player url="https://www.youtube.com/embed/HWzud6LiwMQ" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 對 FSC 認證產品的建議 - 雅馬尼包裝有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/hwzud6liwmq.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_06-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42708</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司</title>
 		<link>/contents/42710/</link>
@@ -474,10 +378,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42710</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42710</guid>
 
 					<description><![CDATA[<p>日本技術解決方案有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 收縮 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42710/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42710/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>日本技術解決方案有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 收縮包裝機“TORNADO®”。</p>
 <p>網站：<a href="https://www.solution.co.jp/" target="_blank" rel="noopener">https://www.solution.co.jp/</a></p>
@@ -505,29 +409,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-8.jpg"></div>
 <div class="caption_text">是的。<br />如果今天沒拿到，就在東二館出口旁邊，快來看看demo吧。<br />請。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42710/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42710/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42710/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42710</post-id>
-		<media:content url="https://www.youtube.com/embed/EGKEP_kC_pg" duration="69">
-			<media:player url="https://www.youtube.com/embed/EGKEP_kC_pg" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 收縮包裝機“TORNADO®” - 日本技術解決方案有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/egkep_kc_pg.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_07-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42710</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 無人集裝箱清洗線 - 昭和株式會社</title>
 		<link>/contents/42712/</link>
@@ -543,10 +432,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42712</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42712</guid>
 
 					<description><![CDATA[<p>昭和株式會社 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 無人集裝箱清洗線 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42712/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 無人集裝箱清洗線 - 昭和株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42712/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 無人集裝箱清洗線 - 昭和株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>昭和株式會社 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 無人集裝箱清洗線。</p>
 <p>網站：<a href="http://www.e-showa.net/" target="_blank" rel="noopener">http://www.e-showa.net/</a></p>
@@ -574,29 +463,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-8.jpg"></div>
 <div class="caption_text">雖然它不在此處，但它是完成堆疊過程的一條線。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42712/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 無人集裝箱清洗線 - 昭和株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42712/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 無人集裝箱清洗線 - 昭和株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42712/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42712</post-id>
-		<media:content url="https://www.youtube.com/embed/JE_Jjvh_d-4" duration="63">
-			<media:player url="https://www.youtube.com/embed/JE_Jjvh_d-4" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 無人集裝箱清洗線 - 昭和株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 無人集裝箱清洗線 - 昭和株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/je_jjvh_d-4.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_08-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42712</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] Sunrail 移動擱板® - 太陽站系統有限公司</title>
 		<link>/contents/42714/</link>
@@ -612,10 +486,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42714</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42714</guid>
 
 					<description><![CDATA[<p>太陽站系統有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 Sunra [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42714/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] Sunrail 移動擱板® - 太陽站系統有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42714/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] Sunrail 移動擱板® - 太陽站系統有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>太陽站系統有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 Sunrail 移動擱板®。</p>
 <p>網站：<a href="http://sansute.co.jp/" target="_blank" rel="noopener">http://sansute.co.jp/</a></p>
@@ -647,30 +521,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-9.jpg"></div>
 <div class="caption_text">如果您能來拜訪我們，我們將很高興。謝謝你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42714/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] Sunrail 移動擱板® - 太陽站系統有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42714/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] Sunrail 移動擱板® - 太陽站系統有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42714/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42714</post-id>
-		<media:content url="https://www.youtube.com/embed/aSLxgIkxQag" duration="69">
-			<media:player url="https://www.youtube.com/embed/aSLxgIkxQag" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] Sunrail 移動擱板® - 太陽站系統有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] Sunrail 移動擱板® - 太陽站系統有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/aslxgikxqag.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_09-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42714</post-id>	</item>
 		<item>
 		<title>[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 真皮是一種可持續的材料 - 基路伯有限公司</title>
 		<link>/contents/42716/</link>
@@ -686,10 +544,10 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=42716</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42716</guid>
 
 					<description><![CDATA[<p>基路伯有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 真皮是一種可持 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42716/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 真皮是一種可持續的材料 - 基路伯有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42716/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 真皮是一種可持續的材料 - 基路伯有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>基路伯有限公司 在 TOKYO PACK 2022 < 東京國際包裝展 2022 > 處展示了 真皮是一種可持續的材料。</p>
 <p>網站：<a href="https://www.cherubim-design.com/" target="_blank" rel="noopener">https://www.cherubim-design.com/</a></p>
@@ -745,35 +603,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-20.jpg"></div>
 <div class="caption_text">最好的建議。謝謝你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42716/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 真皮是一種可持續的材料 - 基路伯有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42716/">[TOKYO PACK 2022 &lt; 東京國際包裝展 2022 &gt;] 真皮是一種可持續的材料 - 基路伯有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42716/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42716</post-id>
-		<media:content url="https://www.youtube.com/embed/GImAXs-G2II" duration="150">
-			<media:player url="https://www.youtube.com/embed/GImAXs-G2II" />
-			<media:title type="html">[TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 真皮是一種可持續的材料 - 基路伯有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [TOKYO PACK 2022 &#60; 東京國際包裝展 2022 &#62;] 真皮是一種可持續的材料 - 基路伯有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/gimaxs-g2ii.jpg" />
-			<media:keywords>日本,機械/工業技術,環境,生活,農業/林業/漁業和食品,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/tokyopack_2022_10/tokyopack_2022_10_10-20.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42716</post-id>	</item>
 	</channel>
 </rss>

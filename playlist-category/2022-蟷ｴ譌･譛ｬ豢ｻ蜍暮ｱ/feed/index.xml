@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年日本活動週 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年日本活動週 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E6%97%A5%E6%9C%AC%E6%B4%BB%E5%8B%95%E9%80%B1/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年日本活動週/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 12 Jul 2022 11:10:39 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年日本活動週 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年日本活動週 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年日本活動週/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年日本活動週</title>
 		<link>/playlist/japan-event-week-2022_eventexpo_2022/</link>
 					<comments>/playlist/japan-event-week-2022_eventexpo_2022/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41200</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41200</guid>
 
 					<description><![CDATA[<p>日本活動週 2022 是活動和娛樂行業的綜合性展覽。 它旨在發展賽事，直播和電子競技業務。 “市町村、公眾週” [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/japan-event-week-2022_eventexpo_2022/">2022 年日本活動週</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/japan-event-week-2022_eventexpo_2022/">2022 年日本活動週</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>日本活動週 2022 是活動和娛樂行業的綜合性展覽。<br />
 它旨在發展賽事，直播和電子競技業務。<br />
@@ -53,14 +50,13 @@
 會議將於2022年6月29日（星期三）至2022年7月1日（星期五）舉行，為期三天。會場是東京Big Sight。</p>
 <p>2022年日本活動周官方網站點擊這裡：<br />
 <a href="https://www.event-week.jp/" target="_blank" rel="noopener">https://www.event-week.jp/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/japan-event-week-2022_eventexpo_2022/">2022 年日本活動週</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/japan-event-week-2022_eventexpo_2022/">2022 年日本活動週</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/japan-event-week-2022_eventexpo_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41200</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41200</post-id>	</item>
 	</channel>
 </rss>

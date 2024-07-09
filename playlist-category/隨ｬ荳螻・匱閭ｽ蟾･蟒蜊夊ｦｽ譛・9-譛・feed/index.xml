@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>第一屆智能工廠博覽會 9 月 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>第一屆智能工廠博覽會 9 月 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E7%AC%AC%E4%B8%80%E5%B1%86%E6%99%BA%E8%83%BD%E5%B7%A5%E5%BB%A0%E5%8D%9A%E8%A6%BD%E6%9C%83-9-%E6%9C%88/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/第一屆智能工廠博覽會-9-月/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 27 Sep 2022 01:43:01 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>第一屆智能工廠博覽會 9 月 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>第一屆智能工廠博覽會 9 月 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/第一屆智能工廠博覽會-9-月/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>第一屆智能工廠博覽會 9 月 (日本)</title>
 		<link>/playlist/fiweek_2022_08/</link>
 					<comments>/playlist/fiweek_2022_08/#respond</comments>
@@ -39,10 +36,10 @@
 		<pubDate>Tue, 27 Sep 2022 01:43:01 +0000</pubDate>
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41980</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41980</guid>
 
 					<description><![CDATA[<p>第一屆智能工廠博覽會[秋季]是一個展示物聯網解決方案、人工智能、FA/機器人等最新技術和解決方案的展覽，用於實 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/fiweek_2022_08/">第一屆智能工廠博覽會 9 月 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/fiweek_2022_08/">第一屆智能工廠博覽會 9 月 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>第一屆智能工廠博覽會[秋季]是一個展示物聯網解決方案、人工智能、FA/機器人等最新技術和解決方案的展覽，用於實現智能工廠和智能物流。<br />
 目的是為生產、製造、工廠、物流和中小型製造商開發技術PR。<br />
@@ -50,14 +47,13 @@
 展覽將於 2022 年 8 月 31 日星期三至 2022 年 9 月 2 日星期五舉行，為期三天。會場是幕張展覽館。</p>
 <p>第一屆智能工廠博覽會【秋季】官網點擊這裡：<br />
 <a href="https://www.fiweek.jp/autumn/ja-jp.html" target="_blank" rel="noopener">https://www.fiweek.jp/autumn/ja-jp.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/fiweek_2022_08/">第一屆智能工廠博覽會 9 月 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/fiweek_2022_08/">第一屆智能工廠博覽會 9 月 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/fiweek_2022_08/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41980</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41980</post-id>	</item>
 	</channel>
 </rss>

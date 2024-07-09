@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E5%8C%97%E7%BE%8E%E7%BE%8E%E5%AE%B9%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年北美美容展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 25 Jul 2022 08:04:20 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年北美美容展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年北美美容展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年北美美容展</title>
 		<link>/playlist/cosmoprofnorthamerica_2022_07/</link>
 					<comments>/playlist/cosmoprofnorthamerica_2022_07/#respond</comments>
@@ -40,23 +37,22 @@
 				<category><![CDATA[生活]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41380</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41380</guid>
 
 					<description><![CDATA[<p>“Cosmoprof North America 2022”是化妝品/美容、護髮、彩妝、美甲、天然產品、保健食 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/cosmoprofnorthamerica_2022_07/">2022 年北美美容展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/cosmoprofnorthamerica_2022_07/">2022 年北美美容展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Cosmoprof North America 2022”是化妝品/美容、護髮、彩妝、美甲、天然產品、保健食品、CBD美容、原材料/材料、自有品牌/合同生產、初級/二級包裝和機械的展覽。</p>
 <p>會議將於2022年7月12日至2022年7月14日舉行，為期三天。會場是美國的拉斯維加斯會議中心。</p>
 <p>點擊此處查看 Cosmoprof North America 2022 官方網站：<br />
 <a href="https://cosmoprofnorthamerica.com/" target="_blank" rel="noopener">https://cosmoprofnorthamerica.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/cosmoprofnorthamerica_2022_07/">2022 年北美美容展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/cosmoprofnorthamerica_2022_07/">2022 年北美美容展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/cosmoprofnorthamerica_2022_07/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41380</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41380</post-id>	</item>
 	</channel>
 </rss>

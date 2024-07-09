@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>台灣 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>台灣 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/taiwan/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/taiwan/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 21 Jun 2024 06:23:35 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>台灣 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>台灣 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/taiwan/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>ANEX2024 (台灣)</title>
 		<link>/playlist/anex2024_2024_05/</link>
 					<comments>/playlist/anex2024_2024_05/#respond</comments>
@@ -39,23 +36,22 @@
 		<pubDate>Fri, 21 Jun 2024 06:23:35 +0000</pubDate>
 				<category><![CDATA[台灣]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51469</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51469</guid>
 
 					<description><![CDATA[<p>「ANEX2024」是非織造布捲、產品（複合原纖化膜、穿孔膜）、原料（黏合劑、熱熔膠、黏合劑、乳膠）、不織布應 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/anex2024_2024_05/">ANEX2024 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/anex2024_2024_05/">ANEX2024 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「ANEX2024」是非織造布捲、產品（複合原纖化膜、穿孔膜）、原料（黏合劑、熱熔膠、黏合劑、乳膠）、不織布應用、機械（不織布製造機）和服務的展覽會。</p>
 <p>展覽期間為2024年5月22日至2024年5月24日。地點為台北南港展覽館一館。</p>
 <p>ANEX2024的官方網站在這裡：<br /><a href="https://www.anex2024.com/" target="_blank" rel="noopener">https://www.anex2024.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/anex2024_2024_05/">ANEX2024 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/anex2024_2024_05/">ANEX2024 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/anex2024_2024_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51469</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51469</post-id>	</item>
 		<item>
 		<title>2024 年台北國際汽車展 (台灣)</title>
 		<link>/playlist/taipeiampa_2024_04_17/</link>
@@ -67,23 +63,22 @@
 		<category><![CDATA[台灣]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50918</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50918</guid>
 
 					<description><![CDATA[<p>「TAIPEI AMPA 2024」涵蓋汽車零配件、汽車燈具、翻新套件及配件、車輛製造、維修檢測及保養工具及設 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「TAIPEI AMPA 2024」涵蓋汽車零配件、汽車燈具、翻新套件及配件、車輛製造、維修檢測及保養工具及設備、汽車保養、電動車及相關零配件、配件及設備、智慧交通系統及解決方案、摩托車零件及配件、騎士用品、汽車電子產品及相關零件電氣化/電動電池模組、電氣設備、控制單元（VCU、MCU、BMS）、能源管理、電動車製造設備、電動巴士、電動車、電動商用車車輛駕駛/自動駕駛子系統、ADAS（高級駕駛輔助系統）、LiDAR、高精度地圖、人工智慧、系統整合Connected/ConnectedIoV（車聯網）、5G、網路安全、LEO 衛星通訊（B5G、6G ） EV 平台汽車品牌、新創公司、Tier 1互動/互動資訊娛樂、人車介面（連結人與車的介面）、智慧座艙技術分享展。</p>
 <p>展覽時間為2024年4月17日至2024年4月20日。舉辦地點為台北南港展覽館。</p>
 <p>點擊此處查看2024年台北國際汽車展官方網站：<br /><a href="https://www.taipeiampa.com.tw/en/index.html" target="_blank" rel="noopener">https://www.taipeiampa.com.tw/en/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/taipeiampa_2024_04_17/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50918</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50918</post-id>	</item>
 		<item>
 		<title>2024年台北國際烘焙展 (台灣)</title>
 		<link>/playlist/tibs_2024_03/</link>
@@ -95,24 +90,23 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50407</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50407</guid>
 
 					<description><![CDATA[<p>「2024台北國際烘焙展」是烘焙產品、烘焙食品、烘焙設備及配件、烘焙機械及裝置、烘焙組件、工具、零件以及其他烘 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「2024台北國際烘焙展」是烘焙產品、烘焙食品、烘焙設備及配件、烘焙機械及裝置、烘焙組件、工具、零件以及其他烘焙系統和產品的展覽。</p>
 <p>展覽時間為2024年3月14日至2024年3月17日。舉辦地點為台北南港國際展覽中心。</p>
 <p>2024台北國際麵包展官方首頁在這裡：<br />
 <a href="https://www.tibs.org.tw/en/" target="_blank" rel="noopener">https://www.tibs.org.tw/en/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/tibs_2024_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50407</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50407</post-id>	</item>
 		<item>
 		<title>2023 年台北食品展 (台灣)</title>
 		<link>/playlist/foodtaipei_2023_06/</link>
@@ -122,24 +116,23 @@
 		<pubDate>Fri, 26 Jan 2024 04:36:24 +0000</pubDate>
 				<category><![CDATA[台灣]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=48900</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=48900</guid>
 
 					<description><![CDATA[<p>「食品台北2023」包括新鮮水果和蔬菜、加工農產品、家禽產品、海鮮、肉類及加工肉製品、食用油、乳製品、保健食品 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodtaipei_2023_06/">2023 年台北食品展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodtaipei_2023_06/">2023 年台北食品展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「食品台北2023」包括新鮮水果和蔬菜、加工農產品、家禽產品、海鮮、肉類及加工肉製品、食用油、乳製品、保健食品、冷凍食品、罐頭食品、烘焙食品、餅乾、酒類和酒類。飲料、咖啡及茶、果汁及軟性飲料、調味品及糖果等展覽</p>
 <p>展覽期間為2023年6月14日至2023年6月17日。舉辦地點為台北南港展覽館。</p>
 <p>點此查看2023台北食品展官方網站：<br />
 <a href="https://www.foodtaipei.com.tw/en/index.html" target="_blank" rel="noopener">https://www.foodtaipei.com.tw/en/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodtaipei_2023_06/">2023 年台北食品展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodtaipei_2023_06/">2023 年台北食品展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/foodtaipei_2023_06/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">48900</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">48900</post-id>	</item>
 		<item>
 		<title>2023 年台北國際電腦展 (台灣)</title>
 		<link>/playlist/computextaipei_2023_05/</link>
@@ -152,24 +145,23 @@
 		<category><![CDATA[台灣]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=48759</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=48759</guid>
 
 					<description><![CDATA[<p>「COMPUTEX TAIPEI 2023」是高效能運算、人工智慧、超越連結、零碳技術、新創公司和下一代奇點的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/computextaipei_2023_05/">2023 年台北國際電腦展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/computextaipei_2023_05/">2023 年台北國際電腦展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「COMPUTEX TAIPEI 2023」是高效能運算、人工智慧、超越連結、零碳技術、新創公司和下一代奇點的展覽。</p>
 <p>展覽期間為2023年5月30日至2023年6月2日。舉辦地點為台北南港展覽館。</p>
 <p>點此查看COMPUTEX TAIPEI 2023官方網站：<br />
 <a href="https://www.computextaipei.com.tw/en/index.html" target="_blank" rel="noopener">https://www.computextaipei.com.tw/en/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/computextaipei_2023_05/">2023 年台北國際電腦展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/computextaipei_2023_05/">2023 年台北國際電腦展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/computextaipei_2023_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">48759</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">48759</post-id>	</item>
 		<item>
 		<title>TIMTOS 2023 (台灣)</title>
 		<link>/playlist/timtos_2023_03/</link>
@@ -179,24 +171,23 @@
 		<pubDate>Fri, 26 May 2023 06:08:22 +0000</pubDate>
 				<category><![CDATA[中國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=45705</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=45705</guid>
 
 					<description><![CDATA[<p>「TIMTOS 2023（台北國際機床展）」包括金屬加工機、機床零件、切削工具及配件、壓力機、鑄件、鍛造機、鈑 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/timtos_2023_03/">TIMTOS 2023 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/timtos_2023_03/">TIMTOS 2023 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「TIMTOS 2023（台北國際機床展）」包括金屬加工機、機床零件、切削工具及配件、壓力機、鑄件、鍛造機、鈑金加工機、管線材加工機、焊接及表面處理設備.，控制器，軟件設計工程，機器人自動化，檢查，測量和測試設備。</p>
 <p>展覽將於2023年3月06日至2023年3月11日舉行。舉辦地點為台灣南港展覽中心（TaiNEX）世貿館。</p>
 <p>TIMTOS 2023 的官方網站在這裡：<br />
 <a href="https://www.timtos.com.tw/en/index.html" target="_blank" rel="noopener">https://www.timtos.com.tw/en/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/timtos_2023_03/">TIMTOS 2023 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/timtos_2023_03/">TIMTOS 2023 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/timtos_2023_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">45705</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">45705</post-id>	</item>
 		<item>
 		<title>台北國際自行車展 2023 (台灣)</title>
 		<link>/playlist/taipeicycle_2023_03/</link>
@@ -208,23 +199,22 @@
 		<category><![CDATA[中國]]></category>
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=45657</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=45657</guid>
 
 					<description><![CDATA[<p>“TAIPEI CYCLE 2023”是完整的自行車，自行車零件，自行車配件，E-BIKE＆驅動單元，自行車服 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/taipeicycle_2023_03/">台北國際自行車展 2023 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/taipeicycle_2023_03/">台北國際自行車展 2023 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“TAIPEI CYCLE 2023”是完整的自行車，自行車零件，自行車配件，E-BIKE＆驅動單元，自行車服務，智能自行車設備和海外自行車品牌的展覽。</p>
 <p>展覽時間為2023年3月22日至2023年3月25日。舉辦地點為台灣南港國際展覽中心（TaiNEX）。</p>
 <p>台北國際自行車展 2023 的官方網站在這裡：<br />
 <a href="https://www.taipeicycle.com.tw/en/index.html" target="_blank" rel="noopener">https://www.taipeicycle.com.tw/en/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/taipeicycle_2023_03/">台北國際自行車展 2023 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/taipeicycle_2023_03/">台北國際自行車展 2023 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/taipeicycle_2023_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">45657</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">45657</post-id>	</item>
 	</channel>
 </rss>

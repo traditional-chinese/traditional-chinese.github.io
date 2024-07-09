@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/propak-%E4%BA%9E%E6%B4%B2-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/propak-亞洲-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 15 Jul 2022 08:59:46 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>ProPak 亞洲 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/propak-亞洲-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國</title>
 		<link>/contents/41237/</link>
 					<comments>/contents/41237/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41237</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41237</guid>
 
 					<description><![CDATA[<p>豐田泰國 在 ProPak 亞洲 2022 處展示了 工業壓力軟管。 我來自Toyox，我們公司TTT合作。T [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41237/">[ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41237/">[ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>豐田泰國 在 ProPak 亞洲 2022 處展示了 工業壓力軟管。</p>
 </p>
@@ -120,41 +117,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-18.jpg"></div>
 <div class="caption_text">這意味著當它彎曲時，我們拉動繩子，它會立即恢復原來的形狀。<br />沒有纏結。這個真的很好。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41237/">[ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41237/">[ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41237/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41237</post-id>
-		<media:content url="https://www.youtube.com/embed/x22iMaTyqw8" duration="132">
-			<media:player url="https://www.youtube.com/embed/x22iMaTyqw8" />
-			<media:title type="html">[ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 工業壓力軟管 - 豐田泰國 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/x22imatyqw8.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_01-18.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41237</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病</title>
 		<link>/contents/41241/</link>
@@ -166,10 +136,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41241</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41241</guid>
 
 					<description><![CDATA[<p>慢性腎髒病 在 ProPak 亞洲 2022 處展示了 Powerarm PAW 系列。 我們是CKD THA [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41241/">[ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41241/">[ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>慢性腎髒病 在 ProPak 亞洲 2022 處展示了 Powerarm PAW 系列。</p>
 </p>
@@ -237,39 +207,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-22.jpg"></div>
 <div class="caption_text">非常感謝。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41241/">[ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41241/">[ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41241/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41241</post-id>
-		<media:content url="https://www.youtube.com/embed/kwWOSmHyiZw" duration="152">
-			<media:player url="https://www.youtube.com/embed/kwWOSmHyiZw" />
-			<media:title type="html">[ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] Powerarm PAW 系列 - 慢性腎髒病 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/kwwosmhyizw.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_03-22.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41241</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑</title>
 		<link>/contents/41239/</link>
@@ -281,10 +226,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41239</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41239</guid>
 
 					<description><![CDATA[<p>克魯勃潤滑 在 ProPak 亞洲 2022 處展示了 潤滑。 歡迎來到 KLUBER LUBRICATION [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41239/">[ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41239/">[ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>克魯勃潤滑 在 ProPak 亞洲 2022 處展示了 潤滑。</p>
 </p>
@@ -332,34 +277,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-11.jpg"></div>
 <div class="caption_text">而且很受歡迎，可以承受高溫，<br />並將其用於您的設備維護並延長設備的使用壽命。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41239/">[ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41239/">[ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41239/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41239</post-id>
-		<media:content url="https://www.youtube.com/embed/R3hCqXIAWlQ" duration="85">
-			<media:player url="https://www.youtube.com/embed/R3hCqXIAWlQ" />
-			<media:title type="html">[ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 潤滑 - 克魯勃潤滑 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/r3hcqxiawlq.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_02-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41239</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團</title>
 		<link>/contents/41243/</link>
@@ -371,10 +296,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41243</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41243</guid>
 
 					<description><![CDATA[<p>華聯機械集團 在 ProPak 亞洲 2022 處展示了 自動邊封機。 我們是華聯泰國公司，一家機械進口商。我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41243/">[ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41243/">[ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>華聯機械集團 在 ProPak 亞洲 2022 處展示了 自動邊封機。</p>
 </p>
@@ -402,29 +327,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-6.jpg"></div>
 <div class="caption_text">薄膜收縮後會是這個樣子。<br />為了讓客戶的產品更漂亮，這將是一種測試工件的方法。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41243/">[ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41243/">[ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41243/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41243</post-id>
-		<media:content url="https://www.youtube.com/embed/qjApO5_woy0" duration="80">
-			<media:player url="https://www.youtube.com/embed/qjApO5_woy0" />
-			<media:title type="html">[ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 自動邊封機 - 華聯機械集團 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/qjapo5_woy0.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_04-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41243</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 塑料包裝 - TCK國際</title>
 		<link>/contents/41245/</link>
@@ -436,10 +346,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41245</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41245</guid>
 
 					<description><![CDATA[<p>TCK國際 在 ProPak 亞洲 2022 處展示了 塑料包裝。 我們是 TCK 國際。我們是泰國主要的包裝 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41245/">[ProPak 亞洲 2022] 塑料包裝 - TCK國際</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41245/">[ProPak 亞洲 2022] 塑料包裝 - TCK國際</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>TCK國際 在 ProPak 亞洲 2022 處展示了 塑料包裝。</p>
 </p>
@@ -499,37 +409,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-15.jpg"></div>
 <div class="caption_text">您也可以從我們這裡購買現成的瓶子。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41245/">[ProPak 亞洲 2022] 塑料包裝 - TCK國際</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41245/">[ProPak 亞洲 2022] 塑料包裝 - TCK國際</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41245/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41245</post-id>
-		<media:content url="https://www.youtube.com/embed/Y7t3mBgXKFI" duration="110">
-			<media:player url="https://www.youtube.com/embed/Y7t3mBgXKFI" />
-			<media:title type="html">[ProPak 亞洲 2022] 塑料包裝 - TCK國際 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 塑料包裝 - TCK國際 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/y7t3mbgxkfi.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_05-15.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41245</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統</title>
 		<link>/contents/41247/</link>
@@ -541,10 +428,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41247</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41247</guid>
 
 					<description><![CDATA[<p>超級秤和系統 在 ProPak 亞洲 2022 處展示了 多頭稱重立式包裝系統。 我們是超級規模和系統。今天我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41247/">[ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41247/">[ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>超級秤和系統 在 ProPak 亞洲 2022 處展示了 多頭稱重立式包裝系統。</p>
 </p>
@@ -600,36 +487,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-13.jpg"></div>
 <div class="caption_text">並來到X光機。<br />當進入這裡的X光機時，機器會看到是否有一塊金屬或一塊玻璃或被污染的東西。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41247/">[ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41247/">[ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41247/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41247</post-id>
-		<media:content url="https://www.youtube.com/embed/ZsnrEYiKzpE" duration="97">
-			<media:player url="https://www.youtube.com/embed/ZsnrEYiKzpE" />
-			<media:title type="html">[ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 多頭稱重立式包裝系統 - 超級秤和系統 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/zsnreyikzpe.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_06-13.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41247</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士</title>
 		<link>/contents/41249/</link>
@@ -641,10 +506,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41249</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41249</guid>
 
 					<description><![CDATA[<p>馬肯依瑪士 在 ProPak 亞洲 2022 處展示了 視覺相機。 如今，馬肯依瑪士在 2022 年為客戶帶來 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41249/">[ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41249/">[ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>馬肯依瑪士 在 ProPak 亞洲 2022 處展示了 視覺相機。</p>
 </p>
@@ -716,40 +581,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-19.jpg"></div>
 <div class="caption_text">這是一種有效的協作，並且具有準確的準確性。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41249/">[ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41249/">[ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41249/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41249</post-id>
-		<media:content url="https://www.youtube.com/embed/olknxGHzmJ8" duration="138">
-			<media:player url="https://www.youtube.com/embed/olknxGHzmJ8" />
-			<media:title type="html">[ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 視覺相機 - 馬肯依瑪士 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/olknxghzmj8.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_07-19.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41249</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 裝載技術 - 一個加號建築</title>
 		<link>/contents/41251/</link>
@@ -761,10 +600,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41251</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41251</guid>
 
 					<description><![CDATA[<p>一個加號建築 在 ProPak 亞洲 2022 處展示了 裝載技術。 公司名稱是 A Plus Buildin [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41251/">[ProPak 亞洲 2022] 裝載技術 - 一個加號建築</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41251/">[ProPak 亞洲 2022] 裝載技術 - 一個加號建築</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>一個加號建築 在 ProPak 亞洲 2022 處展示了 裝載技術。</p>
 </p>
@@ -800,31 +639,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-10.jpg"></div>
 <div class="caption_text">它不會讓外部和內部的空氣發生碰撞。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41251/">[ProPak 亞洲 2022] 裝載技術 - 一個加號建築</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41251/">[ProPak 亞洲 2022] 裝載技術 - 一個加號建築</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41251/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41251</post-id>
-		<media:content url="https://www.youtube.com/embed/Vyqq6Odv5ug" duration="85">
-			<media:player url="https://www.youtube.com/embed/Vyqq6Odv5ug" />
-			<media:title type="html">[ProPak 亞洲 2022] 裝載技術 - 一個加號建築 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 裝載技術 - 一個加號建築 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/vyqq6odv5ug.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_08-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41251</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版</title>
 		<link>/contents/41253/</link>
@@ -836,10 +658,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41253</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41253</guid>
 
 					<description><![CDATA[<p>白金專業版 在 ProPak 亞洲 2022 處展示了 集裝箱托盤。 我們是白金專業塑料公司。我們是位於羅勇省 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41253/">[ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41253/">[ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>白金專業版 在 ProPak 亞洲 2022 處展示了 集裝箱托盤。</p>
 </p>
@@ -867,29 +689,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-7.jpg"></div>
 <div class="caption_text">我們現在是東南亞唯一擁有這項技術的製造商。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41253/">[ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41253/">[ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41253/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41253</post-id>
-		<media:content url="https://www.youtube.com/embed/KWmXLwrb4Ds" duration="58">
-			<media:player url="https://www.youtube.com/embed/KWmXLwrb4Ds" />
-			<media:title type="html">[ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 集裝箱托盤 - 白金專業版 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/kwmxlwrb4ds.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_09-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41253</post-id>	</item>
 		<item>
 		<title>[ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝</title>
 		<link>/contents/41255/</link>
@@ -901,10 +708,10 @@
 		<category><![CDATA[ProPak 亞洲 2022]]></category>
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41255</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41255</guid>
 
 					<description><![CDATA[<p>自動包裝 在 ProPak 亞洲 2022 處展示了 全自動臥式圓瓶貼標機（LH-X1）。 我們公司是EVA  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41255/">[ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41255/">[ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>自動包裝 在 ProPak 亞洲 2022 處展示了 全自動臥式圓瓶貼標機（LH-X1）。</p>
 </p>
@@ -940,30 +747,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-9.jpg"></div>
 <div class="caption_text">每三個月都會有一個工程師團隊對機器進行保養，不管機器有沒有問題。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41255/">[ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41255/">[ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41255/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41255</post-id>
-		<media:content url="https://www.youtube.com/embed/8ELVC9hDt-M" duration="95">
-			<media:player url="https://www.youtube.com/embed/8ELVC9hDt-M" />
-			<media:title type="html">[ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ProPak 亞洲 2022] 全自動臥式圓瓶貼標機（LH-X1） - 自動包裝 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/8elvc9hdt-m.jpg" />
-			<media:keywords>泰國,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/propakasia_2022/propakasia_2022_10-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41255</post-id>	</item>
 	</channel>
 </rss>

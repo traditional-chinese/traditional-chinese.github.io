@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2021東京高性能材料週 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2021東京高性能材料週 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/2021%E6%9D%B1%E4%BA%AC%E9%AB%98%E6%80%A7%E8%83%BD%E6%9D%90%E6%96%99%E9%80%B1/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/2021東京高性能材料週/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Mon, 11 Apr 2022 08:55:26 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2021東京高性能材料週 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2021東京高性能材料週 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/2021東京高性能材料週/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2021東京高性能材料週</title>
 		<link>/contents/803/</link>
 					<comments>/contents/803/#respond</comments>
@@ -47,18 +44,17 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/material-expo_2021/</guid>
 
 					<description><![CDATA[<p>“第12屆高性能材料週（材料與加工機械綜合展）”是將薄膜、塑料、複合材料、金屬、陶瓷等對產品增值必不可少的材料 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/803/">2021東京高性能材料週</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/803/">2021東京高性能材料週</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“第12屆高性能材料週（材料與加工機械綜合展）”是將薄膜、塑料、複合材料、金屬、陶瓷等對產品增值必不可少的材料技術集中展示的展覽。 . ..</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/803/">2021東京高性能材料週</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/803/">2021東京高性能材料週</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/803/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">803</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">803</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社</title>
 		<link>/contents/805/</link>
@@ -76,7 +72,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/honshu-chemical-industry-co-ltd-_bio-derived-raw-material-ester-type-acid-dianhydride-iss-tme/</guid>
 
 					<description><![CDATA[<p>Honshu化學工業有限公司在高函數物質周東京2021上展出生物衍生的原料酯類酸二酐“ISS-TME”。 網站 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/805/">[2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/805/">[2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Honshu化學工業有限公司在高函數物質周東京2021上展出生物衍生的原料酯類酸二酐“ISS-TME”。</p>
 <p>網站：<a href="https://www.honshuchemical.co.jp/" target="_blank" rel="noopener">https://www.honshuchemical.co.jp/</a></p>
@@ -113,31 +109,14 @@
 <div class="caption_text">我們希望我們的客戶開發他們的應用程序。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=バイオ由来原料エステル型酸二無水物「ISS-TME」" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/805/">[2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/805/">[2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/805/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">805</post-id>
-		<media:content url="https://www.youtube.com/embed/VDA6cPQmBe8" duration="70">
-			<media:player url="https://www.youtube.com/embed/VDA6cPQmBe8" />
-			<media:title type="html">[2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 生物衍生原料酯型酸二酐“ISS-TME” - 本州化學工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/vda6cpqmbe8.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_01-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">805</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社</title>
 		<link>/contents/807/</link>
@@ -155,7 +134,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/sugai-chemical-industry-co-ltd-_ultra-high-refractive-index-compound-dinaftthiophene-derivative/</guid>
 
 					<description><![CDATA[<p>Sugai Chemical Industry Co.，Ltd。在Tokyo 2021的高官能材料週上表現出超 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/807/">[2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/807/">[2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Sugai Chemical Industry Co.，Ltd。在Tokyo 2021的高官能材料週上表現出超高折射率化合物“dinafacophene衍生物”。</p>
 <p>網站：<a href="https://www.sugai-chem.co.jp/" target="_blank" rel="noopener">https://www.sugai-chem.co.jp/</a></p>
@@ -200,33 +179,14 @@
 <div class="caption_text">用於半導體材料、工程材料等。<br />我們希望您使用它。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=超高屈折率化合物「ジナフトチオフェン誘導体」" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/807/">[2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/807/">[2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/807/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">807</post-id>
-		<media:content url="https://www.youtube.com/embed/oMZVGiqHW6s" duration="77">
-			<media:player url="https://www.youtube.com/embed/oMZVGiqHW6s" />
-			<media:title type="html">[2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 超高折射率化合物“二萘噻吩衍生物” - 杉井化學工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/omzvgiqhw6s.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_02-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">807</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社</title>
 		<link>/contents/809/</link>
@@ -244,7 +204,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/ukawa-rubber-mfg-co-ltd-_highly-resilient-rubber-sponge-super-set-foam/</guid>
 
 					<description><![CDATA[<p>Ukawa橡膠MFG。有限公司在高效材料周東京2021上展出高度彈性橡膠海綿“超級集泡沫”。 網站：https [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/809/">[2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/809/">[2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Ukawa橡膠MFG。有限公司在高效材料周東京2021上展出高度彈性橡膠海綿“超級集泡沫”。</p>
 <p>網站：<a href="https://www.ukawa-rubber.co.jp/" target="_blank" rel="noopener">https://www.ukawa-rubber.co.jp/</a></p>
@@ -297,35 +257,14 @@
 <div class="caption_text">具有這種特性的泡沫會產生很大的不同。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=高復元性ゴムスポンジ「スーパーセットフォーム」" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/809/">[2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/809/">[2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/809/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">809</post-id>
-		<media:content url="https://www.youtube.com/embed/TELFYf1vSWY" duration="92">
-			<media:player url="https://www.youtube.com/embed/TELFYf1vSWY" />
-			<media:title type="html">[2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 高回彈橡膠海綿“Super Set Foam” - 宇川橡膠工業株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/telfyf1vswy.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-64.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-71.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_03-78.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">809</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績</title>
 		<link>/contents/811/</link>
@@ -343,7 +282,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/kurabo-industries_kura-power-seat-r/</guid>
 
 					<description><![CDATA[<p>Kurabo Industries在高效的材料周東京2021上展出了庫拉動力座（R）。 網站：https:// [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/811/">[2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/811/">[2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Kurabo Industries在高效的材料周東京2021上展出了庫拉動力座（R）。</p>
 <p>網站：<a href="https://www.kurabo.co.jp/" target="_blank" rel="noopener">https://www.kurabo.co.jp/</a></p>
@@ -400,36 +339,14 @@
 <div class="caption_text">我們在了解這種環境的同時使用熱塑性樹脂粉末。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=クラパワーシート(R)" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/811/">[2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/811/">[2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/811/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">811</post-id>
-		<media:content url="https://www.youtube.com/embed/Q-pLmhJCo94" duration="106">
-			<media:player url="https://www.youtube.com/embed/Q-pLmhJCo94" />
-			<media:title type="html">[2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] Kura 電動座椅 (R) - 倉敷紡績 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/q-plmhjco94.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-64.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-71.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-78.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-85.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_04-92.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">811</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社</title>
 		<link>/contents/813/</link>
@@ -447,7 +364,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/otsuka-electronics-co-ltd-_line-scan-film-thickness-meter/</guid>
 
 					<description><![CDATA[<p>Otsuka Electronics Co.，Ltd。在Tokyo 2021的高型功能性材料週上表現出線路掃描 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/813/">[2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/813/">[2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Otsuka Electronics Co.，Ltd。在Tokyo 2021的高型功能性材料週上表現出線路掃描膜厚度計。</p>
 <p>網站：<a href="https://www.otsukael.jp/" target="_blank" rel="noopener">https://www.otsukael.jp/</a></p>
@@ -476,29 +393,14 @@
 <div class="caption_text">我希望你可以詢問細節。就這樣。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=ラインスキャン膜厚計" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/813/">[2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/813/">[2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/813/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">813</post-id>
-		<media:content url="https://www.youtube.com/embed/SzD4vJPfsBA" duration="46">
-			<media:player url="https://www.youtube.com/embed/SzD4vJPfsBA" />
-			<media:title type="html">[2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 線掃描膜厚儀 - 大塚電子株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/szd4vjpfsba.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_05-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">813</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司</title>
 		<link>/contents/815/</link>
@@ -516,7 +418,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/sabic_polycarbonate-lexan-film-portfolio/</guid>
 
 					<description><![CDATA[<p>在高官能材料周東京2021的高函數物質週上表現出聚碳酸酯“Lexan”薄膜組合。 網站：https://www/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/815/">[2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/815/">[2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>在高官能材料周東京2021的高函數物質週上表現出聚碳酸酯“Lexan”薄膜組合。</p>
 <p>網站：<a href="https://www.sabic.com/" target="_blank" rel="noopener">https://www.sabic.com/</a></p>
@@ -545,29 +447,14 @@
 <div class="caption_text">我們希望您能到我們的展位來看看。謝謝你。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=ポリカーボネート「LEXAN」フィルムポートフォリオ" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/815/">[2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/815/">[2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/815/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">815</post-id>
-		<media:content url="https://www.youtube.com/embed/NouAqRYPYWI" duration="50">
-			<media:player url="https://www.youtube.com/embed/NouAqRYPYWI" />
-			<media:title type="html">[2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 聚碳酸酯“LEXAN”薄膜產品組合 - 沙特基礎工業公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/nouaqrypywi.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_06-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">815</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 微清潔 2 - 冷噴 (R)</title>
 		<link>/contents/817/</link>
@@ -585,7 +472,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/cold-jet-r_micro-clean-2/</guid>
 
 					<description><![CDATA[<p>冷噴射（R）在高官能材料周東京2021上顯示微清潔2。 網站：https://coldjet.jp/ COLD [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/817/">[2021東京高性能材料週] 微清潔 2 - 冷噴 (R)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/817/">[2021東京高性能材料週] 微清潔 2 - 冷噴 (R)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>冷噴射（R）在高官能材料周東京2021上顯示微清潔2。</p>
 <p>網站：<a href="https://coldjet.jp/" target="_blank" rel="noopener">https://coldjet.jp/</a></p>
@@ -622,31 +509,14 @@
 <div class="caption_text">通過始終保持模具清潔<br />它是一種有用的產品，可以將產品的質量保持在較高的位置。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=マイクロクリーン2" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/817/">[2021東京高性能材料週] 微清潔 2 - 冷噴 (R)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/817/">[2021東京高性能材料週] 微清潔 2 - 冷噴 (R)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/817/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">817</post-id>
-		<media:content url="https://www.youtube.com/embed/Kk_eD2Hem9s" duration="71">
-			<media:player url="https://www.youtube.com/embed/Kk_eD2Hem9s" />
-			<media:title type="html">[2021東京高性能材料週] 微清潔 2 - 冷噴 (R) &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 微清潔 2 - 冷噴 (R) &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/kk_ed2hem9s.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_07-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">817</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社</title>
 		<link>/contents/819/</link>
@@ -664,7 +534,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/takikawa-engineering-co-ltd-_defect-marking-device-ellastine-marker/</guid>
 
 					<description><![CDATA[<p>Takikawa Engineering Co.，Ltd。在Tokyo 2021的高函數材料週上展出缺陷標記裝 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/819/">[2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/819/">[2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Takikawa Engineering Co.，Ltd。在Tokyo 2021的高函數材料週上展出缺陷標記裝置“橢圓標記”。</p>
 <p>網站：<a href="https://takikawa-eng.co.jp/" target="_blank" rel="noopener">https://takikawa-eng.co.jp/</a></p>
@@ -701,31 +571,14 @@
 <div class="caption_text">我們正在準備綠色。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=欠陥部マーキング装置「エラストリングマーカ」" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/819/">[2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/819/">[2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/819/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">819</post-id>
-		<media:content url="https://www.youtube.com/embed/ZFnBBdX0n34" duration="75">
-			<media:player url="https://www.youtube.com/embed/ZFnBBdX0n34" />
-			<media:title type="html">[2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 缺陷標記裝置“Ellastine Marker” - 瀧川工程株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/zfnbbdx0n34.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-57.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_08-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">819</post-id>	</item>
 		<item>
 		<title>[2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社</title>
 		<link>/contents/821/</link>
@@ -743,7 +596,7 @@
 		<guid isPermaLink="false">https://taiwan.wts.digital/hayashikazuji-co-ltd-_embossed-pattern-high-grain-film/</guid>
 
 					<description><![CDATA[<p>Hayashikazuji Co.，Ltd。在Tokyo 2021的高函數物質週上展出了壓花圖案“高穀物薄膜” [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/821/">[2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/821/">[2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Hayashikazuji Co.，Ltd。在Tokyo 2021的高函數物質週上展出了壓花圖案“高穀物薄膜”。</p>
 <p>網站：<a href="http://www.hayashikazuji.co.jp/" target="_blank" rel="noopener">http://www.hayashikazuji.co.jp/</a></p>
@@ -776,29 +629,13 @@
 <div class="caption_text">我們也處理那個區域。<br />由於是本公司定做，請先與我們聯繫。</div>
 </div>
 <div class="tcontact"><a href="https://com.wts.digital/?fepaction=newmessage&#038;fep_to=support&#038;item=エンボス柄「ハイシボフィルム」" target="_blank" rel="noopener">詢問</a></div>
-<p>這篇文章 <a rel="nofollow" href="/contents/821/">[2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/821/">[2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/821/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">821</post-id>
-		<media:content url="https://www.youtube.com/embed/YOXqV501gSU" duration="64">
-			<media:player url="https://www.youtube.com/embed/YOXqV501gSU" />
-			<media:title type="html">[2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [2021東京高性能材料週] 壓花圖案“高顆粒薄膜” - 林和二株式會社 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2021/12/yoxqv501gsu.jpg" />
-			<media:keywords>基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/material-expo_2021/material-expo_2021_09-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">821</post-id>	</item>
 	</channel>
 </rss>

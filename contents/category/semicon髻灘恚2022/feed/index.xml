@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>SEMICON韓國2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>SEMICON韓國2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/semicon%E9%9F%93%E5%9C%8B2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/semicon韓國2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 06 Apr 2022 06:03:08 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>SEMICON韓國2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>SEMICON韓國2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/semicon韓國2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>SEMICON韓國2022</title>
 		<link>/contents/39515/</link>
 					<comments>/contents/39515/#respond</comments>
@@ -42,23 +39,22 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/semicon_korea_2022/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/semicon_korea_2022/</guid>
 
 					<description><![CDATA[<p>“SEMICON Korea 2022”是與半導體、顯示器、FPD、傳感器等相關的展覽會。參展項目有半導體、顯 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39515/">SEMICON韓國2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39515/">SEMICON韓國2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“SEMICON Korea 2022”是與半導體、顯示器、FPD、傳感器等相關的展覽會。<br />參展項目有半導體、顯示器、FPD、傳感器、LED、固體照明、軟件、應用、成像、MEMS、PCB組裝、PCB製造、光子學、太陽能發電、太陽能、學術界、大學、研發、航空航天、汽車, 交通運輸, 家用電器, EMS, 合同製造, 精密工程, 柔性混合電子, 印刷電子, 醫療, 專業服務, 諮詢, 研發, 技術轉移, 工廠控制, 過程軟件, 工程服務, 電子製造服務 (EMS) , 系統集成, 封裝, 測試服務 (OSAT), 代工, 製造服務, 諮詢, 設計, EDA, fabless, 前端處理, 工廠自動化, 機器人工程, 檢查, 測量/測量, 測試, 組裝, 封裝, 零件,大面積、薄膜、印刷、塗層、卷對卷、組件、子系統、儀器、二次設備、服務、減排、環境系統、晶片、基材、氣體、液體、固體、化學品、清潔、耗材、油墨、漿料、印刷材料等</p>
 <p>會議時間為 2022 年 2 月 9 日至 2022 年 2 月 11 日，為期三天。地點是韓國首爾的COEX。</p>
 <p>點擊此處查看SEMICON Korea 2022官方網站：<br /><a href="https://www.semiconkorea.org/ko" target="_blank" rel="noopener">https://www.semiconkorea.org/ko</a></p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39515/">SEMICON韓國2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39515/">SEMICON韓國2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39515/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39515</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39515</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 自動化傳感器 - SICK</title>
 		<link>/contents/39517/</link>
@@ -71,10 +67,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/sick_automation-sensor/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/sick_automation-sensor/</guid>
 
 					<description><![CDATA[<p>SICK 在 SEMICON韓國2022 處展示了 自動化傳感器。 我們是一家韓國分公司，總部位於德國，是一家 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39517/">[SEMICON韓國2022] 自動化傳感器 - SICK</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39517/">[SEMICON韓國2022] 自動化傳感器 - SICK</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>SICK 在 SEMICON韓國2022 處展示了 自動化傳感器。</p>
 </p>
@@ -114,32 +110,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-57.jpg"></div>
 <div class="caption_text">我認為可以向自動化行業提出很多解決方案。我期待著與您合作。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39517/">[SEMICON韓國2022] 自動化傳感器 - SICK</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39517/">[SEMICON韓國2022] 自動化傳感器 - SICK</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39517/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39517</post-id>
-		<media:content url="https://www.youtube.com/embed/XodEqZdNPdE" duration="64">
-			<media:player url="https://www.youtube.com/embed/XodEqZdNPdE" />
-			<media:title type="html">[SEMICON韓國2022] 自動化傳感器 - SICK &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 自動化傳感器 - SICK &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/xodeqzdnpde.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_01-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39517</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器</title>
 		<link>/contents/39519/</link>
@@ -152,10 +130,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/myoungsung-instrument_pressure-temperature-measuring-instruments/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/myoungsung-instrument_pressure-temperature-measuring-instruments/</guid>
 
 					<description><![CDATA[<p>明星儀器 在 SEMICON韓國2022 處展示了 壓力/溫度測量儀器。 是的，我們是Myungsung樂器。 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39519/">[SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39519/">[SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>明星儀器 在 SEMICON韓國2022 處展示了 壓力/溫度測量儀器。</p>
 </p>
@@ -183,29 +161,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-36.jpg"></div>
 <div class="caption_text">未來我們會做很多好產品<br />是的，謝謝。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39519/">[SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39519/">[SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39519/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39519</post-id>
-		<media:content url="https://www.youtube.com/embed/O4bHqNa7Y8g" duration="45">
-			<media:player url="https://www.youtube.com/embed/O4bHqNa7Y8g" />
-			<media:title type="html">[SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 壓力/溫度測量儀器 - 明星儀器 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/o4bhqna7y8g.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_02-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39519</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 細孔加工 - 21噸</title>
 		<link>/contents/39521/</link>
@@ -218,10 +181,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/21t_fine-hole-machining/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/21t_fine-hole-machining/</guid>
 
 					<description><![CDATA[<p>21噸 在 SEMICON韓國2022 處展示了 細孔加工。 我們是一家名為21世紀的公司，位於東灘 我們是一 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39521/">[SEMICON韓國2022] 細孔加工 - 21噸</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39521/">[SEMICON韓國2022] 細孔加工 - 21噸</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>21噸 在 SEMICON韓國2022 處展示了 細孔加工。</p>
 </p>
@@ -253,30 +216,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-43.jpg"></div>
 <div class="caption_text">是的，它是一家精通細孔加工的公司，如果有很多客戶來訪，我們將不勝感激。<br />謝謝</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39521/">[SEMICON韓國2022] 細孔加工 - 21噸</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39521/">[SEMICON韓國2022] 細孔加工 - 21噸</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39521/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39521</post-id>
-		<media:content url="https://www.youtube.com/embed/PMT_pQZxcSo" duration="53">
-			<media:player url="https://www.youtube.com/embed/PMT_pQZxcSo" />
-			<media:title type="html">[SEMICON韓國2022] 細孔加工 - 21噸 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 細孔加工 - 21噸 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/pmt_pqzxcso.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_03-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39521</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀</title>
 		<link>/contents/39523/</link>
@@ -289,10 +236,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/nidec-read_electronic-measuring-device/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/nidec-read_electronic-measuring-device/</guid>
 
 					<description><![CDATA[<p>日本電產閱讀 在 SEMICON韓國2022 處展示了 電子測量裝置。 Nidec Read 是 Nidec  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39523/">[SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39523/">[SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>日本電產閱讀 在 SEMICON韓國2022 處展示了 電子測量裝置。</p>
 </p>
@@ -332,32 +279,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-57.jpg"></div>
 <div class="caption_text">尤其是非記憶會在未來增長，<br />因此，我們正在更具戰略性地推廣該領域，並且我們預計它會暫時繼續增長。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39523/">[SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39523/">[SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39523/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39523</post-id>
-		<media:content url="https://www.youtube.com/embed/WkC5-XKnmD0" duration="69">
-			<media:player url="https://www.youtube.com/embed/WkC5-XKnmD0" />
-			<media:title type="html">[SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 電子測量裝置 - 日本電產閱讀 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/wkc5-xknmd0.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_04-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39523</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀</title>
 		<link>/contents/39525/</link>
@@ -370,10 +299,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/hiwin_linear-guideway-ball-screw-etc/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/hiwin_linear-guideway-ball-screw-etc/</guid>
 
 					<description><![CDATA[<p>上銀 在 SEMICON韓國2022 處展示了 直線導軌、滾珠絲槓等。 我們的公司名稱是 Hiwin Corp [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39525/">[SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39525/">[SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>上銀 在 SEMICON韓國2022 處展示了 直線導軌、滾珠絲槓等。</p>
 </p>
@@ -409,31 +338,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-57.jpg"></div>
 <div class="caption_text">您可以隨時聯繫我們，我們可以合作。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39525/">[SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39525/">[SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39525/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39525</post-id>
-		<media:content url="https://www.youtube.com/embed/zWuEqB2mFT0" duration="64">
-			<media:player url="https://www.youtube.com/embed/zWuEqB2mFT0" />
-			<media:title type="html">[SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 直線導軌、滾珠絲槓等 - 上銀 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/zwueqb2mft0.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_05-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39525</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 無損檢測設備 - OHLABS</title>
 		<link>/contents/39527/</link>
@@ -446,10 +358,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/ohlabs_non-destructive-testing-equipment/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/ohlabs_non-destructive-testing-equipment/</guid>
 
 					<description><![CDATA[<p>OHLABS 在 SEMICON韓國2022 處展示了 無損檢測設備。 您好，我們公司主要以超聲波為主無損檢測 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39527/">[SEMICON韓國2022] 無損檢測設備 - OHLABS</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39527/">[SEMICON韓國2022] 無損檢測設備 - OHLABS</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>OHLABS 在 SEMICON韓國2022 處展示了 無損檢測設備。</p>
 </p>
@@ -489,32 +401,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-57.jpg"></div>
 <div class="caption_text">並響應您的需求。謝謝</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39527/">[SEMICON韓國2022] 無損檢測設備 - OHLABS</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39527/">[SEMICON韓國2022] 無損檢測設備 - OHLABS</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39527/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39527</post-id>
-		<media:content url="https://www.youtube.com/embed/46tewmQQBOA" duration="66">
-			<media:player url="https://www.youtube.com/embed/46tewmQQBOA" />
-			<media:title type="html">[SEMICON韓國2022] 無損檢測設備 - OHLABS &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 無損檢測設備 - OHLABS &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/46tewmqqboa.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-43.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-50.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_06-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39527</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 自動化電氣產品 - 三洋電機</title>
 		<link>/contents/39529/</link>
@@ -527,10 +421,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/sanyo-denki_electrical-produts-for-automation/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/sanyo-denki_electrical-produts-for-automation/</guid>
 
 					<description><![CDATA[<p>三洋電機 在 SEMICON韓國2022 處展示了 自動化電氣產品。 是的，你好，我是來自韓國三洋電機的 Kw [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39529/">[SEMICON韓國2022] 自動化電氣產品 - 三洋電機</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39529/">[SEMICON韓國2022] 自動化電氣產品 - 三洋電機</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>三洋電機 在 SEMICON韓國2022 處展示了 自動化電氣產品。</p>
 </p>
@@ -558,29 +452,14 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-43.jpg"></div>
 <div class="caption_text">是的，我們將繼續大量使用我們的產品並尋求您的支持。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39529/">[SEMICON韓國2022] 自動化電氣產品 - 三洋電機</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39529/">[SEMICON韓國2022] 自動化電氣產品 - 三洋電機</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39529/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39529</post-id>
-		<media:content url="https://www.youtube.com/embed/1toiphkE5Dc" duration="55">
-			<media:player url="https://www.youtube.com/embed/1toiphkE5Dc" />
-			<media:title type="html">[SEMICON韓國2022] 自動化電氣產品 - 三洋電機 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 自動化電氣產品 - 三洋電機 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/1toiphke5dc.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-36.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_07-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39529</post-id>	</item>
 		<item>
 		<title>[SEMICON韓國2022] 防塵服 - 普瑞泰克</title>
 		<link>/contents/39531/</link>
@@ -593,10 +472,10 @@
 		<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[韓國]]></category>
-		<guid isPermaLink="false">/puritech_dust-proof-clothing/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/puritech_dust-proof-clothing/</guid>
 
 					<description><![CDATA[<p>普瑞泰克 在 SEMICON韓國2022 處展示了 防塵服。 我們公司是 PURITECH。我公司是一家主要生 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/39531/">[SEMICON韓國2022] 防塵服 - 普瑞泰克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39531/">[SEMICON韓國2022] 防塵服 - 普瑞泰克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>普瑞泰克 在 SEMICON韓國2022 處展示了 防塵服。</p>
 </p>
@@ -624,28 +503,13 @@
 <div class="caption_img"><img decoding="async" src="https://tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-50.jpg"></div>
 <div class="caption_text">如果您有任何問題，請隨時與我們聯繫。謝謝</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/39531/">[SEMICON韓國2022] 防塵服 - 普瑞泰克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/39531/">[SEMICON韓國2022] 防塵服 - 普瑞泰克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/39531/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">39531</post-id>
-		<media:content url="https://www.youtube.com/embed/aUyHa5gJgT4" duration="55">
-			<media:player url="https://www.youtube.com/embed/aUyHa5gJgT4" />
-			<media:title type="html">[SEMICON韓國2022] 防塵服 - 普瑞泰克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [SEMICON韓國2022] 防塵服 - 普瑞泰克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/02/auyha5gjgt4.jpg" />
-			<media:keywords>信息/電信,機械/工業技術,韓國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-01.jpg" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-01.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-08.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-15.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-22.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-29.jpg" medium="image" />
-		<media:content url="/tenji.tv/wp-content/uploads/video_img/semicon_korea_2022/semicon_korea_2022_08-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">39531</post-id>	</item>
 	</channel>
 </rss>

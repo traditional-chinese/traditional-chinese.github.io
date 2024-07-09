@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E8%A8%AD%E8%A8%88%E5%80%AB%E6%95%A6-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/設計倫敦-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 13 Oct 2022 01:59:37 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/設計倫敦-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>設計倫敦 2022 (英國)</title>
 		<link>/playlist/designlondon_2022_09/</link>
 					<comments>/playlist/designlondon_2022_09/#respond</comments>
@@ -39,24 +36,23 @@
 		<pubDate>Thu, 13 Oct 2022 01:59:37 +0000</pubDate>
 				<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42327</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42327</guid>
 
 					<description><![CDATA[<p>“Design London 2022”是藝術與設計、室內用品、家具、照明燈具等的展覽。 Space-Comm [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/designlondon_2022_09/">設計倫敦 2022 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/designlondon_2022_09/">設計倫敦 2022 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Design London 2022”是藝術與設計、室內用品、家具、照明燈具等的展覽。<br />
 Space-Comm Expo 將太空產品、服務和解決方案的商業公司和製造供應鏈聚集在一起。</p>
 <p>展覽時間為2022年9月21日至2022年9月24日。地點是英國倫敦雜誌。</p>
 <p>Design London 2022的官方網站在這裡：<br />
 <a href="https://www.designlondon.co.uk/" target="_blank" rel="noopener">https://www.designlondon.co.uk/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/designlondon_2022_09/">設計倫敦 2022 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/designlondon_2022_09/">設計倫敦 2022 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/designlondon_2022_09/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42327</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42327</post-id>	</item>
 	</channel>
 </rss>

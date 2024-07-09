@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/packplus-2022%EF%BC%88%E6%96%B0%E5%BE%B7%E9%87%8C%EF%BC%89/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/packplus-2022（新德里）/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 29 Jul 2022 05:47:59 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/packplus-2022（新德里）/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[PackPlus 2022（新德里）] 包裝材料製造商 - 實用包</title>
 		<link>/contents/41503/</link>
 					<comments>/contents/41503/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41503</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41503</guid>
 
 					<description><![CDATA[<p>實用包 在 PackPlus 2022（新德里） 處展示了 包裝材料製造商。 你好！祝大家！我們來自 Prag [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41503/">[PackPlus 2022（新德里）] 包裝材料製造商 - 實用包</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41503/">[PackPlus 2022（新德里）] 包裝材料製造商 - 實用包</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>實用包 在 PackPlus 2022（新德里） 處展示了 包裝材料製造商。</p>
 </p>
@@ -93,34 +90,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-15.jpg"></div>
 <div class="caption_text">非常感謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41503/">[PackPlus 2022（新德里）] 包裝材料製造商 - 實用包</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41503/">[PackPlus 2022（新德里）] 包裝材料製造商 - 實用包</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41503/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41503</post-id>
-		<media:content url="https://www.youtube.com/embed/vbbE9FZFSzw" duration="105">
-			<media:player url="https://www.youtube.com/embed/vbbE9FZFSzw" />
-			<media:title type="html">[PackPlus 2022（新德里）] 包裝材料製造商 - 實用包 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 包裝材料製造商 - 實用包 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/vbbe9fzfszw.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_01-15.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41503</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝</title>
 		<link>/contents/41505/</link>
@@ -133,10 +110,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41505</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41505</guid>
 
 					<description><![CDATA[<p>瑪希莎包裝 在 PackPlus 2022（新德里） 處展示了 熱熔膠點膠設備製造商。 嗨，我的名字是 Par [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41505/">[PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41505/">[PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>瑪希莎包裝 在 PackPlus 2022（新德里） 處展示了 熱熔膠點膠設備製造商。</p>
 </p>
@@ -196,37 +173,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-18.jpg"></div>
 <div class="caption_text">謝謝你！ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41505/">[PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41505/">[PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41505/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41505</post-id>
-		<media:content url="https://www.youtube.com/embed/TE_AUHftN8Y" duration="132">
-			<media:player url="https://www.youtube.com/embed/TE_AUHftN8Y" />
-			<media:title type="html">[PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 熱熔膠點膠設備製造商 - 瑪希莎包裝 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/te_auhftn8y.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_02-18.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41505</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太</title>
 		<link>/contents/41507/</link>
@@ -239,10 +193,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41507</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41507</guid>
 
 					<description><![CDATA[<p>艾納康亞太 在 PackPlus 2022（新德里） 處展示了 封蓋機製造商。 大家好，我是來自 Enerco [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41507/">[PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41507/">[PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>艾納康亞太 在 PackPlus 2022（新德里） 處展示了 封蓋機製造商。</p>
 </p>
@@ -262,27 +216,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_03-5.jpg"></div>
 <div class="caption_text">所以這是可以連接到製藥、食品和化妝品行業的在線應用程序的在線機器。謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41507/">[PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41507/">[PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41507/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41507</post-id>
-		<media:content url="https://www.youtube.com/embed/xAL6iccNisc" duration="41">
-			<media:player url="https://www.youtube.com/embed/xAL6iccNisc" />
-			<media:title type="html">[PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 封蓋機製造商 - 艾納康亞太 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/xal6iccnisc.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_03-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41507</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 印刷機製造商 - 控制打印</title>
 		<link>/contents/41509/</link>
@@ -295,10 +236,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41509</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41509</guid>
 
 					<description><![CDATA[<p>控制打印 在 PackPlus 2022（新德里） 處展示了 印刷機製造商。 Control Print Li [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41509/">[PackPlus 2022（新德里）] 印刷機製造商 - 控制打印</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41509/">[PackPlus 2022（新德里）] 印刷機製造商 - 控制打印</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>控制打印 在 PackPlus 2022（新德里） 處展示了 印刷機製造商。</p>
 </p>
@@ -322,28 +263,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-6.jpg"></div>
 <div class="caption_text">謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41509/">[PackPlus 2022（新德里）] 印刷機製造商 - 控制打印</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41509/">[PackPlus 2022（新德里）] 印刷機製造商 - 控制打印</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41509/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41509</post-id>
-		<media:content url="https://www.youtube.com/embed/k72xz1H-G30" duration="43">
-			<media:player url="https://www.youtube.com/embed/k72xz1H-G30" />
-			<media:title type="html">[PackPlus 2022（新德里）] 印刷機製造商 - 控制打印 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 印刷機製造商 - 控制打印 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/k72xz1h-g30.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_04-6.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41509</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達</title>
 		<link>/contents/41511/</link>
@@ -356,10 +283,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41511</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41511</guid>
 
 					<description><![CDATA[<p>柯尼卡美能達 在 PackPlus 2022（新德里） 處展示了 工業印刷機製造商。 您好，我是 Vijay  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41511/">[PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41511/">[PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>柯尼卡美能達 在 PackPlus 2022（新德里） 處展示了 工業印刷機製造商。</p>
 </p>
@@ -407,34 +334,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-18.jpg"></div>
 <div class="caption_text">所以謝謝！非常感謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41511/">[PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41511/">[PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41511/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41511</post-id>
-		<media:content url="https://www.youtube.com/embed/Sd8Qj2LToXo" duration="131">
-			<media:player url="https://www.youtube.com/embed/Sd8Qj2LToXo" />
-			<media:title type="html">[PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 工業印刷機製造商 - 柯尼卡美能達 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/sd8qj2ltoxo.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_05-18.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41511</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝</title>
 		<link>/contents/41513/</link>
@@ -447,10 +354,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41513</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41513</guid>
 
 					<description><![CDATA[<p>馬格納斯包裝 在 PackPlus 2022（新德里） 處展示了 包裝機製造商。 您好，我的名字是 Monis [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41513/">[PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41513/">[PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>馬格納斯包裝 在 PackPlus 2022（新德里） 處展示了 包裝機製造商。</p>
 </p>
@@ -486,31 +393,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-9.jpg"></div>
 <div class="caption_text">太感謝了。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41513/">[PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41513/">[PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41513/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41513</post-id>
-		<media:content url="https://www.youtube.com/embed/xBw7QlCwSTY" duration="65">
-			<media:player url="https://www.youtube.com/embed/xBw7QlCwSTY" />
-			<media:title type="html">[PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 包裝機製造商 - 馬格納斯包裝 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/xbw7qlcwsty.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_06-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41513</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料</title>
 		<link>/contents/41515/</link>
@@ -523,10 +413,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41515</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41515</guid>
 
 					<description><![CDATA[<p>艾莉亞塑料 在 PackPlus 2022（新德里） 處展示了 塑料容器製造商。 大家好，我是 Ankita， [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41515/">[PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41515/">[PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>艾莉亞塑料 在 PackPlus 2022（新德里） 處展示了 塑料容器製造商。</p>
 </p>
@@ -614,44 +504,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-24.jpg"></div>
 <div class="caption_text">您會找到適用於化妝品、製藥的所有解決方案。謝謝你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41515/">[PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41515/">[PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41515/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41515</post-id>
-		<media:content url="https://www.youtube.com/embed/e050RO45kFk" duration="176">
-			<media:player url="https://www.youtube.com/embed/e050RO45kFk" />
-			<media:title type="html">[PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 塑料容器製造商 - 艾莉亞塑料 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/e050ro45kfk.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_07-24.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41515</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克</title>
 		<link>/contents/41517/</link>
@@ -664,10 +524,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41517</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41517</guid>
 
 					<description><![CDATA[<p>杜拉帕克 在 PackPlus 2022（新德里） 處展示了 包裝機械和材料經銷商。 嗨，我是莫妮卡。我正在與 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41517/">[PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41517/">[PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>杜拉帕克 在 PackPlus 2022（新德里） 處展示了 包裝機械和材料經銷商。</p>
 </p>
@@ -683,26 +543,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_08-4.jpg"></div>
 <div class="caption_text">就這樣。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41517/">[PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41517/">[PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41517/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41517</post-id>
-		<media:content url="https://www.youtube.com/embed/yxi3egllYUM" duration="29">
-			<media:player url="https://www.youtube.com/embed/yxi3egllYUM" />
-			<media:title type="html">[PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 包裝機械和材料經銷商 - 杜拉帕克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/yxi3egllyum.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_08-4.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41517</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資</title>
 		<link>/contents/41519/</link>
@@ -715,10 +563,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41519</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41519</guid>
 
 					<description><![CDATA[<p>彈性風險投資 在 PackPlus 2022（新德里） 處展示了 包裝袋製造商。 你好，我的名字是 Anant [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41519/">[PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41519/">[PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>彈性風險投資 在 PackPlus 2022（新德里） 處展示了 包裝袋製造商。</p>
 </p>
@@ -774,36 +622,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-15.jpg"></div>
 <div class="caption_text">太感謝了。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41519/">[PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41519/">[PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41519/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41519</post-id>
-		<media:content url="https://www.youtube.com/embed/gyN-wOMKaC8" duration="111">
-			<media:player url="https://www.youtube.com/embed/gyN-wOMKaC8" />
-			<media:title type="html">[PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 包裝袋製造商 - 彈性風險投資 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/gyn-womkac8.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_09-15.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41519</post-id>	</item>
 		<item>
 		<title>[PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化</title>
 		<link>/contents/41521/</link>
@@ -816,10 +642,10 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41521</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41521</guid>
 
 					<description><![CDATA[<p>甘地自動化 在 PackPlus 2022（新德里） 處展示了 入口自動化和裝載區。 您好，這邊來自 Gand [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41521/">[PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41521/">[PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>甘地自動化 在 PackPlus 2022（新德里） 處展示了 入口自動化和裝載區。</p>
 </p>
@@ -843,27 +669,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-5.jpg"></div>
 <div class="caption_text">我們有金屬百葉窗、捲簾百葉窗，我們有所有類型的入口自動化解決方案。謝謝你！ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41521/">[PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41521/">[PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41521/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41521</post-id>
-		<media:content url="https://www.youtube.com/embed/FooVN1sxRYY" duration="45">
-			<media:player url="https://www.youtube.com/embed/FooVN1sxRYY" />
-			<media:title type="html">[PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [PackPlus 2022（新德里）] 入口自動化和裝載區 - 甘地自動化 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/foovn1sxryy.jpg" />
-			<media:keywords>印度,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/packplus_2022_07/packplus_2022_07_10-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41521</post-id>	</item>
 	</channel>
 </rss>

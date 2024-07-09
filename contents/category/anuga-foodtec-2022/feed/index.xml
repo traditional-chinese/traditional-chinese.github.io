@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>Anuga FoodTec 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>Anuga FoodTec 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/anuga-foodtec-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/anuga-foodtec-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 20 May 2022 07:10:39 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>Anuga FoodTec 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>Anuga FoodTec 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/anuga-foodtec-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制</title>
 		<link>/contents/40581/</link>
 					<comments>/contents/40581/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40581</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40581</guid>
 
 					<description><![CDATA[<p>粉塵控制 在 Anuga FoodTec 2022 處展示了 移動抽吸裝置。 嗨下午好！我們是除塵設備的製造商 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40581/">[Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40581/">[Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>粉塵控制 在 Anuga FoodTec 2022 處展示了 移動抽吸裝置。</p>
 </p>
@@ -73,29 +70,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-43.jpg"></div>
 <div class="caption_text">訪問我們，親眼看看！</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40581/">[Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40581/">[Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40581/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40581</post-id>
-		<media:content url="https://www.youtube.com/embed/G0x0HuQx5rs" duration="53">
-			<media:player url="https://www.youtube.com/embed/G0x0HuQx5rs" />
-			<media:title type="html">[Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 移動抽吸裝置 - 粉塵控制 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/g0x0huqx5rs.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_10-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40581</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 機器視覺系統 - 自動視覺</title>
 		<link>/contents/40579/</link>
@@ -108,10 +90,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40579</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40579</guid>
 
 					<description><![CDATA[<p>自動視覺 在 Anuga FoodTec 2022 處展示了 機器視覺系統。 你好，我的名字是彼得紐豪斯。我是 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40579/">[Anuga FoodTec 2022] 機器視覺系統 - 自動視覺</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40579/">[Anuga FoodTec 2022] 機器視覺系統 - 自動視覺</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>自動視覺 在 Anuga FoodTec 2022 處展示了 機器視覺系統。</p>
 </p>
@@ -187,41 +169,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-141.jpg"></div>
 <div class="caption_text">非常感謝您的關注。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40579/">[Anuga FoodTec 2022] 機器視覺系統 - 自動視覺</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40579/">[Anuga FoodTec 2022] 機器視覺系統 - 自動視覺</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40579/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40579</post-id>
-		<media:content url="https://www.youtube.com/embed/2JoRf7LeiSI" duration="145">
-			<media:player url="https://www.youtube.com/embed/2JoRf7LeiSI" />
-			<media:title type="html">[Anuga FoodTec 2022] 機器視覺系統 - 自動視覺 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 機器視覺系統 - 自動視覺 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/2jorf7leisi.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-092.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-099.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_09-141.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40579</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 食品連接應用程序 - 食品連接</title>
 		<link>/contents/40577/</link>
@@ -234,10 +189,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40577</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40577</guid>
 
 					<description><![CDATA[<p>食品連接 在 Anuga FoodTec 2022 處展示了 食品連接應用程序。 嗨，我的名字是列儂，我來自北 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40577/">[Anuga FoodTec 2022] 食品連接應用程序 - 食品連接</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40577/">[Anuga FoodTec 2022] 食品連接應用程序 - 食品連接</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>食品連接 在 Anuga FoodTec 2022 處展示了 食品連接應用程序。</p>
 </p>
@@ -273,31 +228,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-57.jpg"></div>
 <div class="caption_text">並將有關所有客戶的所有數據存儲在一個平台上的一個地方。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40577/">[Anuga FoodTec 2022] 食品連接應用程序 - 食品連接</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40577/">[Anuga FoodTec 2022] 食品連接應用程序 - 食品連接</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40577/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40577</post-id>
-		<media:content url="https://www.youtube.com/embed/8zw7XQQ4dMM" duration="65">
-			<media:player url="https://www.youtube.com/embed/8zw7XQQ4dMM" />
-			<media:title type="html">[Anuga FoodTec 2022] 食品連接應用程序 - 食品連接 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 食品連接應用程序 - 食品連接 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/8zw7xqq4dmm.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_08-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40577</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂</title>
 		<link>/contents/40576/</link>
@@ -310,10 +248,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40576</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40576</guid>
 
 					<description><![CDATA[<p>法基內蒂 在 Anuga FoodTec 2022 處展示了 奶酪切割機。 你好。這是法基尼蒂。這是一家意大利 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40576/">[Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40576/">[Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>法基內蒂 在 Anuga FoodTec 2022 處展示了 奶酪切割機。</p>
 </p>
@@ -345,30 +283,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-57.jpg"></div>
 <div class="caption_text">非常感謝您參加本次活動。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40576/">[Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40576/">[Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40576/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40576</post-id>
-		<media:content url="https://www.youtube.com/embed/JTOyW7IqfKE" duration="65">
-			<media:player url="https://www.youtube.com/embed/JTOyW7IqfKE" />
-			<media:title type="html">[Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 奶酪切割機 - 法基內蒂 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/jtoyw7iqfke.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_07-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40576</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 旋轉泵 - 中金</title>
 		<link>/contents/40574/</link>
@@ -381,10 +303,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40574</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40574</guid>
 
 					<description><![CDATA[<p>中金 在 Anuga FoodTec 2022 處展示了 旋轉泵。 您好，我們是 nakakin 有限公司。我 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40574/">[Anuga FoodTec 2022] 旋轉泵 - 中金</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40574/">[Anuga FoodTec 2022] 旋轉泵 - 中金</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>中金 在 Anuga FoodTec 2022 處展示了 旋轉泵。</p>
 </p>
@@ -404,27 +326,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_06-36.jpg"></div>
 <div class="caption_text">這也是所有由不銹鋼製成的，所以這是非常衛生的泵。<br />主要用於食品工業、飲料工業、醫藥工業等。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40574/">[Anuga FoodTec 2022] 旋轉泵 - 中金</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40574/">[Anuga FoodTec 2022] 旋轉泵 - 中金</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40574/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40574</post-id>
-		<media:content url="https://www.youtube.com/embed/Uvx3TD5XZd4" duration="50">
-			<media:player url="https://www.youtube.com/embed/Uvx3TD5XZd4" />
-			<media:title type="html">[Anuga FoodTec 2022] 旋轉泵 - 中金 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 旋轉泵 - 中金 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/uvx3td5xzd4.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_06-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_06-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_06-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40574</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD</title>
 		<link>/contents/40572/</link>
@@ -437,10 +346,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40572</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40572</guid>
 
 					<description><![CDATA[<p>FCD 在 Anuga FoodTec 2022 處展示了 蒸汽消毒器、烘焙機。 這是 anuga foodt [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40572/">[Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40572/">[Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>FCD 在 Anuga FoodTec 2022 處展示了 蒸汽消毒器、烘焙機。</p>
 </p>
@@ -484,33 +393,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-85.jpg"></div>
 <div class="caption_text">它是世界上最大的服務中心，請隨時向我們詢問任何信息。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40572/">[Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40572/">[Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40572/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40572</post-id>
-		<media:content url="https://www.youtube.com/embed/l0u5_4ucJxM" duration="93">
-			<media:player url="https://www.youtube.com/embed/l0u5_4ucJxM" />
-			<media:title type="html">[Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 蒸汽消毒器、烘焙機 - FCD &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/l0u5_4ucjxm.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_05-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40572</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂</title>
 		<link>/contents/40570/</link>
@@ -523,10 +413,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40570</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40570</guid>
 
 					<description><![CDATA[<p>阿莫雷蒂 在 Anuga FoodTec 2022 處展示了 天然風味濃縮果泥。 我的名字是 Alex，我和  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40570/">[Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40570/">[Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>阿莫雷蒂 在 Anuga FoodTec 2022 處展示了 天然風味濃縮果泥。</p>
 </p>
@@ -562,31 +452,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-64.jpg"></div>
 <div class="caption_text">也用於飲料天然色素和天然香料，效果非常好。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40570/">[Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40570/">[Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40570/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40570</post-id>
-		<media:content url="https://www.youtube.com/embed/yRGUiH974Jo" duration="74">
-			<media:player url="https://www.youtube.com/embed/yRGUiH974Jo" />
-			<media:title type="html">[Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 天然風味濃縮果泥 - 阿莫雷蒂 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/yrguih974jo.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_04-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40570</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 聽力治療設備 - 瑞泰</title>
 		<link>/contents/40568/</link>
@@ -599,10 +472,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40568</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40568</guid>
 
 					<description><![CDATA[<p>瑞泰 在 Anuga FoodTec 2022 處展示了 聽力治療設備。 大家好。我來介紹一下 Revtech [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40568/">[Anuga FoodTec 2022] 聽力治療設備 - 瑞泰</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40568/">[Anuga FoodTec 2022] 聽力治療設備 - 瑞泰</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>瑞泰 在 Anuga FoodTec 2022 處展示了 聽力治療設備。</p>
 </p>
@@ -638,31 +511,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-78.jpg"></div>
 <div class="caption_text">我們在日本的當地合作夥伴是 Correns。<br />因此，如果您有任何項目並對我們的技術感興趣，請隨時與他們聯繫。謝謝你。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40568/">[Anuga FoodTec 2022] 聽力治療設備 - 瑞泰</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40568/">[Anuga FoodTec 2022] 聽力治療設備 - 瑞泰</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40568/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40568</post-id>
-		<media:content url="https://www.youtube.com/embed/Ppofa6_uBT4" duration="89">
-			<media:player url="https://www.youtube.com/embed/Ppofa6_uBT4" />
-			<media:title type="html">[Anuga FoodTec 2022] 聽力治療設備 - 瑞泰 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 聽力治療設備 - 瑞泰 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/ppofa6_ubt4.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-01.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-01.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-08.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_03-78.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40568</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] 食物成像 - 視頻計 A / S</title>
 		<link>/contents/40566/</link>
@@ -675,10 +531,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40566</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40566</guid>
 
 					<description><![CDATA[<p>視頻計 A / S 在 Anuga FoodTec 2022 處展示了 食物成像。 歡迎來到視頻儀表。我們是一 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40566/">[Anuga FoodTec 2022] 食物成像 - 視頻計 A / S</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40566/">[Anuga FoodTec 2022] 食物成像 - 視頻計 A / S</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>視頻計 A / S 在 Anuga FoodTec 2022 處展示了 食物成像。</p>
 </p>
@@ -830,60 +686,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-295.jpg"></div>
 <div class="caption_text">還會有更多示例，但我想幾分鐘就夠了。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40566/">[Anuga FoodTec 2022] 食物成像 - 視頻計 A / S</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40566/">[Anuga FoodTec 2022] 食物成像 - 視頻計 A / S</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40566/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40566</post-id>
-		<media:content url="https://www.youtube.com/embed/WdXdiEiLzPA" duration="306">
-			<media:player url="https://www.youtube.com/embed/WdXdiEiLzPA" />
-			<media:title type="html">[Anuga FoodTec 2022] 食物成像 - 視頻計 A / S &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] 食物成像 - 視頻計 A / S &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/wdxdieilzpa.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-015.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-092.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-099.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-183.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-197.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-204.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-211.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-218.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-225.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-232.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-239.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-246.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-253.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-260.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-267.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-274.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-281.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-288.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_02-295.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40566</post-id>	</item>
 		<item>
 		<title>[Anuga FoodTec 2022] ColdOx 系統 - 中央航空</title>
 		<link>/contents/40564/</link>
@@ -896,10 +706,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?p=40564</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=40564</guid>
 
 					<description><![CDATA[<p>中央航空 在 Anuga FoodTec 2022 處展示了 ColdOx 系統。 您好，我們是 Centri [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/40564/">[Anuga FoodTec 2022] ColdOx 系統 - 中央航空</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40564/">[Anuga FoodTec 2022] ColdOx 系統 - 中央航空</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>中央航空 在 Anuga FoodTec 2022 處展示了 ColdOx 系統。</p>
 </p>
@@ -1015,50 +825,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-197.jpg"></div>
 <div class="caption_text">然後，我們將離心機與我們那邊的煤炭碼頭系統結合在一起。<br />我們同時獲得了非常好的降階和粒子分離。</div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/40564/">[Anuga FoodTec 2022] ColdOx 系統 - 中央航空</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/40564/">[Anuga FoodTec 2022] ColdOx 系統 - 中央航空</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/40564/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40564</post-id>
-		<media:content url="https://www.youtube.com/embed/jQTYmNBkrsk" duration="208">
-			<media:player url="https://www.youtube.com/embed/jQTYmNBkrsk" />
-			<media:title type="html">[Anuga FoodTec 2022] ColdOx 系統 - 中央航空 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [Anuga FoodTec 2022] ColdOx 系統 - 中央航空 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/05/jqtymnbkrsk.jpg" />
-			<media:keywords>德國,機械/工業技術,農業/林業/漁業和食品</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-001.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-001.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-008.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-022.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-029.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-036.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-043.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-050.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-057.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-064.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-071.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-078.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-085.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-092.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-099.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-183.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-190.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/anugafoodtec_2022/anugafoodtec_2022_01-197.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40564</post-id>	</item>
 	</channel>
 </rss>

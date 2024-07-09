@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年日本卡車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年日本卡車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E6%97%A5%E6%9C%AC%E5%8D%A1%E8%BB%8A%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年日本卡車展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 19 May 2022 04:56:43 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年日本卡車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年日本卡車展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年日本卡車展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年日本卡車展</title>
 		<link>/playlist/truck-show_2022/</link>
 					<comments>/playlist/truck-show_2022/#respond</comments>
@@ -39,10 +36,10 @@
 		<pubDate>Thu, 12 May 2022 09:00:00 +0000</pubDate>
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/playlist/truck-show_2022/</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/playlist/truck-show_2022/</guid>
 
 					<description><![CDATA[<p>“Japan Truck Show 2022”是卡車運輸相關產品的商業展覽。 傳播最新的信息和技術，例如自動駕 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/truck-show_2022/">2022 年日本卡車展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/truck-show_2022/">2022 年日本卡車展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Japan Truck Show 2022”是卡車運輸相關產品的商業展覽。<br />
 傳播最新的信息和技術，例如自動駕駛、物聯網、對 After Corona 和可持續發展目標的支持。<br />
@@ -50,14 +47,13 @@
 會議將於2022年5月12日（星期四）至2022年5月14日（星期六）舉行，為期3天。地點是Pacifico Yokohama。</p>
 <p>點擊此處查看 2022 年日本田徑展官方網站：<br />
 <a href="https://truck-show.jp/" target="_blank" rel="noopener">https://truck-show.jp/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/truck-show_2022/">2022 年日本卡車展</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/truck-show_2022/">2022 年日本卡車展</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/truck-show_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">40526</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">40526</post-id>	</item>
 	</channel>
 </rss>

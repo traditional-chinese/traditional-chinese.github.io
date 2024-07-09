@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>農業/林業/漁業和食品 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>農業/林業/漁業和食品 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/agriculture-forestry-fishery-and-food/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/agriculture-forestry-fishery-and-food/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 28 Jun 2024 03:36:19 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>農業/林業/漁業和食品 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>農業/林業/漁業和食品 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/agriculture-forestry-fishery-and-food/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>PROPAK ASIA 2024 - 國際加工及包裝展覽會 (泰國)</title>
 		<link>/playlist/propakasia_2024_06/</link>
 					<comments>/playlist/propakasia_2024_06/#respond</comments>
@@ -42,23 +39,22 @@
 		<category><![CDATA[泰國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51631</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51631</guid>
 
 					<description><![CDATA[<p>「PROPAK ASIA 2024 &#8211; 國際加工與包裝展」是加工、飲料、製藥、實驗室與測試、包裝解 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/propakasia_2024_06/">PROPAK ASIA 2024 - 國際加工及包裝展覽會 (泰國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/propakasia_2024_06/">PROPAK ASIA 2024 - 國際加工及包裝展覽會 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「PROPAK ASIA 2024 &#8211; 國際加工與包裝展」是加工、飲料、製藥、實驗室與測試、包裝解決方案、噴碼、標記與標籤、冷鏈、物流、倉儲與工廠的展覽會。</p>
 <p>展覽時間為2024年6月12日至2024年6月15日。舉辦地點為曼谷國際貿易展覽中心（BITEC）。</p>
 <p>PROPAK ASIA 2024-國際加工與包裝展覽會官方網站在這裡：<br /><a href="https://www.propakasia.com/ppka/2024/en/index.asp" target="_blank" rel="noopener">https://www.propakasia.com/ppka/2024/en/index.asp</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/propakasia_2024_06/">PROPAK ASIA 2024 - 國際加工及包裝展覽會 (泰國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/propakasia_2024_06/">PROPAK ASIA 2024 - 國際加工及包裝展覽會 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/propakasia_2024_06/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51631</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51631</post-id>	</item>
 		<item>
 		<title>2024 年夏季「日本食品」出口博覽會 (日本)</title>
 		<link>/playlist/jpfood_2024_06/</link>
@@ -68,22 +64,21 @@
 		<pubDate>Wed, 26 Jun 2024 06:38:22 +0000</pubDate>
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51607</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51607</guid>
 
 					<description><![CDATA[<p>“第8屆&#8217;日本食品&#8217;出口博覽會SUMMER 2024”將展示從農畜產品、水產品到飲料、 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/jpfood_2024_06/">2024 年夏季「日本食品」出口博覽會 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/jpfood_2024_06/">2024 年夏季「日本食品」出口博覽會 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“第8屆&#8217;日本食品&#8217;出口博覽會SUMMER 2024”將展示從農畜產品、水產品到飲料、調味料和加工食品等世界級的“日本食品”，將吸引食品買家和食品出口商的展覽。<br />目的是鼓勵參展公司和參觀者之間積極進行商務談判。<br />「JFEX SUMMER（第四屆國際食品飲料商業週）2024」同期舉辦。<br />展覽期間為2024年6月19日（星期三）至2024年6月21日（星期五）3天。舉辦地點為東京國際展示場。</p>
 <p>點擊此處查看2024年第八屆「日本食品」夏季出口博覽會官方網站：<br /><a href="https://www.jpfood.jp/" target="_blank" rel="noopener">https://www.jpfood.jp/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/jpfood_2024_06/">2024 年夏季「日本食品」出口博覽會 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/jpfood_2024_06/">2024 年夏季「日本食品」出口博覽會 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/jpfood_2024_06/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51607</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51607</post-id>	</item>
 		<item>
 		<title>2024 年夏季日本國際食品飲料博覽會 (JFEX) (日本)</title>
 		<link>/playlist/jfex_2024_06/</link>
@@ -93,22 +88,21 @@
 		<pubDate>Wed, 26 Jun 2024 02:29:24 +0000</pubDate>
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51572</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51572</guid>
 
 					<description><![CDATA[<p>「JFEX SUMMER（第四屆國際食品飲料商業週）2024」是一個匯聚世界各地食品的全方位商業展會。目的是透 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/jfex_2024_06/">2024 年夏季日本國際食品飲料博覽會 (JFEX) (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/jfex_2024_06/">2024 年夏季日本國際食品飲料博覽會 (JFEX) (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「JFEX SUMMER（第四屆國際食品飲料商業週）2024」是一個匯聚世界各地食品的全方位商業展會。<br />目的是透過食物創造新的邂逅。<br />第八屆「日本食品」出口博覽會同期舉辦。<br />展覽期間為2024年6月19日（星期三）至2024年6月21日（星期五）3天。舉辦地點為東京國際展示場。</p>
 <p>點擊此處查看2024年JFEX SUMMER（第四屆國際食品飲料商業週）官方網站：<br /><a href="https://www.jfex.jp/hub/ja-jp.html" target="_blank" rel="noopener">https://www.jfex.jp/hub/ja-jp.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/jfex_2024_06/">2024 年夏季日本國際食品飲料博覽會 (JFEX) (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/jfex_2024_06/">2024 年夏季日本國際食品飲料博覽會 (JFEX) (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/jfex_2024_06/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51572</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51572</post-id>	</item>
 		<item>
 		<title>2024年中國國際烘焙展 (中國)</title>
 		<link>/playlist/bakerychina_2024_05/</link>
@@ -121,23 +115,22 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51360</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51360</guid>
 
 					<description><![CDATA[<p>「Bakery China 2024」涵蓋生產設備、模具及設備、烤箱及暖氣、店面設計及裝修、展示櫃、冰箱、餐飲 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「Bakery China 2024」涵蓋生產設備、模具及設備、烤箱及暖氣、店面設計及裝修、展示櫃、冰箱、餐飲、發酵、包裝、冷卻及清潔設備、物流及冷鏈、材料、糧料及麵粉、油、乳製品、餡料、巧克力、肉、蛋、水果和蔬菜、糖、添加劑、蛋糕模型和裝飾、醬料和香料、OEM和ODM、預煮麵包、咖啡和茶、冰淇淋、輕食和餐飲、糖果、家庭烘焙、包裝、餐具、訓練、研發展。</p>
 <p>展覽期間為2024年5月21日至2024年5月24日。舉辦地點為國家會展中心（NECC）。</p>
 <p>Bakery China 2024官方網站在這裡：<br /><a href="https://www.bakerychina.com/" target="_blank" rel="noopener">https://www.bakerychina.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/bakerychina_2024_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51360</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51360</post-id>	</item>
 		<item>
 		<title>2024 年印尼食品飲料展 (印度尼西亞)</title>
 		<link>/playlist/foodbeverageindonesia_2024_05/</link>
@@ -149,23 +142,22 @@
 		<category><![CDATA[印度尼西亞]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51220</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51220</guid>
 
 					<description><![CDATA[<p>《印尼食品+飲料2024》涵蓋食品加工設備/技術/生產系統、包裝材料、添加劑/配料、咖啡/茶、糖果/糖果、海鮮 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodbeverageindonesia_2024_05/">2024 年印尼食品飲料展 (印度尼西亞)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodbeverageindonesia_2024_05/">2024 年印尼食品飲料展 (印度尼西亞)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>《印尼食品+飲料2024》涵蓋食品加工設備/技術/生產系統、包裝材料、添加劑/配料、咖啡/茶、糖果/糖果、海鮮/肉類/冷鏈、蒸餾酒/葡萄酒/美食、有機食品。展覽。</p>
 <p>展覽時間為2024年5月8日至2025年5月11日。舉辦地點為雅加達國際博覽會（JIExpo）。</p>
 <p>2024年印尼食品飲料展官方網站在這裡：<br /><a href="https://foodbeverageindonesia.com/" target="_blank" rel="noopener">https://foodbeverageindonesia.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodbeverageindonesia_2024_05/">2024 年印尼食品飲料展 (印度尼西亞)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodbeverageindonesia_2024_05/">2024 年印尼食品飲料展 (印度尼西亞)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/foodbeverageindonesia_2024_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51220</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51220</post-id>	</item>
 		<item>
 		<title>IFE 2024 - 國際餐飲盛會 (英國)</title>
 		<link>/playlist/ife_2024_03/</link>
@@ -176,24 +168,23 @@
 				<category><![CDATA[英國]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50647</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50647</guid>
 
 					<description><![CDATA[<p>「IFE 2024 &#8211; 國際食品和飲料盛會」包括麵包店/糖果/糖果、純素食/植物性食品、特色食品、 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ife_2024_03/">IFE 2024 - 國際餐飲盛會 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ife_2024_03/">IFE 2024 - 國際餐飲盛會 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「IFE 2024 &#8211; 國際食品和飲料盛會」包括麵包店/糖果/糖果、純素食/植物性食品、特色食品、冷藏/冷凍食品、雜貨/批發、健康/有機/天然食品、飲料、熱飲、免費-來自食品、新鮮農產品、起司和出口展覽。</p>
 <p>展覽時間為2024年3月25日至2024年3月27日。地點是倫敦Excel。</p>
 <p>IFE 2024 &#8211; 國際餐飲盛會的官方首頁在這裡：<br />
 <a href="https://www.ife.co.uk/" target="_blank" rel="noopener">https://www.ife.co.uk/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ife_2024_03/">IFE 2024 - 國際餐飲盛會 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ife_2024_03/">IFE 2024 - 國際餐飲盛會 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/ife_2024_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50647</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50647</post-id>	</item>
 		<item>
 		<title>2024年FABEX (日本)</title>
 		<link>/playlist/fabex_2024_04/</link>
@@ -204,10 +195,10 @@
 				<category><![CDATA[日本]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50575</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50575</guid>
 
 					<description><![CDATA[<p>「FABEX 2024」是日本最大的專業展覽會之一。 食品及食材、機械設備、容器包裝等商業用途的專業展覽會，涵 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/fabex_2024_04/">2024年FABEX (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/fabex_2024_04/">2024年FABEX (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「FABEX 2024」是日本最大的專業展覽會之一。<br />
 食品及食材、機械設備、容器包裝等商業用途的專業展覽會，涵蓋熟食、盒飯、熟食、餐廳、學校午餐、日式甜點、西式甜點、麵包店、咖啡館、飲料等。<br />
@@ -215,15 +206,14 @@
 展覽期間為2024年4月10日星期三至2024年4月12日星期五，為期3天。舉辦地點為東京國際展示場。</p>
 <p>點此查看FABEX 2024官方網站：<br />
 <a href="https://www.fabex.jp/index.html" target="_blank" rel="noopener">https://www.fabex.jp/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/fabex_2024_04/">2024年FABEX (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/fabex_2024_04/">2024年FABEX (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/fabex_2024_04/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50575</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50575</post-id>	</item>
 		<item>
 		<title>AAHAR - 2024 年國際美食及飯店博覽會 (印度)</title>
 		<link>/playlist/aahardelhi_2024_03/</link>
@@ -236,24 +226,23 @@
 		<category><![CDATA[基礎產業]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50486</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50486</guid>
 
 					<description><![CDATA[<p>「AAHAR &#8211; 2024 年國際食品及酒店業博覽會」是亞洲食品及酒店業最知名品牌之一的展覽。 展 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/aahardelhi_2024_03/">AAHAR - 2024 年國際美食及飯店博覽會 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/aahardelhi_2024_03/">AAHAR - 2024 年國際美食及飯店博覽會 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「AAHAR &#8211; 2024 年國際食品及酒店業博覽會」是亞洲食品及酒店業最知名品牌之一的展覽。</p>
 <p>展覽時間為2024年3月7日至2024年3月11日。地點是Pragati Maidan。</p>
 <p>AAHAR &#8211; 2024 年國際食品及酒店博覽會的官方主頁在這裡：<br />
 <a href="https://indiatradefair.com/aahardelhi/" target="_blank" rel="noopener">https://indiatradefair.com/aahardelhi/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/aahardelhi_2024_03/">AAHAR - 2024 年國際美食及飯店博覽會 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/aahardelhi_2024_03/">AAHAR - 2024 年國際美食及飯店博覽會 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/aahardelhi_2024_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50486</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50486</post-id>	</item>
 		<item>
 		<title>2024年台北國際烘焙展 (台灣)</title>
 		<link>/playlist/tibs_2024_03/</link>
@@ -265,24 +254,23 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50407</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50407</guid>
 
 					<description><![CDATA[<p>「2024台北國際烘焙展」是烘焙產品、烘焙食品、烘焙設備及配件、烘焙機械及裝置、烘焙組件、工具、零件以及其他烘 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「2024台北國際烘焙展」是烘焙產品、烘焙食品、烘焙設備及配件、烘焙機械及裝置、烘焙組件、工具、零件以及其他烘焙系統和產品的展覽。</p>
 <p>展覽時間為2024年3月14日至2024年3月17日。舉辦地點為台北南港國際展覽中心。</p>
 <p>2024台北國際麵包展官方首頁在這裡：<br />
 <a href="https://www.tibs.org.tw/en/" target="_blank" rel="noopener">https://www.tibs.org.tw/en/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/tibs_2024_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50407</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50407</post-id>	</item>
 		<item>
 		<title>2024年中國國際商城 (中國)</title>
 		<link>/playlist/chinashop_2024_03/</link>
@@ -298,23 +286,22 @@
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50383</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50383</guid>
 
 					<description><![CDATA[<p>「CHINASHOP 2024」是全國高階零售品牌、無人零售與人工智慧技術、全國供應鏈與物流加工設備、全國零售 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/chinashop_2024_03/">2024年中國國際商城 (中國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/chinashop_2024_03/">2024年中國國際商城 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「CHINASHOP 2024」是全國高階零售品牌、無人零售與人工智慧技術、全國供應鏈與物流加工設備、全國零售商業冷鏈、零售生鮮加工與商用廚房設備、零售展示道具與商業等領域的合作燈光、設計與視覺行銷店面展示、國際智慧資訊科技、中國零售名牌商品。</p>
 <p>展覽時間為2024年3月13日至2024年3月15日。舉辦地點為上海國家會展中心（NECC）。</p>
 <p>CHINASHOP 2024官方網站在這裡：<br />
 <a href="http://en.chinashop.cc/" target="_blank" rel="noopener">http://en.chinashop.cc/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/chinashop_2024_03/">2024年中國國際商城 (中國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/chinashop_2024_03/">2024年中國國際商城 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/chinashop_2024_03/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50383</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50383</post-id>	</item>
 	</channel>
 </rss>

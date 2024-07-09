@@ -1,31 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://search-traditional-chinese.worldtradeshow.tv/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/post-sitemap.xml</loc>
+		<loc>/post-sitemap.xml</loc>
 		<lastmod>2024-07-03T06:32:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/post-sitemap2.xml</loc>
+		<loc>/post-sitemap2.xml</loc>
 		<lastmod>2023-09-22T05:25:47+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/post-sitemap3.xml</loc>
+		<loc>/post-sitemap3.xml</loc>
 		<lastmod>2024-07-03T06:32:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/page-sitemap.xml</loc>
-		<lastmod>2024-07-05T09:07:55+00:00</lastmod>
+		<loc>/page-sitemap.xml</loc>
+		<lastmod>2024-07-09T02:12:14+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/category-sitemap.xml</loc>
+		<loc>/category-sitemap.xml</loc>
 		<lastmod>2024-07-03T06:32:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/post_tag-sitemap.xml</loc>
+		<loc>/post_tag-sitemap.xml</loc>
 		<lastmod>2024-07-03T06:32:07+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://search-traditional-chinese.worldtradeshow.tv/vid_playlist_cat-sitemap.xml</loc>
+		<loc>/vid_playlist_cat-sitemap.xml</loc>
 		<lastmod>2024-07-03T06:22:01+00:00</lastmod>
 	</sitemap>
 </sitemapindex>

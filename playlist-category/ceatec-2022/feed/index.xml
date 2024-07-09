@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/ceatec-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/ceatec-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 09 Nov 2022 01:02:12 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/ceatec-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>CEATEC 2022 (日本)</title>
 		<link>/playlist/ceatec_2022_10/</link>
 					<comments>/playlist/ceatec_2022_10/#respond</comments>
@@ -43,24 +40,23 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42752</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42752</guid>
 
 					<description><![CDATA[<p>“CEATEC 2022”是IT和電子領域的國際展會。 為實現平衡經濟發展和解決社會問題的“社會5.0”，各行 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ceatec_2022_10/">CEATEC 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ceatec_2022_10/">CEATEC 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“CEATEC 2022”是IT和電子領域的國際展會。<br />
 為實現平衡經濟發展和解決社會問題的“社會5.0”，各行各業、技術和信息的人們聚集在一起，通過“共創”描繪未來。</p>
 <p>展覽將於2022年10月19日（星期三）至2022年10月21日（星期五）舉辦三天。會場是幕張展覽館。</p>
 <p>CEATEC 2022的官方網站在這裡：<br />
 <a href="https://www.ceatec.com/" target="_blank" rel="noopener">https://www.ceatec.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ceatec_2022_10/">CEATEC 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ceatec_2022_10/">CEATEC 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/ceatec_2022_10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42752</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42752</post-id>	</item>
 	</channel>
 </rss>

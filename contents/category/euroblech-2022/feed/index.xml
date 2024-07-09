@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>EuroBLECH 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>EuroBLECH 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/euroblech-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/euroblech-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 25 Nov 2022 02:26:25 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>EuroBLECH 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>EuroBLECH 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/euroblech-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[EuroBLECH 2022] 重工業設備 - 送貨員</title>
 		<link>/contents/42977/</link>
 					<comments>/contents/42977/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42977</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42977</guid>
 
 					<description><![CDATA[<p>送貨員 在 EuroBLECH 2022 處展示了 重工業設備。 Hello Sente Machinery  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42977/">[EuroBLECH 2022] 重工業設備 - 送貨員</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42977/">[EuroBLECH 2022] 重工業設備 - 送貨員</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>送貨員 在 EuroBLECH 2022 處展示了 重工業設備。</p>
 </p>
@@ -84,32 +81,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-9.jpg"></div>
 <div class="caption_text">感謝您收看我們。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42977/">[EuroBLECH 2022] 重工業設備 - 送貨員</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42977/">[EuroBLECH 2022] 重工業設備 - 送貨員</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42977/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42977</post-id>
-		<media:content url="https://www.youtube.com/embed/s1rVcMgYKik" duration="69">
-			<media:player url="https://www.youtube.com/embed/s1rVcMgYKik" />
-			<media:title type="html">[EuroBLECH 2022] 重工業設備 - 送貨員 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 重工業設備 - 送貨員 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/s1rvcmgykik.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_01-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42977</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原</title>
 		<link>/contents/42979/</link>
@@ -121,10 +100,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42979</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42979</guid>
 
 					<description><![CDATA[<p>笹原 在 EuroBLECH 2022 處展示了 超高強度鋼板模具製造。 大家好。我的名字是笹原金方。我是近藤 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42979/">[EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42979/">[EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>笹原 在 EuroBLECH 2022 處展示了 超高強度鋼板模具製造。</p>
 </p>
@@ -164,32 +143,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-11.jpg"></div>
 <div class="caption_text">https://sasahara-kk.com/ 我們在等你。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42979/">[EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42979/">[EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42979/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42979</post-id>
-		<media:content url="https://www.youtube.com/embed/NhwjhuMRoIE" duration="82">
-			<media:player url="https://www.youtube.com/embed/NhwjhuMRoIE" />
-			<media:title type="html">[EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 超高強度鋼板模具製造 - 笹原 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/nhwjhumroie.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_02-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42979</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 磨床 - 樂邦</title>
 		<link>/contents/42981/</link>
@@ -201,10 +162,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42981</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42981</guid>
 
 					<description><![CDATA[<p>樂邦 在 EuroBLECH 2022 處展示了 磨床。 大家好。我來自 Lebon Machinery。某公 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42981/">[EuroBLECH 2022] 磨床 - 樂邦</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42981/">[EuroBLECH 2022] 磨床 - 樂邦</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>樂邦 在 EuroBLECH 2022 處展示了 磨床。</p>
 </p>
@@ -236,30 +197,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-10.jpg"></div>
 <div class="caption_text">https://www.lebonstainless.com/ 謝謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42981/">[EuroBLECH 2022] 磨床 - 樂邦</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42981/">[EuroBLECH 2022] 磨床 - 樂邦</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42981/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42981</post-id>
-		<media:content url="https://www.youtube.com/embed/3IJgz9iHdrM" duration="76">
-			<media:player url="https://www.youtube.com/embed/3IJgz9iHdrM" />
-			<media:title type="html">[EuroBLECH 2022] 磨床 - 樂邦 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 磨床 - 樂邦 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/3ijgz9ihdrm.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_03-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42981</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 鋁鑄件 - Champion H&#038;C 公司</title>
 		<link>/contents/42983/</link>
@@ -271,10 +216,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42983</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42983</guid>
 
 					<description><![CDATA[<p>Champion H&#038;C 公司 在 EuroBLECH 2022 處展示了 鋁鑄件。 大家好，我們來 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42983/">[EuroBLECH 2022] 鋁鑄件 - Champion H&#038;C 公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42983/">[EuroBLECH 2022] 鋁鑄件 - Champion H&#038;C 公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Champion H&#038;C 公司 在 EuroBLECH 2022 處展示了 鋁鑄件。</p>
 </p>
@@ -406,55 +351,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-43.jpg"></div>
 <div class="caption_text">我是吉娜。我很高興在這裡介紹我們的產品。太感謝了。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42983/">[EuroBLECH 2022] 鋁鑄件 - Champion H&#038;C 公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42983/">[EuroBLECH 2022] 鋁鑄件 - Champion H&#038;C 公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42983/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42983</post-id>
-		<media:content url="https://www.youtube.com/embed/PH3hval1u1s" duration="313">
-			<media:player url="https://www.youtube.com/embed/PH3hval1u1s" />
-			<media:title type="html">[EuroBLECH 2022] 鋁鑄件 - Champion H&#38;C 公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 鋁鑄件 - Champion H&#38;C 公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/ph3hval1u1s.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-26.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-27.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-28.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-30.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-31.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-34.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-35.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-37.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-38.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-40.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-41.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-42.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_04-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42983</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克</title>
 		<link>/contents/42987/</link>
@@ -466,10 +370,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42987</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42987</guid>
 
 					<description><![CDATA[<p>博爾切克 在 EuroBLECH 2022 處展示了 起重機操作員VR培訓。 我是 Borcelik 的管理系 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42987/">[EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42987/">[EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>博爾切克 在 EuroBLECH 2022 處展示了 起重機操作員VR培訓。</p>
 </p>
@@ -517,34 +421,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-11.jpg"></div>
 <div class="caption_text">我們的起重機操作員與講師一起接受培訓，這加快了培訓過程並消除了安全和質量風險。謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42987/">[EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42987/">[EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42987/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42987</post-id>
-		<media:content url="https://www.youtube.com/embed/lY_oTmg3q44" duration="96">
-			<media:player url="https://www.youtube.com/embed/lY_oTmg3q44" />
-			<media:title type="html">[EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 起重機操作員VR培訓 - 博爾切克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/ly_otmg3q44.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_06-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42987</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 光纖激光器 - 藤倉</title>
 		<link>/contents/42985/</link>
@@ -556,10 +440,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42985</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42985</guid>
 
 					<description><![CDATA[<p>藤倉 在 EuroBLECH 2022 處展示了 光纖激光器。 所以我會介紹我的公司Fujikura。總部位於 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42985/">[EuroBLECH 2022] 光纖激光器 - 藤倉</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42985/">[EuroBLECH 2022] 光纖激光器 - 藤倉</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>藤倉 在 EuroBLECH 2022 處展示了 光纖激光器。</p>
 </p>
@@ -599,32 +483,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-10.jpg"></div>
 <div class="caption_text">您也可以訪問 www.fujikura.uk/ 以及我們的經銷商 Techno Sens。www.technosens.it/ </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42985/">[EuroBLECH 2022] 光纖激光器 - 藤倉</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42985/">[EuroBLECH 2022] 光纖激光器 - 藤倉</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42985/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42985</post-id>
-		<media:content url="https://www.youtube.com/embed/5u0zPLHnIiA" duration="87">
-			<media:player url="https://www.youtube.com/embed/5u0zPLHnIiA" />
-			<media:title type="html">[EuroBLECH 2022] 光纖激光器 - 藤倉 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 光纖激光器 - 藤倉 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/5u0zplhniia.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_05-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42985</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司</title>
 		<link>/contents/42989/</link>
@@ -636,10 +502,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42989</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42989</guid>
 
 					<description><![CDATA[<p>UNITEC公司 在 EuroBLECH 2022 處展示了 適用於多種應用的特殊軸承。 大家好。我們來自意大 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42989/">[EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42989/">[EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>UNITEC公司 在 EuroBLECH 2022 處展示了 適用於多種應用的特殊軸承。</p>
 </p>
@@ -699,37 +565,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-17.jpg"></div>
 <div class="caption_text">如果您想了解有關我們產品的更多信息，您可以在我們的網站上找到您需要的所有信息。 www.unitecbearings.com/    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42989/">[EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42989/">[EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42989/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42989</post-id>
-		<media:content url="https://www.youtube.com/embed/OrJ2JoYsxEs" duration="133">
-			<media:player url="https://www.youtube.com/embed/OrJ2JoYsxEs" />
-			<media:title type="html">[EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 適用於多種應用的特殊軸承 - UNITEC公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/orj2joysxes.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_07-17.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42989</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 皮帶張緊機 - JDC國際</title>
 		<link>/contents/42991/</link>
@@ -741,10 +584,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42991</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42991</guid>
 
 					<description><![CDATA[<p>JDC國際 在 EuroBLECH 2022 處展示了 皮帶張緊機。 我是 JDC 瑞士 CantonZug  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42991/">[EuroBLECH 2022] 皮帶張緊機 - JDC國際</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42991/">[EuroBLECH 2022] 皮帶張緊機 - JDC國際</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>JDC國際 在 EuroBLECH 2022 處展示了 皮帶張緊機。</p>
 </p>
@@ -812,39 +655,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-23.jpg"></div>
 <div class="caption_text">www.jdc-inc.co.jp/ 感謝您的訪問。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42991/">[EuroBLECH 2022] 皮帶張緊機 - JDC國際</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42991/">[EuroBLECH 2022] 皮帶張緊機 - JDC國際</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42991/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42991</post-id>
-		<media:content url="https://www.youtube.com/embed/WvJv2ZMuBPE" duration="175">
-			<media:player url="https://www.youtube.com/embed/WvJv2ZMuBPE" />
-			<media:title type="html">[EuroBLECH 2022] 皮帶張緊機 - JDC國際 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 皮帶張緊機 - JDC國際 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/wvjv2zmubpe.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_08-23.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42991</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人</title>
 		<link>/contents/42993/</link>
@@ -856,10 +674,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42993</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42993</guid>
 
 					<description><![CDATA[<p>工業機器人 在 EuroBLECH 2022 處展示了 機器人編程無代碼解決方案。 大家好，我叫工業機器人公司 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42993/">[EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42993/">[EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>工業機器人 在 EuroBLECH 2022 處展示了 機器人編程無代碼解決方案。</p>
 </p>
@@ -911,35 +729,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-13.jpg"></div>
 <div class="caption_text">您可以在我們的網站 www.industrialrobotics.lt/ 上找到更多信息  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42993/">[EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42993/">[EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42993/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42993</post-id>
-		<media:content url="https://www.youtube.com/embed/2nNwecCP8eY" duration="99">
-			<media:player url="https://www.youtube.com/embed/2nNwecCP8eY" />
-			<media:title type="html">[EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 機器人編程無代碼解決方案 - 工業機器人 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/2nnweccp8ey.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_09-13.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42993</post-id>	</item>
 		<item>
 		<title>[EuroBLECH 2022] 卷彎機 - 紐斯塔克</title>
 		<link>/contents/42995/</link>
@@ -951,10 +748,10 @@
 		<category><![CDATA[movie]]></category>
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
-		<guid isPermaLink="false">/?p=42995</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42995</guid>
 
 					<description><![CDATA[<p>紐斯塔克 在 EuroBLECH 2022 處展示了 卷彎機。 很高興見到你。我叫 Michaela，是 Ne [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42995/">[EuroBLECH 2022] 卷彎機 - 紐斯塔克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42995/">[EuroBLECH 2022] 卷彎機 - 紐斯塔克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>紐斯塔克 在 EuroBLECH 2022 處展示了 卷彎機。</p>
 </p>
@@ -1022,38 +819,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-19.jpg"></div>
 <div class="caption_text">種類繁多的產品，請從我們的網站 www.newstark.it/ 中發現  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42995/">[EuroBLECH 2022] 卷彎機 - 紐斯塔克</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42995/">[EuroBLECH 2022] 卷彎機 - 紐斯塔克</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42995/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42995</post-id>
-		<media:content url="https://www.youtube.com/embed/zawmBw0AA9w" duration="145">
-			<media:player url="https://www.youtube.com/embed/zawmBw0AA9w" />
-			<media:title type="html">[EuroBLECH 2022] 卷彎機 - 紐斯塔克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [EuroBLECH 2022] 卷彎機 - 紐斯塔克 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/zawmbw0aa9w.jpg" />
-			<media:keywords>德國,機械/工業技術</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/euroblech_2022_10/euroblech_2022_10_10-19.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42995</post-id>	</item>
 	</channel>
 </rss>

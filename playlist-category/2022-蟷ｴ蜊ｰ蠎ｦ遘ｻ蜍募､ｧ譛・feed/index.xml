@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E5%8D%B0%E5%BA%A6%E7%A7%BB%E5%8B%95%E5%A4%A7%E6%9C%83/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年印度移動大會/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 11 Nov 2022 08:19:35 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年印度移動大會 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年印度移動大會/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年印度移動大會 (印度)</title>
 		<link>/playlist/indiamobilecongress_2022_10/</link>
 					<comments>/playlist/indiamobilecongress_2022_10/#respond</comments>
@@ -39,23 +36,22 @@
 		<pubDate>Fri, 11 Nov 2022 08:19:35 +0000</pubDate>
 				<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[印度]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42846</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42846</guid>
 
 					<description><![CDATA[<p>“2022 年印度移動大會”是亞洲最大的科技盛會，自舉辦以來，它匯集了來自工業、政府、學術界和科技、媒體和電信 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/indiamobilecongress_2022_10/">2022 年印度移動大會 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/indiamobilecongress_2022_10/">2022 年印度移動大會 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“2022 年印度移動大會”是亞洲最大的科技盛會，自舉辦以來，它匯集了來自工業、政府、學術界和科技、媒體和電信 (TMT)、信息和通信技術生態系統的利益相關者。（ICT ） 展覽。</p>
 <p>展覽將於2022年10月27日（星期三）至2022年10月29日（星期五）舉辦三天。地點：印度新德里Pragati Maidan。</p>
 <p>在此處訪問 2022 年印度移動大會官方網站：<br />
 <a href="https://www.indiamobilecongress.com/" target="_blank" rel="noopener">https://www.indiamobilecongress.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/indiamobilecongress_2022_10/">2022 年印度移動大會 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/indiamobilecongress_2022_10/">2022 年印度移動大會 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/indiamobilecongress_2022_10/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42846</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42846</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E9%A3%9F%E5%93%81%E9%A2%A8%E6%A0%BC%E6%97%A5%E6%9C%AC%E6%9D%B1%E4%BA%AC-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/食品風格日本東京-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 19 Oct 2022 04:25:42 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>食品風格日本東京 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/食品風格日本東京-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>食品風格日本東京 2022 (日本)</title>
 		<link>/playlist/foodstyle_2022_09/</link>
 					<comments>/playlist/foodstyle_2022_09/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42457</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42457</guid>
 
 					<description><![CDATA[<p>“FOOD STYLE Japan 2022”是日本最大的食品商業展覽會之一，涵蓋食品服務、即食食品和零售行業 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodstyle_2022_09/">食品風格日本東京 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodstyle_2022_09/">食品風格日本東京 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“FOOD STYLE Japan 2022”是日本最大的食品商業展覽會之一，涵蓋食品服務、即食食品和零售行業。<br />
 各類商品，從全國各地的特色食品飲料，到設備、系統、服務、包裝材料，匯聚一處，“漲價”、“用工荒”、“缺糧”、“脫碳” ”，以及“多元化”。目的是超越餐廳、即食和零售行業的界限，進行採購和解決問題，從而帶來新的商機，如需求。<br />
@@ -52,14 +49,13 @@
 展覽將於2022年9月28日（星期三）至2022年9月29日（星期四）舉辦兩天。地點：Tokyo Big Sight East Hall 1 和 2。</p>
 <p>FOOD STYLE Japan 2022的官方網站在這裡：<br />
 <a href="https://foodstyle.jp/tokyo/" target="_blank" rel="noopener">https://foodstyle.jp/tokyo/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/foodstyle_2022_09/">食品風格日本東京 2022 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/foodstyle_2022_09/">食品風格日本東京 2022 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/foodstyle_2022_09/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42457</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42457</post-id>	</item>
 	</channel>
 </rss>

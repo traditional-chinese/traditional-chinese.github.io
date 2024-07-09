@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/packplus-2022%EF%BC%88%E6%96%B0%E5%BE%B7%E9%87%8C%EF%BC%89/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/packplus-2022（新德里）/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 29 Jul 2022 05:50:48 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>PackPlus 2022（新德里） 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/packplus-2022（新德里）/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>PackPlus 2022（新德里）</title>
 		<link>/playlist/packplus_2022_07/</link>
 					<comments>/playlist/packplus_2022_07/#respond</comments>
@@ -40,24 +37,23 @@
 				<category><![CDATA[印度]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41501</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41501</guid>
 
 					<description><![CDATA[<p>“Pack Plus 2022（新德里）”是一個包裝展。 它涵蓋初級包裝、二次包裝、泡沫填充和封口機、成品包裝 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/packplus_2022_07/">PackPlus 2022（新德里）</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/packplus_2022_07/">PackPlus 2022（新德里）</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Pack Plus 2022（新德里）”是一個包裝展。<br />
 它涵蓋初級包裝、二次包裝、泡沫填充和封口機、成品包裝、膠印、數碼印刷、加工機器、轉換器、供應鏈解決方案、粘合劑、層壓機、自動化、機器人等。</p>
 <p>會議時間為 2022 年 7 月 7 日至 2022 年 7 月 9 日，為期三天。地點是印度新德里的Pragati Maidan。</p>
 <p>PackPlus 2022（新德里）的官方網站在這裡：<br />
 <a href="https://www.packplus.in/" target="_blank" rel="noopener">https://www.packplus.in/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/packplus_2022_07/">PackPlus 2022（新德里）</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/packplus_2022_07/">PackPlus 2022（新德里）</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/packplus_2022_07/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41501</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41501</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>ILA 2022 - 柏林航空展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>ILA 2022 - 柏林航空展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/ila-2022-%E6%9F%8F%E6%9E%97%E8%88%AA%E7%A9%BA%E5%B1%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/ila-2022-柏林航空展/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 29 Jul 2022 03:57:50 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>ILA 2022 - 柏林航空展 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>ILA 2022 - 柏林航空展 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/ila-2022-柏林航空展/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[ILA 2022 - 柏林航空展] UP42</title>
 		<link>/contents/41456/</link>
 					<comments>/contents/41456/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41456</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41456</guid>
 
 					<description><![CDATA[<p>UP42 展出於 ILA 2022 &#8211; 柏林航空展。 歡迎來到UP42。我們是一個地理空間開發平台 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41456/">[ILA 2022 - 柏林航空展] UP42</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41456/">[ILA 2022 - 柏林航空展] UP42</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>UP42 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -90,33 +87,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-10.jpg"></div>
 <div class="caption_text">為了所有人的利益。您可以通過我們的網站 www.up42.com 訪問 app 42 平台。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41456/">[ILA 2022 - 柏林航空展] UP42</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41456/">[ILA 2022 - 柏林航空展] UP42</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41456/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41456</post-id>
-		<media:content url="https://www.youtube.com/embed/_7zLeS8PcRg" duration="80">
-			<media:player url="https://www.youtube.com/embed/_7zLeS8PcRg" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] UP42 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] UP42 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/7zles8pcrg.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_01-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41456</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH</title>
 		<link>/contents/41458/</link>
@@ -130,10 +108,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41458</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41458</guid>
 
 					<description><![CDATA[<p>DLR Gesellschaft für Raumfahrtanwendungen mbH 展出於 ILA 2 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41458/">[ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41458/">[ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>DLR Gesellschaft für Raumfahrtanwendungen mbH 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -165,30 +143,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-10.jpg"></div>
 <div class="caption_text">我的名字是 Giulio Sistilli，如果您想聯繫我，也可以通過電子郵件與我聯繫。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41458/">[ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41458/">[ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41458/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41458</post-id>
-		<media:content url="https://www.youtube.com/embed/w4mAcaLDA8w" duration="86">
-			<media:player url="https://www.youtube.com/embed/w4mAcaLDA8w" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] DLR Gesellschaft für Raumfahrtanwendungen mbH &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/w4macalda8w.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_02-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41458</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] 耶拿光電</title>
 		<link>/contents/41460/</link>
@@ -202,10 +164,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41460</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41460</guid>
 
 					<description><![CDATA[<p>耶拿光電 展出於 ILA 2022 &#8211; 柏林航空展。 您好，歡迎來到柏林，我的名字是安妮特。我在  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41460/">[ILA 2022 - 柏林航空展] 耶拿光電</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41460/">[ILA 2022 - 柏林航空展] 耶拿光電</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>耶拿光電 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -301,46 +263,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-23.jpg"></div>
 <div class="caption_text">如果您想更好地了解我們和我們的產品，請隨時訪問我們的網站 www.jena-optronik.de。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41460/">[ILA 2022 - 柏林航空展] 耶拿光電</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41460/">[ILA 2022 - 柏林航空展] 耶拿光電</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41460/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41460</post-id>
-		<media:content url="https://www.youtube.com/embed/Sk2yd9Zblvg" duration="175">
-			<media:player url="https://www.youtube.com/embed/Sk2yd9Zblvg" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] 耶拿光電 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] 耶拿光電 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/sk2yd9zblvg.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_03-23.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41460</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH</title>
 		<link>/contents/41462/</link>
@@ -354,10 +284,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41462</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41462</guid>
 
 					<description><![CDATA[<p>Astro und Feinwerktechnik Adlershof GmbH 展出於 ILA 2022 &#038; [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41462/">[ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41462/">[ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Astro und Feinwerktechnik Adlershof GmbH 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -433,41 +363,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-25.jpg"></div>
 <div class="caption_text">還包括全球公司和業務合作夥伴。<br />如果您有興趣，我們很高興在我們的網站 asofein.com 上見到您。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41462/">[ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41462/">[ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41462/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41462</post-id>
-		<media:content url="https://www.youtube.com/embed/uDGu13ODJh4" duration="185">
-			<media:player url="https://www.youtube.com/embed/uDGu13ODJh4" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] Astro und Feinwerktechnik Adlershof GmbH &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/udgu13odjh4.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_04-25.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41462</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] 航空大師公司</title>
 		<link>/contents/41464/</link>
@@ -481,10 +384,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41464</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41464</guid>
 
 					<description><![CDATA[<p>航空大師公司 展出於 ILA 2022 &#8211; 柏林航空展。 大家好，我是 Aeromaster 公司 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41464/">[ILA 2022 - 柏林航空展] 航空大師公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41464/">[ILA 2022 - 柏林航空展] 航空大師公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>航空大師公司 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -540,36 +443,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-15.jpg"></div>
 <div class="caption_text">因此，我們正在等待您的聯繫。謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41464/">[ILA 2022 - 柏林航空展] 航空大師公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41464/">[ILA 2022 - 柏林航空展] 航空大師公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41464/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41464</post-id>
-		<media:content url="https://www.youtube.com/embed/2UkO2s1VQ2M" duration="114">
-			<media:player url="https://www.youtube.com/embed/2UkO2s1VQ2M" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] 航空大師公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] 航空大師公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/2uko2s1vq2m.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_05-15.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41464</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] 城市射線</title>
 		<link>/contents/41466/</link>
@@ -583,10 +464,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41466</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41466</guid>
 
 					<description><![CDATA[<p>城市射線 展出於 ILA 2022 &#8211; 柏林航空展。 大家好，我叫 Jim，我是 urban ra [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41466/">[ILA 2022 - 柏林航空展] 城市射線</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41466/">[ILA 2022 - 柏林航空展] 城市射線</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>城市射線 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -622,31 +503,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-8.jpg"></div>
 <div class="caption_text">我們實際上是通過使用無人機空運貨物來解決這些問題。<br />您可以通過我們的網站 urban-ray.com 聯繫我們，或在 LinkedIn 上查找我們並給我們打電話，謝謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41466/">[ILA 2022 - 柏林航空展] 城市射線</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41466/">[ILA 2022 - 柏林航空展] 城市射線</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41466/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41466</post-id>
-		<media:content url="https://www.youtube.com/embed/KPAea1HM4e8" duration="70">
-			<media:player url="https://www.youtube.com/embed/KPAea1HM4e8" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] 城市射線 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] 城市射線 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/kpaea1hm4e8.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_06-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41466</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] Telespazio</title>
 		<link>/contents/41468/</link>
@@ -660,10 +524,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41468</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41468</guid>
 
 					<description><![CDATA[<p>Telespazio 展出於 ILA 2022 &#8211; 柏林航空展。 下午好，我們是 Telespaz [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41468/">[ILA 2022 - 柏林航空展] Telespazio</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41468/">[ILA 2022 - 柏林航空展] Telespazio</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Telespazio 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -767,48 +631,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-33.jpg"></div>
 <div class="caption_text">我們希望幫助他們實現目標。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41468/">[ILA 2022 - 柏林航空展] Telespazio</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41468/">[ILA 2022 - 柏林航空展] Telespazio</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41468/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41468</post-id>
-		<media:content url="https://www.youtube.com/embed/53VPuZe_wDI" duration="238">
-			<media:player url="https://www.youtube.com/embed/53VPuZe_wDI" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] Telespazio &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] Telespazio &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/53vpuze_wdi.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-23.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-24.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-26.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-27.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-28.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-31.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-32.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_07-33.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41468</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] 德國飛機</title>
 		<link>/contents/41470/</link>
@@ -822,10 +652,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41470</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41470</guid>
 
 					<description><![CDATA[<p>德國飛機 展出於 ILA 2022 &#8211; 柏林航空展。 我是保羅，我正在為德國飛機公司工作，這是一家 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41470/">[ILA 2022 - 柏林航空展] 德國飛機</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41470/">[ILA 2022 - 柏林航空展] 德國飛機</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>德國飛機 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -905,42 +735,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-20.jpg"></div>
 <div class="caption_text">最後但同樣重要的是，公司正在擴張，所以我們也在尋找新的人才，<br />您可以查看我們現在擁有的新職位，這些職位可在 deutscheaircraft 的招聘網站上找到。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41470/">[ILA 2022 - 柏林航空展] 德國飛機</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41470/">[ILA 2022 - 柏林航空展] 德國飛機</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41470/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41470</post-id>
-		<media:content url="https://www.youtube.com/embed/6UAlCn2mJR8" duration="151">
-			<media:player url="https://www.youtube.com/embed/6UAlCn2mJR8" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] 德國飛機 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] 德國飛機 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/6ualcn2mjr8.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_08-20.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41470</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] 航空鑽頭</title>
 		<link>/contents/41472/</link>
@@ -954,10 +756,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41472</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41472</guid>
 
 					<description><![CDATA[<p>航空鑽頭 展出於 ILA 2022 &#8211; 柏林航空展。 #Exhibition #Tokyo Big [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41472/">[ILA 2022 - 柏林航空展] 航空鑽頭</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41472/">[ILA 2022 - 柏林航空展] 航空鑽頭</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>航空鑽頭 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 <p>#Exhibition #Tokyo Big Sight #Makuhari Messe #Pacifico Yokohama</p>
@@ -1009,35 +811,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-18.jpg"></div>
 <div class="caption_text">如果您想與我們聯繫，請直接訪問我們的網站 www.aerobits.pl，如果您需要我們的產品並與我們合作，請與我們聯繫。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41472/">[ILA 2022 - 柏林航空展] 航空鑽頭</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41472/">[ILA 2022 - 柏林航空展] 航空鑽頭</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41472/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41472</post-id>
-		<media:content url="https://www.youtube.com/embed/TSt-5Yg8-mI" duration="144">
-			<media:player url="https://www.youtube.com/embed/TSt-5Yg8-mI" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] 航空鑽頭 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] 航空鑽頭 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/tst-5yg8-mi.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_09-18.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41472</post-id>	</item>
 		<item>
 		<title>[ILA 2022 - 柏林航空展] 行星</title>
 		<link>/contents/41476/</link>
@@ -1051,10 +832,10 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?p=41476</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=41476</guid>
 
 					<description><![CDATA[<p>行星 展出於 ILA 2022 &#8211; 柏林航空展。 歡迎來到地球展位，我們是一家數據公司。我們運營著 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/41476/">[ILA 2022 - 柏林航空展] 行星</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41476/">[ILA 2022 - 柏林航空展] 行星</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>行星 展出於 ILA 2022 &#8211; 柏林航空展。</p>
 </p>
@@ -1106,34 +887,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-14.jpg"></div>
 <div class="caption_text">我們會將您轉至我們的任何商業團隊，為您的問題找到最佳解決方案。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/41476/">[ILA 2022 - 柏林航空展] 行星</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/41476/">[ILA 2022 - 柏林航空展] 行星</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/41476/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41476</post-id>
-		<media:content url="https://www.youtube.com/embed/b5jfingzEhY" duration="106">
-			<media:player url="https://www.youtube.com/embed/b5jfingzEhY" />
-			<media:title type="html">[ILA 2022 - 柏林航空展] 行星 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [ILA 2022 - 柏林航空展] 行星 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/07/b5jfingzehy.jpg" />
-			<media:keywords>基礎產業,德國,機械/工業技術,運輸/物流/包裝</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ila-berlin_2022/ila-berlin_2022_11-14.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41476</post-id>	</item>
 	</channel>
 </rss>

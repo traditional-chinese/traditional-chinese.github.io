@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年第 24 屆 INTERPHEX 週 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年第 24 屆 INTERPHEX 週 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E7%AC%AC-24-%E5%B1%86-interphex-%E9%80%B1/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年第-24-屆-interphex-週/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 28 Jul 2022 05:10:42 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年第 24 屆 INTERPHEX 週 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年第 24 屆 INTERPHEX 週 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年第-24-屆-interphex-週/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年第 24 屆 INTERPHEX 週</title>
 		<link>/playlist/interphex_2022/</link>
 					<comments>/playlist/interphex_2022/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41423</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41423</guid>
 
 					<description><![CDATA[<p>“第24屆Interphex Week Tokyo”是日本最大的專業技術展覽，匯集了藥品和化妝品的研究和製造等 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/interphex_2022/">2022 年第 24 屆 INTERPHEX 週</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/interphex_2022/">2022 年第 24 屆 INTERPHEX 週</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“第24屆Interphex Week Tokyo”是日本最大的專業技術展覽，匯集了藥品和化妝品的研究和製造等產品、技術和服務。<br />
 目的是在醫藥和化妝品製造商的研究和製造部門開展商務談判。<br />
@@ -54,14 +51,13 @@
 會議將於2022年7月13日（星期三）至2022年7月15日（星期五）舉行，為期三天。會場是東京國際展示場。</p>
 <p>點擊此處查看2022年第24屆Interphex周官方網站：<br />
 <a href="https://www.interphex.jp/ja-jp.html" target="_blank" rel="noopener">https://www.interphex.jp/ja-jp.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/interphex_2022/">2022 年第 24 屆 INTERPHEX 週</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/interphex_2022/">2022 年第 24 屆 INTERPHEX 週</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/interphex_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41423</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41423</post-id>	</item>
 	</channel>
 </rss>

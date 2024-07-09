@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>2022 年商用無人機博覽會 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>2022 年商用無人機博覽會 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/2022-%E5%B9%B4%E5%95%86%E7%94%A8%E7%84%A1%E4%BA%BA%E6%A9%9F%E5%8D%9A%E8%A6%BD%E6%9C%83/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/2022-年商用無人機博覽會/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 19 Oct 2022 01:35:48 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>2022 年商用無人機博覽會 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>2022 年商用無人機博覽會 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/2022-年商用無人機博覽會/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>2022 年商用無人機博覽會 (美國)</title>
 		<link>/playlist/expouav_2022_09/</link>
 					<comments>/playlist/expouav_2022_09/#respond</comments>
@@ -40,24 +37,23 @@
 				<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=42414</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=42414</guid>
 
 					<description><![CDATA[<p>“COMMERCIAL UAV EXPO 2022”是專注於商用無人機集成與運營的大型國際展會。 商用無人機博 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/expouav_2022_09/">2022 年商用無人機博覽會 (美國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/expouav_2022_09/">2022 年商用無人機博覽會 (美國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“COMMERCIAL UAV EXPO 2022”是專注於商用無人機集成與運營的大型國際展會。<br />
 商用無人機博覽會展示了世界領先的商用無人機技術，從機身到傳感器、軟件和服務。</p>
 <p>展覽將於2022年9月6日至8日為期三天。地點：拉斯維加斯凱撒論壇。</p>
 <p>COMMERCIAL UAV EXPO 2022的官方網站在這裡：<br />
 <a href="https://www.expouav.com/" target="_blank" rel="noopener">https://www.expouav.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/expouav_2022_09/">2022 年商用無人機博覽會 (美國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/expouav_2022_09/">2022 年商用無人機博覽會 (美國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/expouav_2022_09/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42414</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42414</post-id>	</item>
 	</channel>
 </rss>

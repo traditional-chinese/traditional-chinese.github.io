@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>表面設計展 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>表面設計展 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/%E8%A1%A8%E9%9D%A2%E8%A8%AD%E8%A8%88%E5%B1%95-2023/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/表面設計展-2023/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Fri, 03 Mar 2023 07:08:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>表面設計展 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>表面設計展 2023 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/表面設計展-2023/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[表面設計展 2023] 功能壁紙 - 更智能的表面</title>
 		<link>/contents/44371/</link>
 					<comments>/contents/44371/#respond</comments>
@@ -42,10 +39,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44371</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44371</guid>
 
 					<description><![CDATA[<p>更智能的表面 在 表面設計展 2023 處展示了 功能壁紙。 我叫 Karol，我們來自一家名為 Smarte [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44371/">[表面設計展 2023] 功能壁紙 - 更智能的表面</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44371/">[表面設計展 2023] 功能壁紙 - 更智能的表面</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>更智能的表面 在 表面設計展 2023 處展示了 功能壁紙。</p>
 </p>
@@ -77,30 +74,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-43.jpg"></div>
 <div class="caption_text">我們還介紹了一些磁性產品的選擇。<br />這包括磁性石膏和磁性塗料，如果您想查看我們的更多產品，請訪問我們的網站 Smarter Surfaces。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44371/">[表面設計展 2023] 功能壁紙 - 更智能的表面</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44371/">[表面設計展 2023] 功能壁紙 - 更智能的表面</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44371/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44371</post-id>
-		<media:content url="https://www.youtube.com/embed/wCwsnI07chg" duration="65">
-			<media:player url="https://www.youtube.com/embed/wCwsnI07chg" />
-			<media:title type="html">[表面設計展 2023] 功能壁紙 - 更智能的表面 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 功能壁紙 - 更智能的表面 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/wcwsni07chg.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_01-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44371</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 粘土石膏 - 粘土作品</title>
 		<link>/contents/44373/</link>
@@ -113,10 +94,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44373</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44373</guid>
 
 					<description><![CDATA[<p>粘土作品 在 表面設計展 2023 處展示了 粘土石膏。 我叫 Adam Weismann，是 Claywor [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44373/">[表面設計展 2023] 粘土石膏 - 粘土作品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44373/">[表面設計展 2023] 粘土石膏 - 粘土作品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>粘土作品 在 表面設計展 2023 處展示了 粘土石膏。</p>
 </p>
@@ -156,32 +137,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-57.jpg"></div>
 <div class="caption_text">我們盡量保持簡單。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44373/">[表面設計展 2023] 粘土石膏 - 粘土作品</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44373/">[表面設計展 2023] 粘土石膏 - 粘土作品</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44373/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44373</post-id>
-		<media:content url="https://www.youtube.com/embed/JhDcJjlf8qo" duration="67">
-			<media:player url="https://www.youtube.com/embed/JhDcJjlf8qo" />
-			<media:title type="html">[表面設計展 2023] 粘土石膏 - 粘土作品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 粘土石膏 - 粘土作品 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/jhdcjjlf8qo.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_02-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44373</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 家具系列 - 弗斯設計</title>
 		<link>/contents/44375/</link>
@@ -194,10 +157,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44375</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44375</guid>
 
 					<description><![CDATA[<p>弗斯設計 在 表面設計展 2023 處展示了 家具系列。 你好，我是來自威爾士的產品設計家具，我嘗試創造明亮的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44375/">[表面設計展 2023] 家具系列 - 弗斯設計</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44375/">[表面設計展 2023] 家具系列 - 弗斯設計</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>弗斯設計 在 表面設計展 2023 處展示了 家具系列。</p>
 </p>
@@ -221,28 +184,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-36.jpg"></div>
 <div class="caption_text">因此，我最近的工作現在側重於材料的靈活性，以及​​利用材料和顏色的潛力讓人們感覺良好。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44375/">[表面設計展 2023] 家具系列 - 弗斯設計</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44375/">[表面設計展 2023] 家具系列 - 弗斯設計</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44375/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44375</post-id>
-		<media:content url="https://www.youtube.com/embed/8yzwhXnUc0A" duration="54">
-			<media:player url="https://www.youtube.com/embed/8yzwhXnUc0A" />
-			<media:title type="html">[表面設計展 2023] 家具系列 - 弗斯設計 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 家具系列 - 弗斯設計 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/8yzwhxnuc0a.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_03-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44375</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 堆 - 賈娜·斯彭斯</title>
 		<link>/contents/44377/</link>
@@ -255,10 +204,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44377</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44377</guid>
 
 					<description><![CDATA[<p>賈娜·斯彭斯 在 表面設計展 2023 處展示了 堆。 我叫 Jana Spence，是一名家具設計師和製造商 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44377/">[表面設計展 2023] 堆 - 賈娜·斯彭斯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44377/">[表面設計展 2023] 堆 - 賈娜·斯彭斯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>賈娜·斯彭斯 在 表面設計展 2023 處展示了 堆。</p>
 </p>
@@ -282,28 +231,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-29.jpg"></div>
 <div class="caption_text">它採用真正可持續的設計，採用膠合板和 Ash 製作腿部和框架，然後還有金屬部件，這使得它非常耐用和持久。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44377/">[表面設計展 2023] 堆 - 賈娜·斯彭斯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44377/">[表面設計展 2023] 堆 - 賈娜·斯彭斯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44377/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44377</post-id>
-		<media:content url="https://www.youtube.com/embed/cFY-Zo7glx4" duration="46">
-			<media:player url="https://www.youtube.com/embed/cFY-Zo7glx4" />
-			<media:title type="html">[表面設計展 2023] 堆 - 賈娜·斯彭斯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 堆 - 賈娜·斯彭斯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/cfy-zo7glx4.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_04-29.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44377</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 彩色玻璃 - 彩色玻璃</title>
 		<link>/contents/44379/</link>
@@ -316,10 +251,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44379</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44379</guid>
 
 					<description><![CDATA[<p>彩色玻璃 在 表面設計展 2023 處展示了 彩色玻璃。 嗨，我叫凱特，我在 Recclesia Staine [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44379/">[表面設計展 2023] 彩色玻璃 - 彩色玻璃</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44379/">[表面設計展 2023] 彩色玻璃 - 彩色玻璃</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>彩色玻璃 在 表面設計展 2023 處展示了 彩色玻璃。</p>
 </p>
@@ -359,32 +294,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-57.jpg"></div>
 <div class="caption_text">我們的產品系列都是定制和定制的，並根據詢價定價。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44379/">[表面設計展 2023] 彩色玻璃 - 彩色玻璃</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44379/">[表面設計展 2023] 彩色玻璃 - 彩色玻璃</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44379/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44379</post-id>
-		<media:content url="https://www.youtube.com/embed/s77OmxrN_RY" duration="69">
-			<media:player url="https://www.youtube.com/embed/s77OmxrN_RY" />
-			<media:title type="html">[表面設計展 2023] 彩色玻璃 - 彩色玻璃 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 彩色玻璃 - 彩色玻璃 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/s77omxrn_ry.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_05-57.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44379</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 古董鏡子玻璃 - 鏡面設計</title>
 		<link>/contents/44381/</link>
@@ -397,10 +314,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44381</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44381</guid>
 
 					<description><![CDATA[<p>鏡面設計 在 表面設計展 2023 處展示了 古董鏡子玻璃。 嗨，我是 Yesim，這是 Mirrors by [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44381/">[表面設計展 2023] 古董鏡子玻璃 - 鏡面設計</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44381/">[表面設計展 2023] 古董鏡子玻璃 - 鏡面設計</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>鏡面設計 在 表面設計展 2023 處展示了 古董鏡子玻璃。</p>
 </p>
@@ -420,27 +337,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_06-43.jpg"></div>
 <div class="caption_text">以及實際添加到您心中的設計中的所有顏色。<br />因此，對於紋理和顏色，您實際上是將其用作室內設計的一部分，而不僅僅是鏡子，因為我們知道過去鏡子的使用方式。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44381/">[表面設計展 2023] 古董鏡子玻璃 - 鏡面設計</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44381/">[表面設計展 2023] 古董鏡子玻璃 - 鏡面設計</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44381/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44381</post-id>
-		<media:content url="https://www.youtube.com/embed/hG3ecsBhu5I" duration="64">
-			<media:player url="https://www.youtube.com/embed/hG3ecsBhu5I" />
-			<media:title type="html">[表面設計展 2023] 古董鏡子玻璃 - 鏡面設計 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 古董鏡子玻璃 - 鏡面設計 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/hg3ecsbhu5i.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_06-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_06-43.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44381</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森</title>
 		<link>/contents/44383/</link>
@@ -453,10 +357,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44383</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44383</guid>
 
 					<description><![CDATA[<p>馬格努斯·尼爾森 在 表面設計展 2023 處展示了 黏土O2mate。 大家好，我是 Magnus Nils [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44383/">[表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44383/">[表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>馬格努斯·尼爾森 在 表面設計展 2023 處展示了 黏土O2mate。</p>
 </p>
@@ -480,28 +384,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-36.jpg"></div>
 <div class="caption_text">因此，一小時內 27 克的二氧化碳與一個人一小時內呼出的氣體量大致相同。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44383/">[表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44383/">[表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44383/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44383</post-id>
-		<media:content url="https://www.youtube.com/embed/FcMJFxi00L0" duration="53">
-			<media:player url="https://www.youtube.com/embed/FcMJFxi00L0" />
-			<media:title type="html">[表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 黏土O2mate - 馬格努斯·尼爾森 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/fcmjfxi00l0.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_07-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44383</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 鑲板 - 奇牆工作室</title>
 		<link>/contents/44385/</link>
@@ -514,10 +404,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44385</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44385</guid>
 
 					<description><![CDATA[<p>奇牆工作室 在 表面設計展 2023 處展示了 鑲板。 大家好，我是 Wonderwall Studios 的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44385/">[表面設計展 2023] 鑲板 - 奇牆工作室</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44385/">[表面設計展 2023] 鑲板 - 奇牆工作室</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>奇牆工作室 在 表面設計展 2023 處展示了 鑲板。</p>
 </p>
@@ -541,28 +431,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-50.jpg"></div>
 <div class="caption_text">如果您想要將回收、打撈的木材轉化為豪華表面解決方案，請致電我們。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44385/">[表面設計展 2023] 鑲板 - 奇牆工作室</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44385/">[表面設計展 2023] 鑲板 - 奇牆工作室</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44385/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44385</post-id>
-		<media:content url="https://www.youtube.com/embed/CkqMYMkC2QQ" duration="63">
-			<media:player url="https://www.youtube.com/embed/CkqMYMkC2QQ" />
-			<media:title type="html">[表面設計展 2023] 鑲板 - 奇牆工作室 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 鑲板 - 奇牆工作室 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/ckqmymkc2qq.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_08-50.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44385</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢</title>
 		<link>/contents/44387/</link>
@@ -575,10 +451,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44387</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44387</guid>
 
 					<description><![CDATA[<p>顏色蜂巢 在 表面設計展 2023 處展示了 表面設計趨勢預測。 大家好，我叫 Daniel LaDuc，是  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44387/">[表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44387/">[表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>顏色蜂巢 在 表面設計展 2023 處展示了 表面設計趨勢預測。</p>
 </p>
@@ -610,30 +486,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-64.jpg"></div>
 <div class="caption_text">以及從激光切割織物和紙張到用牛糞製成的蜂箱的任何東西。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44387/">[表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44387/">[表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44387/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44387</post-id>
-		<media:content url="https://www.youtube.com/embed/6GiU0lukwJE" duration="78">
-			<media:player url="https://www.youtube.com/embed/6GiU0lukwJE" />
-			<media:title type="html">[表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 表面設計趨勢預測 - 顏色蜂巢 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/6giu0lukwje.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_09-64.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44387</post-id>	</item>
 		<item>
 		<title>[表面設計展 2023] 隔音板 - 聲學組</title>
 		<link>/contents/44389/</link>
@@ -646,10 +506,10 @@
 		<category><![CDATA[其他]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=44389</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=44389</guid>
 
 					<description><![CDATA[<p>聲學組 在 表面設計展 2023 處展示了 隔音板。 嗨，我是 acoustic grg products 的 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/44389/">[表面設計展 2023] 隔音板 - 聲學組</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44389/">[表面設計展 2023] 隔音板 - 聲學組</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>聲學組 在 表面設計展 2023 處展示了 隔音板。</p>
 </p>
@@ -693,32 +553,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-85.jpg"></div>
 <div class="caption_text">病毒作用減少了 98%。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/44389/">[表面設計展 2023] 隔音板 - 聲學組</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/44389/">[表面設計展 2023] 隔音板 - 聲學組</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/44389/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">44389</post-id>
-		<media:content url="https://www.youtube.com/embed/vqxdNrSHl0Y" duration="93">
-			<media:player url="https://www.youtube.com/embed/vqxdNrSHl0Y" />
-			<media:title type="html">[表面設計展 2023] 隔音板 - 聲學組 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [表面設計展 2023] 隔音板 - 聲學組 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/03/vqxdnrshl0y.jpg" />
-			<media:keywords>其他,生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/surfacedesignshow_2023_02/surfacedesignshow_2023_02_10-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">44389</post-id>	</item>
 	</channel>
 </rss>

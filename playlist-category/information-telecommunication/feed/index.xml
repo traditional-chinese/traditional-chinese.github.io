@@ -5,17 +5,14 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>信息/電信 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>信息/電信 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/information-telecommunication/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/information-telecommunication/</link>
 	<description>世界各地展覽中最先進的產品</description>
-	<lastBuildDate>Fri, 21 Jun 2024 06:57:20 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 03 Jul 2024 02:47:21 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -25,12 +22,39 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>信息/電信 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>信息/電信 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/information-telecommunication/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
+		<title>第 36 屆世界製造博覽會 [東京] 2024 (日本)</title>
+		<link>/playlist/manufacturing-world_2024_06/</link>
+					<comments>/playlist/manufacturing-world_2024_06/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 03 Jul 2024 02:47:21 +0000</pubDate>
+				<category><![CDATA[信息/電信]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[服務]]></category>
+		<category><![CDATA[機械/工業技術]]></category>
+		<category><![CDATA[運輸/物流/包裝]]></category>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51713</guid>
+
+					<description><![CDATA[<p>「第36屆製造業世界[東京]」是日本最大的製造業展覽會之一，由10個專業展覽組成。目的是為製造業的「短期發展、 [&#8230;]</p>
+<p>這篇文章 <a href="/playlist/manufacturing-world_2024_06/">第 36 屆世界製造博覽會 [東京] 2024 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「第36屆製造業世界[東京]」是日本最大的製造業展覽會之一，由10個專業展覽組成。<br />目的是為製造業的「短期發展、生產力提高、品質提高、VA/VE、降低成本」做出貢獻。<br />展覽包括「設計與製造解決方案展」、「機械元件技術展」、「醫療保健/醫療設備開發與發展」、「工廠設備及用品展」、「製造人工智慧/物聯網展」、「下一代3D列印機展」 、「航太/航太展」、「設備研發與開發」、「測量/偵測/感測器展」、「製造業DX展」、「製造業ODM/EMS展」。<br />展覽期間為2024年6月19日（星期三）至2024年6月21日（星期五）3天。舉辦地點為東京國際展示場。</p>
+<p>2024 年第 36 屆世界製造大會【東京】官方網站如下：<br /><a href="https://www.manufacturing-world.jp/tokyo/ja-jp.html" target="_blank" rel="noopener">https://www.manufacturing-world.jp/tokyo/ja-jp.html</a></p>
+<p>這篇文章 <a href="/playlist/manufacturing-world_2024_06/">第 36 屆世界製造博覽會 [東京] 2024 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/manufacturing-world_2024_06/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51713</post-id>	</item>
+		<item>
 		<title>2024 年柏林 ILA (德國)</title>
 		<link>/playlist/ila-berlin_2024_06/</link>
 					<comments>/playlist/ila-berlin_2024_06/#respond</comments>
@@ -41,23 +65,22 @@
 		<category><![CDATA[德國]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51521</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51521</guid>
 
 					<description><![CDATA[<p>2024 年柏林 ILA 是航空、航太、國防和支援、航空航太工業供應鏈和先進空中機動性的展覽。 展覽期間為20 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ila-berlin_2024_06/">2024 年柏林 ILA (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ila-berlin_2024_06/">2024 年柏林 ILA (德國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>2024 年柏林 ILA 是航空、航太、國防和支援、航空航太工業供應鏈和先進空中機動性的展覽。</p>
 <p>展覽期間為2024年6月5日至2024年6月9日。地點是柏林展覽中心機場。</p>
 <p>ILA Berlin 2024 的官方主頁在這裡：<br /><a href="https://www.ila-berlin.de/en" target="_blank" rel="noopener">https://www.ila-berlin.de/en</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ila-berlin_2024_06/">2024 年柏林 ILA (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ila-berlin_2024_06/">2024 年柏林 ILA (德國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/ila-berlin_2024_06/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51521</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51521</post-id>	</item>
 		<item>
 		<title>EXPO COMM Wireless Japan 2024 x 無線技術園區 (WTP) 2024 (日本)</title>
 		<link>/playlist/wj_2024_05/</link>
@@ -67,22 +90,21 @@
 		<pubDate>Wed, 12 Jun 2024 02:00:10 +0000</pubDate>
 				<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[日本]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51452</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51452</guid>
 
 					<description><![CDATA[<p>「Wireless Japan 2024 x Wireless Technology Park (WTP) 2 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/wj_2024_05/">EXPO COMM Wireless Japan 2024 x 無線技術園區 (WTP) 2024 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/wj_2024_05/">EXPO COMM Wireless Japan 2024 x 無線技術園區 (WTP) 2024 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「Wireless Japan 2024 x Wireless Technology Park (WTP) 2024」是一個B2B展覽，匯集了利用「無線技術」的產品和解決方案，「無線技術」已成為數位轉型的關鍵。<br />其目的是傳播和教育人們有關無線技術的知識，並提供與業務直接相關的商務談判機會。<br />同期舉辦「交通安全與物流DX EXPO 2024」。<br />展覽期間為2024年5月29日星期三至2024年5月31日星期五3天。舉辦地點為東京國際展示場。</p>
 <p>點擊此處查看Wireless Japan 2024 x Wireless Technology Park (WTP) 2024官方網站：<br /><a href="https://www8.ric.co.jp/expo/wj/" target="_blank" rel="noopener">https://www8.ric.co.jp/expo/wj/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/wj_2024_05/">EXPO COMM Wireless Japan 2024 x 無線技術園區 (WTP) 2024 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/wj_2024_05/">EXPO COMM Wireless Japan 2024 x 無線技術園區 (WTP) 2024 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/wj_2024_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51452</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51452</post-id>	</item>
 		<item>
 		<title>2024年中國國際烘焙展 (中國)</title>
 		<link>/playlist/bakerychina_2024_05/</link>
@@ -95,23 +117,22 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51360</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51360</guid>
 
 					<description><![CDATA[<p>「Bakery China 2024」涵蓋生產設備、模具及設備、烤箱及暖氣、店面設計及裝修、展示櫃、冰箱、餐飲 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「Bakery China 2024」涵蓋生產設備、模具及設備、烤箱及暖氣、店面設計及裝修、展示櫃、冰箱、餐飲、發酵、包裝、冷卻及清潔設備、物流及冷鏈、材料、糧料及麵粉、油、乳製品、餡料、巧克力、肉、蛋、水果和蔬菜、糖、添加劑、蛋糕模型和裝飾、醬料和香料、OEM和ODM、預煮麵包、咖啡和茶、冰淇淋、輕食和餐飲、糖果、家庭烘焙、包裝、餐具、訓練、研發展。</p>
 <p>展覽期間為2024年5月21日至2024年5月24日。舉辦地點為國家會展中心（NECC）。</p>
 <p>Bakery China 2024官方網站在這裡：<br /><a href="https://www.bakerychina.com/" target="_blank" rel="noopener">https://www.bakerychina.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/bakerychina_2024_05/">2024年中國國際烘焙展 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/bakerychina_2024_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51360</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51360</post-id>	</item>
 		<item>
 		<title>2024 年印度攝影博覽會 (印度)</title>
 		<link>/playlist/india-photo-expo-2024-05/</link>
@@ -124,23 +145,22 @@
 		<category><![CDATA[印度]]></category>
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51176</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51176</guid>
 
 					<description><![CDATA[<p>「INDIA PHOTO EXPO 2024」是一個攝影展。 展覽時間為2024年5月3日至2024年5月5日 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/india-photo-expo-2024-05/">2024 年印度攝影博覽會 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/india-photo-expo-2024-05/">2024 年印度攝影博覽會 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「INDIA PHOTO EXPO 2024」是一個攝影展。</p>
 <p>展覽時間為2024年5月3日至2024年5月5日。地點是Pragati Maidan。</p>
 <p>點擊此處查看2024年印度攝影博覽會官方網站：<br /><a href="https://buysellint.com/eventmore.php?sno=44" target="_blank" rel="noopener">https://buysellint.com/eventmore.php?sno=44</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/india-photo-expo-2024-05/">2024 年印度攝影博覽會 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/india-photo-expo-2024-05/">2024 年印度攝影博覽會 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/india-photo-expo-2024-05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51176</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51176</post-id>	</item>
 		<item>
 		<title>第21屆[東京]總務/人力資源/會計週[春季] (日本)</title>
 		<link>/playlist/hr_2024_05/</link>
@@ -153,22 +173,21 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[環境]]></category>
 		<category><![CDATA[生活]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51116</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51116</guid>
 
 					<description><![CDATA[<p>「[東京]總務/人力資源/會計週」是總務、人力資源、會計、法務、公關、經理等參加的「後台展覽」。目的是成為參展 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/hr_2024_05/">第21屆[東京]總務/人力資源/會計週[春季] (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/hr_2024_05/">第21屆[東京]總務/人力資源/會計週[春季] (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「[東京]總務/人力資源/會計週」是總務、人力資源、會計、法務、公關、經理等參加的「後台展覽」。<br />目的是成為參展商擴大銷售和銷售管道的地方，也是參觀者解決後台問題的地方。<br />展會包括「工作方式改革博覽會」、「人力資源博覽會」、「福利博覽會」、「會計/金融博覽會」、「總務服務博覽會」、「辦公室防災博覽會」、「法律/智慧財產權博覽會」、 「PR EXPO（公共關係/IR支援/品牌/數位公關）」和「健康管理EXPO」。<br />展覽期間為2024年5月8日星期三至2024年5月10日星期五3天。舉辦地點為東京國際展示場。</p>
 <p>第21屆總務、人力資源、會計週【春季】官方首頁請點選：<br /><a href="https://www.office-expo.jp/tokyo/ja-jp.html" target="_blank" rel="noopener">https://www.office-expo.jp/tokyo/ja-jp.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/hr_2024_05/">第21屆[東京]總務/人力資源/會計週[春季] (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/hr_2024_05/">第21屆[東京]總務/人力資源/會計週[春季] (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/hr_2024_05/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51116</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51116</post-id>	</item>
 		<item>
 		<title>2024 年亞洲騎行 (印度)</title>
 		<link>/playlist/rideasia_2024_04/</link>
@@ -182,23 +201,22 @@
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51026</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=51026</guid>
 
 					<description><![CDATA[<p>「RideAsia 2024」是電動車騎乘、健身、戶外運動、騎乘的展覽會。 展覽時間為2024年4月16日至2 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/rideasia_2024_04/">2024 年亞洲騎行 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/rideasia_2024_04/">2024 年亞洲騎行 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「RideAsia 2024」是電動車騎乘、健身、戶外運動、騎乘的展覽會。</p>
 <p>展覽時間為2024年4月16日至2024年4月21日。地點是Pragati Maidan。</p>
 <p>點此查看RideAsia 2024官方網站：<br /><a href="https://rideasia.in/home.php" target="_blank" rel="noopener">https://rideasia.in/home.php</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/rideasia_2024_04/">2024 年亞洲騎行 (印度)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/rideasia_2024_04/">2024 年亞洲騎行 (印度)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/rideasia_2024_04/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">51026</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">51026</post-id>	</item>
 		<item>
 		<title>2024 年視覺行銷與展示展 (英國)</title>
 		<link>/playlist/vmanddisplayshow_2024_04/</link>
@@ -213,23 +231,22 @@
 		<category><![CDATA[愛好/教育]]></category>
 		<category><![CDATA[英國]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50982</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50982</guid>
 
 					<description><![CDATA[<p>「2024年視覺行銷與展示展」是涵蓋人體模型、印刷品、聖誕裝飾、展示服務、道具、設計、圖形、半身像、統包服務、 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/vmanddisplayshow_2024_04/">2024 年視覺行銷與展示展 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/vmanddisplayshow_2024_04/">2024 年視覺行銷與展示展 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「2024年視覺行銷與展示展」是涵蓋人體模型、印刷品、聖誕裝飾、展示服務、道具、設計、圖形、半身像、統包服務、POP、燈光、布料的展覽。</p>
 <p>展覽時間為2024年4月16日至2024年4月17日。地點是倫敦商業設計中心。</p>
 <p>2024年視覺行銷與展示展官方網站在這裡：<br /><a href="https://www.vmanddisplayshow.com/" target="_blank" rel="noopener">https://www.vmanddisplayshow.com/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/vmanddisplayshow_2024_04/">2024 年視覺行銷與展示展 (英國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/vmanddisplayshow_2024_04/">2024 年視覺行銷與展示展 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/vmanddisplayshow_2024_04/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50982</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50982</post-id>	</item>
 		<item>
 		<title>2024 年台北國際汽車展 (台灣)</title>
 		<link>/playlist/taipeiampa_2024_04_17/</link>
@@ -241,23 +258,22 @@
 		<category><![CDATA[台灣]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50918</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50918</guid>
 
 					<description><![CDATA[<p>「TAIPEI AMPA 2024」涵蓋汽車零配件、汽車燈具、翻新套件及配件、車輛製造、維修檢測及保養工具及設 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「TAIPEI AMPA 2024」涵蓋汽車零配件、汽車燈具、翻新套件及配件、車輛製造、維修檢測及保養工具及設備、汽車保養、電動車及相關零配件、配件及設備、智慧交通系統及解決方案、摩托車零件及配件、騎士用品、汽車電子產品及相關零件電氣化/電動電池模組、電氣設備、控制單元（VCU、MCU、BMS）、能源管理、電動車製造設備、電動巴士、電動車、電動商用車車輛駕駛/自動駕駛子系統、ADAS（高級駕駛輔助系統）、LiDAR、高精度地圖、人工智慧、系統整合Connected/ConnectedIoV（車聯網）、5G、網路安全、LEO 衛星通訊（B5G、6G ） EV 平台汽車品牌、新創公司、Tier 1互動/互動資訊娛樂、人車介面（連結人與車的介面）、智慧座艙技術分享展。</p>
 <p>展覽時間為2024年4月17日至2024年4月20日。舉辦地點為台北南港展覽館。</p>
 <p>點擊此處查看2024年台北國際汽車展官方網站：<br /><a href="https://www.taipeiampa.com.tw/en/index.html" target="_blank" rel="noopener">https://www.taipeiampa.com.tw/en/index.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/taipeiampa_2024_04_17/">2024 年台北國際汽車展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/taipeiampa_2024_04_17/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50918</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50918</post-id>	</item>
 		<item>
 		<title>第 33 屆日本春季 IT 週 (日本)</title>
 		<link>/playlist/japan-it_2024_04/</link>
@@ -268,50 +284,21 @@
 				<category><![CDATA[信息/電信]]></category>
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50858</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50858</guid>
 
 					<description><![CDATA[<p>「第33屆日本IT週[春季]」是日本最大的IT/DX展覽會，由12個專業展覽會組成。 展會有「軟體與應用程式開 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/japan-it_2024_04/">第 33 屆日本春季 IT 週 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/japan-it_2024_04/">第 33 屆日本春季 IT 週 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>「第33屆日本IT週[春季]」是日本最大的IT/DX展覽會，由12個專業展覽會組成。</p>
 <p>展會有「軟體與應用程式開發」、「銷售DX EXPO」、「嵌入式/邊緣運算博覽會」、「IT營運管理與資料中心博覽會」、「資訊安全博覽會」、 「數位行銷博覽會」、「雲端業務改革博覽會」、「物聯網解決方案展」、「下一代EC與商店博覽會」、「人工智慧/商業自動化展」、「元界利用博覽會」 」和「數據驅動管理博覽會」。<br />展覽期間為2024年4月24日星期三至2024年4月26日星期五3天。舉辦地點為東京國際展示場。</p>
 <p>點此看第33屆日本春季IT周官方網站：<br /><a href="https://www.japan-it.jp/spring/ja-jp/about.html" target="_blank" rel="noopener">https://www.japan-it.jp/spring/ja-jp/about.html</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/japan-it_2024_04/">第 33 屆日本春季 IT 週 (日本)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/japan-it_2024_04/">第 33 屆日本春季 IT 週 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/japan-it_2024_04/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">50858</post-id>
-	</item>
-		<item>
-		<title>DMEA 2024 (德國)</title>
-		<link>/playlist/dmea_2024_04/</link>
-					<comments>/playlist/dmea_2024_04/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Fri, 26 Apr 2024 06:24:23 +0000</pubDate>
-				<category><![CDATA[信息/電信]]></category>
-		<category><![CDATA[德國]]></category>
-		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=50745</guid>
-
-					<description><![CDATA[<p>「DMEA 2024」是醫院、復健診所和護理機構的軟體、診所、實驗室和放射技術人員的IT解決方案、硬體、通訊解 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/dmea_2024_04/">DMEA 2024 (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>「DMEA 2024」是醫院、復健診所和護理機構的軟體、診所、實驗室和放射技術人員的IT解決方案、硬體、通訊解決方案、IT安全、行動醫療、遠距醫療以及相關服務和產品的展覽。</p>
-<p>展覽時間為2024年4月9日至2024年4月11日。舉辦地點是柏林展覽中心。</p>
-<p>點此查看DMEA 2024官方網站：<br />
-<a href="https://www.dmea.de/en/" target="_blank" rel="noopener">https://www.dmea.de/en/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/dmea_2024_04/">DMEA 2024 (德國)</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/playlist/dmea_2024_04/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">50745</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">50858</post-id>	</item>
 	</channel>
 </rss>

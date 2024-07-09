@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>CES 2023 - 消費技術協會技術活動 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>CES 2023 - 消費技術協會技術活動 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/ces-2023-%E6%B6%88%E8%B2%BB%E6%8A%80%E8%A1%93%E5%8D%94%E6%9C%83%E6%8A%80%E8%A1%93%E6%B4%BB%E5%8B%95/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/ces-2023-消費技術協會技術活動/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 24 Jan 2023 07:09:49 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>CES 2023 - 消費技術協會技術活動 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>CES 2023 - 消費技術協會技術活動 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/ces-2023-消費技術協會技術活動/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心</title>
 		<link>/contents/43742/</link>
 					<comments>/contents/43742/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43742</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43742</guid>
 
 					<description><![CDATA[<p>三得利全球創新中心 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 “Gatiorist [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43742/">[CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43742/">[CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>三得利全球創新中心 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 “Gatiorists”測量步態和姿勢。</p>
 </p>
@@ -142,46 +139,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-204.jpg"></div>
 <div class="caption_text">就這些。  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43742/">[CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43742/">[CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43742/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43742</post-id>
-		<media:content url="https://www.youtube.com/embed/mdcG4OgmLlI" duration="238">
-			<media:player url="https://www.youtube.com/embed/mdcG4OgmLlI" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] “Gatiorists”測量步態和姿勢 - 三得利全球創新中心 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/mdcg4ogmlli.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-141.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-176.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-190.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-197.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_01-204.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43742</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人</title>
 		<link>/contents/43744/</link>
@@ -195,10 +160,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43744</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43744</guid>
 
 					<description><![CDATA[<p>SUNBO天使合夥人 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 在沒有二氧化碳的情 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43744/">[CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43744/">[CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>SUNBO天使合夥人 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 在沒有二氧化碳的情況下產生氫氣。</p>
 </p>
@@ -238,32 +203,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-85.jpg"></div>
 <div class="caption_text">所以謝謝。  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43744/">[CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43744/">[CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43744/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43744</post-id>
-		<media:content url="https://www.youtube.com/embed/DWUAniKGPqI" duration="103">
-			<media:player url="https://www.youtube.com/embed/DWUAniKGPqI" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 在沒有二氧化碳的情況下產生氫氣 - SUNBO天使合夥人 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/dwuanikgpqi.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_02-85.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43744</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司</title>
 		<link>/contents/43746/</link>
@@ -277,10 +224,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43746</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43746</guid>
 
 					<description><![CDATA[<p>量子汽車公司 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 98%效率電機。 大家好， [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43746/">[CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43746/">[CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>量子汽車公司 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 98%效率電機。</p>
 </p>
@@ -352,40 +299,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-141.jpg"></div>
 <div class="caption_text">我看不出有什麼比我們這裡的更好了。  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43746/">[CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43746/">[CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43746/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43746</post-id>
-		<media:content url="https://www.youtube.com/embed/DS4ID5g84Zg" duration="154">
-			<media:player url="https://www.youtube.com/embed/DS4ID5g84Zg" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 98%效率電機 - 量子汽車公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/ds4id5g84zg.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_03-141.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43746</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷</title>
 		<link>/contents/43748/</link>
@@ -399,10 +320,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43748</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43748</guid>
 
 					<description><![CDATA[<p>橄欖診斷 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 用光檢測和分析尿液分子的人工智 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43748/">[CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43748/">[CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>橄欖診斷 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 用光檢測和分析尿液分子的人工智能。</p>
 </p>
@@ -486,43 +407,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-176.jpg"></div>
 <div class="caption_text">因此，超過 600 種情況會在尿液中表現出來，如果您實際使用 olive Diagnostics 的光譜監測您的尿液，您會更健康。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43748/">[CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43748/">[CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43748/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43748</post-id>
-		<media:content url="https://www.youtube.com/embed/CkKd1dM4WvM" duration="194">
-			<media:player url="https://www.youtube.com/embed/CkKd1dM4WvM" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 用光檢測和分析尿液分子的人工智能 - 橄欖診斷 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/ckkd1dm4wvm.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-162.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-169.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_04-176.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43748</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲</title>
 		<link>/contents/43750/</link>
@@ -536,10 +428,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43750</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43750</guid>
 
 					<description><![CDATA[<p>新聲 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 無線可穿戴超聲系統。 大家好，我是 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43750/">[CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43750/">[CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>新聲 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 無線可穿戴超聲系統。</p>
 </p>
@@ -559,27 +451,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_05-22.jpg"></div>
 <div class="caption_text">目前這是一個非常早期的完美概念，但我們很高興在 CES 上度過了愉快的時光，讓人們看到無線可穿戴超聲的概念和前景 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43750/">[CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43750/">[CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43750/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43750</post-id>
-		<media:content url="https://www.youtube.com/embed/CpbE6ZiziWQ" duration="41">
-			<media:player url="https://www.youtube.com/embed/CpbE6ZiziWQ" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 無線可穿戴超聲系統 - 新聲 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/cpbe6ziziwq.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_05-22.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43750</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾</title>
 		<link>/contents/43752/</link>
@@ -593,10 +472,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43752</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43752</guid>
 
 					<description><![CDATA[<p>深諾 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 各領域AI解決方案。 大家好，我叫 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43752/">[CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43752/">[CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>深諾 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 各領域AI解決方案。</p>
 </p>
@@ -644,34 +523,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-99.jpg"></div>
 <div class="caption_text">您無需編碼即可製作自己的 AI 模型。就是這樣。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43752/">[CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43752/">[CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43752/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43752</post-id>
-		<media:content url="https://www.youtube.com/embed/BhH6YeRKdA8" duration="108">
-			<media:player url="https://www.youtube.com/embed/BhH6YeRKdA8" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 各領域AI解決方案 - 深諾 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/bhh6yerkda8.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_06-99.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43752</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新</title>
 		<link>/contents/43754/</link>
@@ -685,10 +544,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43754</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43754</guid>
 
 					<description><![CDATA[<p>基里創新 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 只需在周圍拍照即可製作 3D  [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43754/">[CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43754/">[CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>基里創新 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 只需在周圍拍照即可製作 3D 模型的應用程序。</p>
 </p>
@@ -764,41 +623,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-134.jpg"></div>
 <div class="caption_text">就是這樣了。   </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43754/">[CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43754/">[CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43754/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43754</post-id>
-		<media:content url="https://www.youtube.com/embed/HRmh2V3nrhU" duration="147">
-			<media:player url="https://www.youtube.com/embed/HRmh2V3nrhU" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 只需在周圍拍照即可製作 3D 模型的應用程序 - 基里創新 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/hrmh2v3nrhu.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_07-134.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43754</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技</title>
 		<link>/contents/43756/</link>
@@ -812,10 +644,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43756</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43756</guid>
 
 					<description><![CDATA[<p>億勤科技 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 G2巡邏。 大家好，我叫 Ma [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43756/">[CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43756/">[CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>億勤科技 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 G2巡邏。</p>
 </p>
@@ -843,29 +675,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-36.jpg"></div>
 <div class="caption_text">而且我們還將能夠檢測速度並將所有違規行為記錄在車內。謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43756/">[CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43756/">[CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43756/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43756</post-id>
-		<media:content url="https://www.youtube.com/embed/HjrsmmCKnnw" duration="60">
-			<media:player url="https://www.youtube.com/embed/HjrsmmCKnnw" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] G2巡邏 - 億勤科技 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/hjrsmmcknnw.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_08-36.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43756</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠</title>
 		<link>/contents/43758/</link>
@@ -879,10 +696,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43758</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43758</guid>
 
 					<description><![CDATA[<p>美國印刷廠 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 Chameleon 20：可 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43758/">[CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43758/">[CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>美國印刷廠 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 Chameleon 20：可刷新的盲文顯示器。</p>
 </p>
@@ -970,44 +787,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-169.jpg"></div>
 <div class="caption_text">因此，這些 pod 中的每一個都代表了編碼中的不同概念，因此請考慮循環序列變量之類的東西。  </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43758/">[CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43758/">[CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43758/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43758</post-id>
-		<media:content url="https://www.youtube.com/embed/Hxr68UfdSC4" duration="184">
-			<media:player url="https://www.youtube.com/embed/Hxr68UfdSC4" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] Chameleon 20：可刷新的盲文顯示器 - 美國印刷廠 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/hxr68ufdsc4.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-29.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-85.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-120.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-148.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-155.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_09-169.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43758</post-id>	</item>
 		<item>
 		<title>[CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利</title>
 		<link>/contents/43760/</link>
@@ -1021,10 +808,10 @@
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[美國]]></category>
-		<guid isPermaLink="false">/?p=43760</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=43760</guid>
 
 					<description><![CDATA[<p>便利 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 全自動和交互式設備：得心應手。 嘿 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/43760/">[CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43760/">[CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>便利 在 CES 2023 &#8211; 消費技術協會技術活動 處展示了 全自動和交互式設備：得心應手。</p>
 </p>
@@ -1100,40 +887,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-141.jpg"></div>
 <div class="caption_text">謝謝你。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/43760/">[CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/43760/">[CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/43760/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">43760</post-id>
-		<media:content url="https://www.youtube.com/embed/QnTriiQovi0" duration="155">
-			<media:player url="https://www.youtube.com/embed/QnTriiQovi0" />
-			<media:title type="html">[CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CES 2023 - 消費技術協會技術活動] 全自動和交互式設備：得心應手 - 便利 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2023/01/qntriiqovi0.jpg" />
-			<media:keywords>信息/電信,服務,機械/工業技術,美國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-22.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-36.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-43.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-50.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-57.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-64.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-71.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-78.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-92.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-99.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-106.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-113.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-127.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-134.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ces_2023_01/ces_2023_01_10-141.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">43760</post-id>	</item>
 	</channel>
 </rss>

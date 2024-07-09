@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/%E8%A8%AD%E8%A8%88%E5%80%AB%E6%95%A6-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/設計倫敦-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Thu, 13 Oct 2022 02:04:26 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>設計倫敦 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/設計倫敦-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[設計倫敦 2022] 英國貨架工作室 - 雕塑擱架</title>
 		<link>/contents/42329/</link>
 					<comments>/contents/42329/#respond</comments>
@@ -41,10 +38,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42329</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42329</guid>
 
 					<description><![CDATA[<p>雕塑擱架 在 設計倫敦 2022 處展示了 英國貨架工作室。 大家好，我的名字是 Sam，我是 Shelf S [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42329/">[設計倫敦 2022] 英國貨架工作室 - 雕塑擱架</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42329/">[設計倫敦 2022] 英國貨架工作室 - 雕塑擱架</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>雕塑擱架 在 設計倫敦 2022 處展示了 英國貨架工作室。</p>
 </p>
@@ -84,32 +81,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-10.jpg"></div>
 <div class="caption_text">這是倫敦設計展的一個概念。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42329/">[設計倫敦 2022] 英國貨架工作室 - 雕塑擱架</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42329/">[設計倫敦 2022] 英國貨架工作室 - 雕塑擱架</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42329/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42329</post-id>
-		<media:content url="https://www.youtube.com/embed/VxTb_rsT3aU" duration="76">
-			<media:player url="https://www.youtube.com/embed/VxTb_rsT3aU" />
-			<media:title type="html">[設計倫敦 2022] 英國貨架工作室 - 雕塑擱架 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 英國貨架工作室 - 雕塑擱架 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/vxtb_rst3au.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_01-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42329</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 新兵馬俑 - 定製陶瓷</title>
 		<link>/contents/42331/</link>
@@ -121,10 +100,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42331</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42331</guid>
 
 					<description><![CDATA[<p>定製陶瓷 在 設計倫敦 2022 處展示了 新兵馬俑。 嗨，我是 Barbara，我在 2022 年倫敦設計展 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42331/">[設計倫敦 2022] 新兵馬俑 - 定製陶瓷</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42331/">[設計倫敦 2022] 新兵馬俑 - 定製陶瓷</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>定製陶瓷 在 設計倫敦 2022 處展示了 新兵馬俑。</p>
 </p>
@@ -152,29 +131,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-7.jpg"></div>
 <div class="caption_text">因為設計師會選擇一種格式和顏色，我們將根據特定項目的需求生產 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42331/">[設計倫敦 2022] 新兵馬俑 - 定製陶瓷</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42331/">[設計倫敦 2022] 新兵馬俑 - 定製陶瓷</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42331/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42331</post-id>
-		<media:content url="https://www.youtube.com/embed/dJVNZR3cjyg" duration="66">
-			<media:player url="https://www.youtube.com/embed/dJVNZR3cjyg" />
-			<media:title type="html">[設計倫敦 2022] 新兵馬俑 - 定製陶瓷 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 新兵馬俑 - 定製陶瓷 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/djvnzr3cjyg.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_02-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42331</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 亮綠色 - 人工種植</title>
 		<link>/contents/42333/</link>
@@ -186,10 +150,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42333</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42333</guid>
 
 					<description><![CDATA[<p>人工種植 在 設計倫敦 2022 處展示了 亮綠色。 嗨，我是 Olivia，我們是 Bright Green [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42333/">[設計倫敦 2022] 亮綠色 - 人工種植</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42333/">[設計倫敦 2022] 亮綠色 - 人工種植</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>人工種植 在 設計倫敦 2022 處展示了 亮綠色。</p>
 </p>
@@ -229,32 +193,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-9.jpg"></div>
 <div class="caption_text">但它又有所不同，因為一切都是定制的，所以這取決於種植者，取決於大小和所有這些。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42333/">[設計倫敦 2022] 亮綠色 - 人工種植</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42333/">[設計倫敦 2022] 亮綠色 - 人工種植</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42333/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42333</post-id>
-		<media:content url="https://www.youtube.com/embed/GlYc2o_8-Nw" duration="75">
-			<media:player url="https://www.youtube.com/embed/GlYc2o_8-Nw" />
-			<media:title type="html">[設計倫敦 2022] 亮綠色 - 人工種植 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 亮綠色 - 人工種植 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/glyc2o_8-nw.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_03-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42333</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 愛麗絲宮 - 定制照明</title>
 		<link>/contents/42335/</link>
@@ -266,10 +212,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42335</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42335</guid>
 
 					<description><![CDATA[<p>定制照明 在 設計倫敦 2022 處展示了 愛麗絲宮。 嗨，我是 Alice Palace，我在倫敦設計公司。 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42335/">[設計倫敦 2022] 愛麗絲宮 - 定制照明</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42335/">[設計倫敦 2022] 愛麗絲宮 - 定制照明</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>定制照明 在 設計倫敦 2022 處展示了 愛麗絲宮。</p>
 </p>
@@ -305,31 +251,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-8.jpg"></div>
 <div class="caption_text">我也做商業空間，所以每平方米，它們是一千磅。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42335/">[設計倫敦 2022] 愛麗絲宮 - 定制照明</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42335/">[設計倫敦 2022] 愛麗絲宮 - 定制照明</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42335/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42335</post-id>
-		<media:content url="https://www.youtube.com/embed/UWgPjSimuL8" duration="63">
-			<media:player url="https://www.youtube.com/embed/UWgPjSimuL8" />
-			<media:title type="html">[設計倫敦 2022] 愛麗絲宮 - 定制照明 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 愛麗絲宮 - 定制照明 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/uwgpjsimul8.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_04-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42335</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 阿迪達斯 - 追逐循環</title>
 		<link>/contents/42337/</link>
@@ -341,10 +270,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42337</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42337</guid>
 
 					<description><![CDATA[<p>追逐循環 在 設計倫敦 2022 處展示了 阿迪達斯。 大家好，我的名字是 Paul Smith，我是阿迪達斯 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42337/">[設計倫敦 2022] 阿迪達斯 - 追逐循環</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42337/">[設計倫敦 2022] 阿迪達斯 - 追逐循環</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>追逐循環 在 設計倫敦 2022 處展示了 阿迪達斯。</p>
 </p>
@@ -404,37 +333,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-16.jpg"></div>
 <div class="caption_text">並最終通過學習幫助行業的其他人了解他們如何幫助我們實現循環未來的目標。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42337/">[設計倫敦 2022] 阿迪達斯 - 追逐循環</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42337/">[設計倫敦 2022] 阿迪達斯 - 追逐循環</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42337/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42337</post-id>
-		<media:content url="https://www.youtube.com/embed/b9Fv7niBNBE" duration="121">
-			<media:player url="https://www.youtube.com/embed/b9Fv7niBNBE" />
-			<media:title type="html">[設計倫敦 2022] 阿迪達斯 - 追逐循環 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 阿迪達斯 - 追逐循環 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/b9fv7nibnbe.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_05-16.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42337</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 我在這裡 - 藝術家具</title>
 		<link>/contents/42341/</link>
@@ -446,10 +352,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42341</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42341</guid>
 
 					<description><![CDATA[<p>藝術家具 在 設計倫敦 2022 處展示了 我在這裡。 大家好，我是來自韓國的 Ellie Chong。我在這 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42341/">[設計倫敦 2022] 我在這裡 - 藝術家具</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42341/">[設計倫敦 2022] 我在這裡 - 藝術家具</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>藝術家具 在 設計倫敦 2022 處展示了 我在這裡。</p>
 </p>
@@ -485,31 +391,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-8.jpg"></div>
 <div class="caption_text">這些藝術家具的價格範圍從 2600 英鎊到 16400 英鎊不等。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42341/">[設計倫敦 2022] 我在這裡 - 藝術家具</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42341/">[設計倫敦 2022] 我在這裡 - 藝術家具</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42341/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42341</post-id>
-		<media:content url="https://www.youtube.com/embed/1skWeuCcK5w" duration="72">
-			<media:player url="https://www.youtube.com/embed/1skWeuCcK5w" />
-			<media:title type="html">[設計倫敦 2022] 我在這裡 - 藝術家具 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 我在這裡 - 藝術家具 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/1skweucck5w.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_07-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42341</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 阿里科 - 家用電梯</title>
 		<link>/contents/42339/</link>
@@ -521,10 +410,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42339</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42339</guid>
 
 					<description><![CDATA[<p>家用電梯 在 設計倫敦 2022 處展示了 阿里科。 大家好，我叫 Reshma，我和 Aritco 一起參加 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42339/">[設計倫敦 2022] 阿里科 - 家用電梯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42339/">[設計倫敦 2022] 阿里科 - 家用電梯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>家用電梯 在 設計倫敦 2022 處展示了 阿里科。</p>
 </p>
@@ -556,30 +445,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-7.jpg"></div>
 <div class="caption_text">我們也可以為公寓樓和六層高的房屋提供服務。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42339/">[設計倫敦 2022] 阿里科 - 家用電梯</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42339/">[設計倫敦 2022] 阿里科 - 家用電梯</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42339/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42339</post-id>
-		<media:content url="https://www.youtube.com/embed/k00Lhp-jlEU" duration="55">
-			<media:player url="https://www.youtube.com/embed/k00Lhp-jlEU" />
-			<media:title type="html">[設計倫敦 2022] 阿里科 - 家用電梯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 阿里科 - 家用電梯 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/k00lhp-jleu.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_06-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42339</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 蘇斯設計 - 軟木家具</title>
 		<link>/contents/42343/</link>
@@ -591,10 +464,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42343</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42343</guid>
 
 					<description><![CDATA[<p>軟木家具 在 設計倫敦 2022 處展示了 蘇斯設計。 我是 Sus Design Studio 的創始人 A [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42343/">[設計倫敦 2022] 蘇斯設計 - 軟木家具</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42343/">[設計倫敦 2022] 蘇斯設計 - 軟木家具</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>軟木家具 在 設計倫敦 2022 處展示了 蘇斯設計。</p>
 </p>
@@ -634,32 +507,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-11.jpg"></div>
 <div class="caption_text">比如樹葉、樹枝和其他類型的材料。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42343/">[設計倫敦 2022] 蘇斯設計 - 軟木家具</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42343/">[設計倫敦 2022] 蘇斯設計 - 軟木家具</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42343/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42343</post-id>
-		<media:content url="https://www.youtube.com/embed/0tT4xNnsnJI" duration="81">
-			<media:player url="https://www.youtube.com/embed/0tT4xNnsnJI" />
-			<media:title type="html">[設計倫敦 2022] 蘇斯設計 - 軟木家具 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 蘇斯設計 - 軟木家具 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/0tt4xnnsnji.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_08-11.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42343</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 六點設計 - 當代虛榮心</title>
 		<link>/contents/42345/</link>
@@ -671,10 +526,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42345</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42345</guid>
 
 					<description><![CDATA[<p>當代虛榮心 在 設計倫敦 2022 處展示了 六點設計。 嗨，我的名字是 Joseph Ellwood，我是英 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42345/">[設計倫敦 2022] 六點設計 - 當代虛榮心</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42345/">[設計倫敦 2022] 六點設計 - 當代虛榮心</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>當代虛榮心 在 設計倫敦 2022 處展示了 六點設計。</p>
 </p>
@@ -742,39 +597,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-18.jpg"></div>
 <div class="caption_text">我們的身份在不斷變化和發展，所以我想設計一套家具，既能做到這一點，也能更好地表現出這一點。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42345/">[設計倫敦 2022] 六點設計 - 當代虛榮心</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42345/">[設計倫敦 2022] 六點設計 - 當代虛榮心</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42345/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42345</post-id>
-		<media:content url="https://www.youtube.com/embed/D0IuK7H7XXM" duration="138">
-			<media:player url="https://www.youtube.com/embed/D0IuK7H7XXM" />
-			<media:title type="html">[設計倫敦 2022] 六點設計 - 當代虛榮心 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 六點設計 - 當代虛榮心 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/d0iuk7h7xxm.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-17.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_09-18.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42345</post-id>	</item>
 		<item>
 		<title>[設計倫敦 2022] 馬薩亞 - 黃銅家具</title>
 		<link>/contents/42347/</link>
@@ -786,10 +616,10 @@
 		<category><![CDATA[設計倫敦 2022]]></category>
 		<category><![CDATA[生活]]></category>
 		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">/?p=42347</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42347</guid>
 
 					<description><![CDATA[<p>黃銅家具 在 設計倫敦 2022 處展示了 馬薩亞。 嗨，我們在倫敦設計公司，我代表 Masaya。我們是一個 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42347/">[設計倫敦 2022] 馬薩亞 - 黃銅家具</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42347/">[設計倫敦 2022] 馬薩亞 - 黃銅家具</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>黃銅家具 在 設計倫敦 2022 處展示了 馬薩亞。</p>
 </p>
@@ -825,30 +655,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-10.jpg"></div>
 <div class="caption_text">像這樣的東西是 800 磅，而那把椅子是 600 磅。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42347/">[設計倫敦 2022] 馬薩亞 - 黃銅家具</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42347/">[設計倫敦 2022] 馬薩亞 - 黃銅家具</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42347/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42347</post-id>
-		<media:content url="https://www.youtube.com/embed/gB8233GvP44" duration="76">
-			<media:player url="https://www.youtube.com/embed/gB8233GvP44" />
-			<media:title type="html">[設計倫敦 2022] 馬薩亞 - 黃銅家具 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [設計倫敦 2022] 馬薩亞 - 黃銅家具 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/10/gb8233gvp44.jpg" />
-			<media:keywords>生活,英國</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/designlondon_2022_09/designlondon_2022_09_10-10.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42347</post-id>	</item>
 	</channel>
 </rss>

@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/contents/category/ceatec-2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/contents/category/ceatec-2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Wed, 09 Nov 2022 01:04:31 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>CEATEC 2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/contents/category/ceatec-2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>[CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司</title>
 		<link>/contents/42754/</link>
 					<comments>/contents/42754/#respond</comments>
@@ -45,10 +42,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42754</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42754</guid>
 
 					<description><![CDATA[<p>黑魔設計有限公司 在 CEATEC 2022 處展示了 ATEM Mini Extreme ISO。 網站：h [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42754/">[CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42754/">[CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>黑魔設計有限公司 在 CEATEC 2022 處展示了 ATEM Mini Extreme ISO。</p>
 <p>網站：<a href="https://www.blackmagicdesign.com/jp" target="_blank" rel="noopener">https://www.blackmagicdesign.com/jp</a></p>
@@ -136,44 +133,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-22.jpg"></div>
 <div class="caption_text">我們在上面介紹了atem mini。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42754/">[CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42754/">[CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42754/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42754</post-id>
-		<media:content url="https://www.youtube.com/embed/xJ5FFQJ7zqc" duration="163">
-			<media:player url="https://www.youtube.com/embed/xJ5FFQJ7zqc" />
-			<media:title type="html">[CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] ATEM Mini Extreme ISO - 黑魔設計有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/xj5ffqj7zqc.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-14.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-15.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-16.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-18.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-19.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-20.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-21.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_01-22.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42754</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L</title>
 		<link>/contents/42756/</link>
@@ -189,10 +156,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42756</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42756</guid>
 
 					<description><![CDATA[<p>IENTER Co., L 在 CEATEC 2022 處展示了 i-ocean“物聯網水質傳感器”“魚體尺寸 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42756/">[CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42756/">[CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>IENTER Co., L 在 CEATEC 2022 處展示了 i-ocean“物聯網水質傳感器”“魚體尺寸測量相機”。</p>
 <p>網站：<a href="https://www.i-enter.co.jp/" target="_blank" rel="noopener">https://www.i-enter.co.jp/</a></p>
@@ -220,29 +187,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-8.jpg"></div>
 <div class="caption_text">它已成為。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42756/">[CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42756/">[CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42756/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42756</post-id>
-		<media:content url="https://www.youtube.com/embed/sVG5C2k6zBs" duration="67">
-			<media:player url="https://www.youtube.com/embed/sVG5C2k6zBs" />
-			<media:title type="html">[CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] i-ocean“物聯網水質傳感器”“魚體尺寸測量相機” - IENTER Co., L &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/svg5c2k6zbs.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_02-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42756</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網</title>
 		<link>/contents/42760/</link>
@@ -258,10 +210,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42760</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42760</guid>
 
 					<description><![CDATA[<p>宇宙網 在 CEATEC 2022 處展示了 多功能呼吸功能分析儀“FB-8010”。 網站：https:// [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42760/">[CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42760/">[CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>宇宙網 在 CEATEC 2022 處展示了 多功能呼吸功能分析儀“FB-8010”。</p>
 <p>網站：<a href="https://www.cosmosweb.com/" target="_blank" rel="noopener">https://www.cosmosweb.com/</a></p>
@@ -285,28 +237,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-7.jpg"></div>
 <div class="caption_text">例如，當將支架放置在肺部氣道狹窄的患者體內時。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42760/">[CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42760/">[CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42760/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42760</post-id>
-		<media:content url="https://www.youtube.com/embed/yV-3aZpRzZ0" duration="64">
-			<media:player url="https://www.youtube.com/embed/yV-3aZpRzZ0" />
-			<media:title type="html">[CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 多功能呼吸功能分析儀“FB-8010” - 宇宙網 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/yv-3azprzz0.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_04-7.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42760</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 蜂視場 - 艾康公司</title>
 		<link>/contents/42758/</link>
@@ -322,10 +260,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42758</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42758</guid>
 
 					<description><![CDATA[<p>艾康公司 在 CEATEC 2022 處展示了 蜂視場。 網站：https://aecom.co.jp/ 我們 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42758/">[CEATEC 2022] 蜂視場 - 艾康公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42758/">[CEATEC 2022] 蜂視場 - 艾康公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>艾康公司 在 CEATEC 2022 處展示了 蜂視場。</p>
 <p>網站：<a href="https://aecom.co.jp/" target="_blank" rel="noopener">https://aecom.co.jp/</a></p>
@@ -345,27 +283,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_03-5.jpg"></div>
 <div class="caption_text">我認為這是收集展覽數據、吸引商店顧客等數據的最佳方式。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42758/">[CEATEC 2022] 蜂視場 - 艾康公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42758/">[CEATEC 2022] 蜂視場 - 艾康公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42758/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42758</post-id>
-		<media:content url="https://www.youtube.com/embed/d2lNXXOI4jo" duration="42">
-			<media:player url="https://www.youtube.com/embed/d2lNXXOI4jo" />
-			<media:title type="html">[CEATEC 2022] 蜂視場 - 艾康公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 蜂視場 - 艾康公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/d2lnxxoi4jo.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_03-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_03-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_03-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_03-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_03-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42758</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 透明反射柵欄 - AGC公司</title>
 		<link>/contents/42762/</link>
@@ -381,10 +306,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42762</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42762</guid>
 
 					<description><![CDATA[<p>AGC公司 在 CEATEC 2022 處展示了 透明反射柵欄。 網站：https://www.agc.com/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42762/">[CEATEC 2022] 透明反射柵欄 - AGC公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42762/">[CEATEC 2022] 透明反射柵欄 - AGC公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>AGC公司 在 CEATEC 2022 處展示了 透明反射柵欄。</p>
 <p>網站：<a href="https://www.agc.com/" target="_blank" rel="noopener">https://www.agc.com/</a></p>
@@ -412,29 +337,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-9.jpg"></div>
 <div class="caption_text">我們開發它是因為我們想呼籲易於實施。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42762/">[CEATEC 2022] 透明反射柵欄 - AGC公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42762/">[CEATEC 2022] 透明反射柵欄 - AGC公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42762/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42762</post-id>
-		<media:content url="https://www.youtube.com/embed/a4CT0M9E84U" duration="72">
-			<media:player url="https://www.youtube.com/embed/a4CT0M9E84U" />
-			<media:title type="html">[CEATEC 2022] 透明反射柵欄 - AGC公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 透明反射柵欄 - AGC公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/a4ct0m9e84u.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_05-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42762</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司</title>
 		<link>/contents/42764/</link>
@@ -450,10 +360,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42764</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42764</guid>
 
 					<description><![CDATA[<p>Maxta Amenity 有限公司 在 CEATEC 2022 處展示了 圖像味覺分析系統“美味的可視化®” [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42764/">[CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42764/">[CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>Maxta Amenity 有限公司 在 CEATEC 2022 處展示了 圖像味覺分析系統“美味的可視化®”。</p>
 <p>網站：<a href="http://makuta-amenity.com/" target="_blank" rel="noopener">http://makuta-amenity.com/</a></p>
@@ -481,29 +391,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-8.jpg"></div>
 <div class="caption_text">我們的目標是全面信息化，比如什麼口味賣得好，有什麼樣的需求，消費者喜歡什麼樣的產品。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42764/">[CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42764/">[CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42764/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42764</post-id>
-		<media:content url="https://www.youtube.com/embed/tRs2TmFJlyM" duration="71">
-			<media:player url="https://www.youtube.com/embed/tRs2TmFJlyM" />
-			<media:title type="html">[CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 圖像味覺分析系統“美味的可視化®” - Maxta Amenity 有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/trs2tmfjlym.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_07-8.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42764</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司</title>
 		<link>/contents/42766/</link>
@@ -519,10 +414,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42766</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42766</guid>
 
 					<description><![CDATA[<p>亞歷克斯公司 在 CEATEC 2022 處展示了 語音合成中間件“sodiac”。 網站：https://w/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42766/">[CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42766/">[CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>亞歷克斯公司 在 CEATEC 2022 處展示了 語音合成中間件“sodiac”。</p>
 <p>網站：<a href="https://www.arexinc.co.jp/index.html" target="_blank" rel="noopener">https://www.arexinc.co.jp/index.html</a></p>
@@ -542,27 +437,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_08-5.jpg"></div>
 <div class="caption_text">此外，它還是一個易於使用的中間件。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42766/">[CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42766/">[CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42766/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42766</post-id>
-		<media:content url="https://www.youtube.com/embed/LWFSygNWl2w" duration="42">
-			<media:player url="https://www.youtube.com/embed/LWFSygNWl2w" />
-			<media:title type="html">[CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 語音合成中間件“sodiac” - 亞歷克斯公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/lwfsygnwl2w.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_08-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_08-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_08-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_08-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_08-5.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42766</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd.</title>
 		<link>/contents/42770/</link>
@@ -578,10 +460,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42770</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42770</guid>
 
 					<description><![CDATA[<p>FREE Bionics Japan Co., Ltd. 在 CEATEC 2022 處展示了 腰部動力套裝“ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42770/">[CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42770/">[CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>FREE Bionics Japan Co., Ltd. 在 CEATEC 2022 處展示了 腰部動力套裝“FB套裝”。</p>
 <p>網站：<a href="https://www.freebionics.com.tw/jp" target="_blank" rel="noopener">https://www.freebionics.com.tw/jp</a></p>
@@ -629,34 +511,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-14.jpg"></div>
 <div class="caption_text">請作為參考。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42770/">[CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd.</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42770/">[CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd.</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42770/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42770</post-id>
-		<media:content url="https://www.youtube.com/embed/IK4MNKAF3_s" duration="99">
-			<media:player url="https://www.youtube.com/embed/IK4MNKAF3_s" />
-			<media:title type="html">[CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 腰部動力套裝“FB套裝” - FREE Bionics Japan Co., Ltd. &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/ik4mnkaf3_s.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-7.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-12.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-13.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_10-14.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42770</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司</title>
 		<link>/contents/42768/</link>
@@ -672,10 +534,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42768</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42768</guid>
 
 					<description><![CDATA[<p>遠程科技有限公司 在 CEATEC 2022 處展示了 紅外遙控數據庫“REMOTEBLE”。 網站：http [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42768/">[CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42768/">[CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>遠程科技有限公司 在 CEATEC 2022 處展示了 紅外遙控數據庫“REMOTEBLE”。</p>
 <p>網站：<a href="https://remotec.com.hk/" target="_blank" rel="noopener">https://remotec.com.hk/</a></p>
@@ -719,33 +581,14 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-13.jpg"></div>
 <div class="caption_text">非常感謝。 </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42768/">[CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42768/">[CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42768/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42768</post-id>
-		<media:content url="https://www.youtube.com/embed/T8F0JDz05qw" duration="92">
-			<media:player url="https://www.youtube.com/embed/T8F0JDz05qw" />
-			<media:title type="html">[CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 紅外遙控數據庫“REMOTEBLE” - 遠程科技有限公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/t8f0jdz05qw.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-9.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-10.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-11.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_09-13.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42768</post-id>	</item>
 		<item>
 		<title>[CEATEC 2022] 物聯網“推送日誌” - 古根公司</title>
 		<link>/contents/42772/</link>
@@ -761,10 +604,10 @@
 		<category><![CDATA[機械/工業技術]]></category>
 		<category><![CDATA[運輸/物流/包裝]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?p=42772</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?p=42772</guid>
 
 					<description><![CDATA[<p>古根公司 在 CEATEC 2022 處展示了 物聯網“推送日誌”。 網站：https://www.gugen/ [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/contents/42772/">[CEATEC 2022] 物聯網“推送日誌” - 古根公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42772/">[CEATEC 2022] 物聯網“推送日誌” - 古根公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>古根公司 在 CEATEC 2022 處展示了 物聯網“推送日誌”。</p>
 <p>網站：<a href="https://www.gugen-inc.com/" target="_blank" rel="noopener">https://www.gugen-inc.com/</a></p>
@@ -800,30 +643,13 @@
 <div class="caption_img"><img decoding="async" src="https://www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-9.jpg"></div>
 <div class="caption_text">客戶一購買該設備，即可立即實現IOT和DX。增加。    </div>
 </div>
-<p>這篇文章 <a rel="nofollow" href="/contents/42772/">[CEATEC 2022] 物聯網“推送日誌” - 古根公司</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/contents/42772/">[CEATEC 2022] 物聯網“推送日誌” - 古根公司</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/contents/42772/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">42772</post-id>
-		<media:content url="https://www.youtube.com/embed/WGqjv8F2wjw" duration="71">
-			<media:player url="https://www.youtube.com/embed/WGqjv8F2wjw" />
-			<media:title type="html">[CEATEC 2022] 物聯網“推送日誌” - 古根公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:title>
-			<media:description type="html">特殊功能 [CEATEC 2022] 物聯網“推送日誌” - 古根公司 &#124; 在線觀看展覽！WorldTradeShow.tv &#124; TAIWAN</media:description>
-			<media:thumbnail url="/wp-content/uploads/2022/11/wgqjv8f2wjw.jpg" />
-			<media:keywords>信息/電信,基礎產業,日本,機械/工業技術,運輸/物流/包裝,醫療保健/健康</media:keywords>
-		</media:content>
-		<media:thumbnail url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-1.jpg" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-1.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-2.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-3.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-4.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-5.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-6.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-8.jpg" medium="image" />
-		<media:content url="/www.tenji.tv/wp-content/uploads/video_img/ceatec_2022_10/ceatec_2022_10_11-9.jpg" medium="image" />
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">42772</post-id>	</item>
 	</channel>
 </rss>

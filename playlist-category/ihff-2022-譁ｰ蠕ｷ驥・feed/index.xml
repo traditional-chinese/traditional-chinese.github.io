@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>IHFF 2022 新德里 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>IHFF 2022 新德里 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/ihff-2022-%E6%96%B0%E5%BE%B7%E9%87%8C/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/ihff-2022-新德里/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 05 Jul 2022 10:25:21 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>IHFF 2022 新德里 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>IHFF 2022 新德里 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/ihff-2022-新德里/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>IHFF 2022 新德里</title>
 		<link>/playlist/ihff-2022-new-delhi_ihff_asia_2022/</link>
 					<comments>/playlist/ihff-2022-new-delhi_ihff_asia_2022/#respond</comments>
@@ -39,23 +36,22 @@
 		<pubDate>Tue, 05 Jul 2022 10:25:21 +0000</pubDate>
 				<category><![CDATA[印度]]></category>
 		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41154</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41154</guid>
 
 					<description><![CDATA[<p>“IHFF 2022 新德里/國際健康運動與健身節”是印度的健康與保健展覽。 會議時間為 2022 年 6 月 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ihff-2022-new-delhi_ihff_asia_2022/">IHFF 2022 新德里</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ihff-2022-new-delhi_ihff_asia_2022/">IHFF 2022 新德里</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“IHFF 2022 新德里/國際健康運動與健身節”是印度的健康與保健展覽。</p>
 <p>會議時間為 2022 年 6 月 17 日至 2022 年 6 月 19 日，為期三天。地點是印度新德里的Pragati Maidan。</p>
 <p>點擊此處查看 IHFF 2022 新德里官方網站：<br />
 <a href="https://www.ihff.asia/" target="_blank" rel="noopener">https://www.ihff.asia/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/ihff-2022-new-delhi_ihff_asia_2022/">IHFF 2022 新德里</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/ihff-2022-new-delhi_ihff_asia_2022/">IHFF 2022 新德里</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/ihff-2022-new-delhi_ihff_asia_2022/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41154</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41154</post-id>	</item>
 	</channel>
 </rss>

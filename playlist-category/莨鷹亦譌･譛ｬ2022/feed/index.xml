@@ -5,15 +5,12 @@
 	xmlns:atom="http://www.w3.org/2005/Atom"
 	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
 	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
-	 xmlns:media="http://search.yahoo.com/mrss/" 
-	xmlns:georss="http://www.georss.org/georss"
-	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
 	>
 
 <channel>
-	<title>休閒日本2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
+	<title>休閒日本2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
 	<atom:link href="/playlist-category/%E4%BC%91%E9%96%92%E6%97%A5%E6%9C%AC2022/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<link>/playlist-category/休閒日本2022/</link>
 	<description>世界各地展覽中最先進的產品</description>
 	<lastBuildDate>Tue, 09 Aug 2022 01:26:04 +0000</lastBuildDate>
 	<language>zh-TW</language>
@@ -25,12 +22,12 @@
 
 <image>
 	<url>/wp-content/uploads/2022/03/cropped-worldtradeshow_favicon-32x32.png</url>
-	<title>休閒日本2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | TAIWAN</title>
-	<link>/</link>
+	<title>休閒日本2022 彙整 | 在線觀看展覽！WorldTradeShow.tv | 繁體中文</title>
+	<link>/playlist-category/休閒日本2022/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
-<site xmlns="com-wordpress:feed-additions:1">203708962</site>	<item>
+	<item>
 		<title>休閒日本2022</title>
 		<link>/playlist/leisure-japan_2022_07/</link>
 					<comments>/playlist/leisure-japan_2022_07/#respond</comments>
@@ -43,10 +40,10 @@
 		<category><![CDATA[日本]]></category>
 		<category><![CDATA[服務]]></category>
 		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=41626</guid>
+		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=41626</guid>
 
 					<description><![CDATA[<p>“Leisure &#38; Outdoor Japan 2022”是主題公園和戶外休閒產業的展覽。 目的是傳 [&#8230;]</p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/leisure-japan_2022_07/">休閒日本2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/leisure-japan_2022_07/">休閒日本2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></description>
 										<content:encoded><![CDATA[<p>“Leisure &amp; Outdoor Japan 2022”是主題公園和戶外休閒產業的展覽。<br />
 目的是傳播未來主題公園和休閒行業的新趨勢，並在未來重新發展這個行業。<br />
@@ -54,14 +51,13 @@
 會議將於2022年7月27日（星期三）至2021年7月29日（星期五）舉行，為期三天。會場是東京國際展覽中心東展覽館。</p>
 <p>點擊此處查看 Leisure &amp; Outdoor Japan 2022 官方網站：<br />
 <a href="https://leisure-japan.jp/" target="_blank" rel="noopener">https://leisure-japan.jp/</a></p>
-<p>這篇文章 <a rel="nofollow" href="/playlist/leisure-japan_2022_07/">休閒日本2022</a> 最早出現於 <a rel="nofollow" href="/">在線觀看展覽！WorldTradeShow.tv | TAIWAN</a>。</p>
+<p>這篇文章 <a href="/playlist/leisure-japan_2022_07/">休閒日本2022</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
 ]]></content:encoded>
 					
 					<wfw:commentRss>/playlist/leisure-japan_2022_07/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
-		<post-id xmlns="com-wordpress:feed-additions:1">41626</post-id>
-	</item>
+		<post-id xmlns="com-wordpress:feed-additions:1">41626</post-id>	</item>
 	</channel>
 </rss>
