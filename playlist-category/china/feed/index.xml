@@ -12,7 +12,7 @@
 	<atom:link href="/playlist-category/china/feed/" rel="self" type="application/rss+xml" />
 	<link>/playlist-category/china/</link>
 	<description>世界各地展覽中最先進的產品</description>
-	<lastBuildDate>Fri, 31 May 2024 07:26:57 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jul 2024 04:54:03 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>2024 上海國際養老、輔具及復健醫療博覽會 (中國)</title>
+		<link>/playlist/china-aid_2024_06/</link>
+					<comments>/playlist/china-aid_2024_06/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2024 04:54:03 +0000</pubDate>
+				<category><![CDATA[中國]]></category>
+		<category><![CDATA[醫療保健/健康]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51935</guid>
+
+					<description><![CDATA[<p>「2024 上海國際養老、輔具及復健醫療博覽會」是復健、老年、照護、輔助器具、老年住房、健康管理等領域最新服務 [&#8230;]</p>
+<p>這篇文章 <a href="/playlist/china-aid_2024_06/">2024 上海國際養老、輔具及復健醫療博覽會 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「2024 上海國際養老、輔具及復健醫療博覽會」是復健、老年、照護、輔助器具、老年住房、健康管理等領域最新服務與產品的展示。</p>
+<p>展覽期間為2024年6月13日至2024年6月15日。舉辦地點為上海新國際博覽中心（SNIEC）。</p>
+<p>CHINA AID 2024-上海國際養老、復健醫學與健康展官方網站在這裡：<br /><a href="https://www.china-aid.com/" target="_blank" rel="noopener">https://www.china-aid.com/</a></p>
+<p>這篇文章 <a href="/playlist/china-aid_2024_06/">2024 上海國際養老、輔具及復健醫療博覽會 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/china-aid_2024_06/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51935</post-id>	</item>
+		<item>
 		<title>2024年中國國際烘焙展 (中國)</title>
 		<link>/playlist/bakerychina_2024_05/</link>
 					<comments>/playlist/bakerychina_2024_05/#respond</comments>
@@ -278,32 +303,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">44145</post-id>	</item>
-		<item>
-		<title>CIExpo 2022 - 建築創新博覽會 (中國)</title>
-		<link>/playlist/ciexp_2022_12/</link>
-					<comments>/playlist/ciexp_2022_12/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Tue, 07 Feb 2023 05:43:21 +0000</pubDate>
-				<category><![CDATA[中國]]></category>
-		<category><![CDATA[建築/施工]]></category>
-		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=44045</guid>
-
-					<description><![CDATA[<p>“CIExpo 2022 &#8211; Construction Innovation Expo”是與建築相 [&#8230;]</p>
-<p>這篇文章 <a href="/playlist/ciexp_2022_12/">CIExpo 2022 - 建築創新博覽會 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>“CIExpo 2022 &#8211; Construction Innovation Expo”是與建築相關的展會。<br />
-涵蓋異地施工、機械化施工、數字化施工、先進材料與技術四大主題的創新先進施工設計方法、裝置、工藝、材料、系統和應用。</p>
-<p>展覽將於2022年12月13日至2022年12月17日為期5天。地點是中國香港的香港會議展覽中心（HKCEC）。</p>
-<p>訪問官方 CIExpo 2022 &#8211; 建築創新博覽會網站：<br />
-<a href="https://ciexpo.cic.hk/" target="_blank" rel="noopener">https://ciexpo.cic.hk/</a></p>
-<p>這篇文章 <a href="/playlist/ciexp_2022_12/">CIExpo 2022 - 建築創新博覽會 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/playlist/ciexp_2022_12/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">44045</post-id>	</item>
 	</channel>
 </rss>

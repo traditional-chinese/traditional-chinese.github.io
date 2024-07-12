@@ -12,7 +12,7 @@
 	<atom:link href="/playlist-category/hobby-education/feed/" rel="self" type="application/rss+xml" />
 	<link>/playlist-category/hobby-education/</link>
 	<description>世界各地展覽中最先進的產品</description>
-	<lastBuildDate>Fri, 07 Jun 2024 06:46:10 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 11 Jul 2024 01:27:46 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,58 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>AMLEX 2024 - 第二屆東京娛樂休閒博覽會 (日本)</title>
+		<link>/playlist/amlex_2024_07/</link>
+					<comments>/playlist/amlex_2024_07/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Thu, 11 Jul 2024 01:27:46 +0000</pubDate>
+				<category><![CDATA[愛好/教育]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[服務]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51897</guid>
+
+					<description><![CDATA[<p>「第二屆休閒遊樂博覽會」是展示遊樂設施、遊樂設備、豪華露營設備等的國際商務展會。 「LIVeNT」和「日本體育 [&#8230;]</p>
+<p>這篇文章 <a href="/playlist/amlex_2024_07/">AMLEX 2024 - 第二屆東京娛樂休閒博覽會 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「第二屆休閒遊樂博覽會」是展示遊樂設施、遊樂設備、豪華露營設備等的國際商務展會。</p>
+<p>「LIVeNT」和「日本體育週」將同時舉辦。<br />展覽期間為2024年7月3日星期三至2024年7月5日星期五3天。舉辦地點為東京國際展示場。</p>
+<p>第二屆休閒遊樂博覽會（2024）官方網站在這裡：<br /><a href="https://www.amlex.jp/ja-jp.html" target="_blank" rel="noopener">https://www.amlex.jp/ja-jp.html</a></p>
+<p>這篇文章 <a href="/playlist/amlex_2024_07/">AMLEX 2024 - 第二屆東京娛樂休閒博覽會 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/amlex_2024_07/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51897</post-id>	</item>
+		<item>
+		<title>2024 年生活 (日本)</title>
+		<link>/playlist/livent-expo_2024_07/</link>
+					<comments>/playlist/livent-expo_2024_07/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Wed, 10 Jul 2024 07:24:49 +0000</pubDate>
+				<category><![CDATA[愛好/教育]]></category>
+		<category><![CDATA[日本]]></category>
+		<category><![CDATA[服務]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51876</guid>
+
+					<description><![CDATA[<p>「LIVeNT」是由現場娛樂EXPO、活動綜合EXPO、電競商業EXPO三個展覽組成的綜合性展覽。 同期展會有 [&#8230;]</p>
+<p>這篇文章 <a href="/playlist/livent-expo_2024_07/">2024 年生活 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「LIVeNT」是由現場娛樂EXPO、活動綜合EXPO、電競商業EXPO三個展覽組成的綜合性展覽。</p>
+<p>同期展會有「現場娛樂博覽會」、「綜合賽事博覽會」、「電競商務博覽會」。<br />展覽期間為2024年7月3日星期三至2024年7月5日星期五3天。舉辦地點為東京國際展示場。</p>
+<p>點此查看LIVeNT 2024官方網站：<br /><a href="https://www.livent-expo.jp/hub/ja-jp.html" target="_blank" rel="noopener">https://www.livent-expo.jp/hub/ja-jp.html</a></p>
+<p>這篇文章 <a href="/playlist/livent-expo_2024_07/">2024 年生活 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/livent-expo_2024_07/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51876</post-id>	</item>
+		<item>
 		<title>2024 年倫敦文具展 (英國)</title>
 		<link>/playlist/stationeryshowlondon_2024_05/</link>
 					<comments>/playlist/stationeryshowlondon_2024_05/#respond</comments>
@@ -253,60 +305,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">50199</post-id>	</item>
-		<item>
-		<title>2024 年 BSC 博覽會 (英國)</title>
-		<link>/playlist/bscexpo_2024_03/</link>
-					<comments>/playlist/bscexpo_2024_03/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Fri, 22 Mar 2024 02:31:58 +0000</pubDate>
-				<category><![CDATA[愛好/教育]]></category>
-		<category><![CDATA[機械/工業技術]]></category>
-		<category><![CDATA[英國]]></category>
-		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50155</guid>
-
-					<description><![CDATA[<p>「BSC Expo2024」是歐洲首屈一指的專業影視製作展。 展覽時間為2024年2月16日至2024年2月1 [&#8230;]</p>
-<p>這篇文章 <a href="/playlist/bscexpo_2024_03/">2024 年 BSC 博覽會 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>「BSC Expo2024」是歐洲首屈一指的專業影視製作展。</p>
-<p>展覽時間為2024年2月16日至2024年2月17日（星期五）。舉辦地點為倫敦巴特西演進中心 (Battersea Evolution)。</p>
-<p>BSC Expo 2024 官方首頁在這裡：<br />
-<a href="https://bscexpo.com/" target="_blank" rel="noopener">https://bscexpo.com/</a></p>
-<p>這篇文章 <a href="/playlist/bscexpo_2024_03/">2024 年 BSC 博覽會 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/playlist/bscexpo_2024_03/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">50155</post-id>	</item>
-		<item>
-		<title>釣魚節。 2024 年在橫濱 (日本)</title>
-		<link>/playlist/tsurifest_2024_01/</link>
-					<comments>/playlist/tsurifest_2024_01/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Thu, 01 Feb 2024 07:20:34 +0000</pubDate>
-				<category><![CDATA[愛好/教育]]></category>
-		<category><![CDATA[日本]]></category>
-		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=49052</guid>
-
-					<description><![CDATA[<p>「橫濱釣魚節2024」是日本規模最大的展會之一，旨在向國內外推廣由日本多樣化的自然環境和世界最先進技術創造的「 [&#8230;]</p>
-<p>這篇文章 <a href="/playlist/tsurifest_2024_01/">釣魚節。 2024 年在橫濱 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>「橫濱釣魚節2024」是日本規模最大的展會之一，旨在向國內外推廣由日本多樣化的自然環境和世界最先進技術創造的「釣魚文化」。<br />
-其宗旨是創造“漁業文化”，培育人們健康的身心，創造健康美麗的社會，發展漁業世界。</p>
-<p>展覽期間為2024年1月19日（星期五）至2024年1月21日（星期日）3天。舉辦地點是Pacifico橫濱展覽館。</p>
-<p>2024年橫濱釣魚節的官方網站在這裡：<br />
-<a href="https://www.tsurifest.com/about/" target="_blank" rel="noopener">https://www.tsurifest.com/about/</a></p>
-<p>這篇文章 <a href="/playlist/tsurifest_2024_01/">釣魚節。 2024 年在橫濱 (日本)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/playlist/tsurifest_2024_01/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">49052</post-id>	</item>
 	</channel>
 </rss>

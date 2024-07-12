@@ -12,7 +12,7 @@
 	<atom:link href="/playlist-category/medical-care-health/feed/" rel="self" type="application/rss+xml" />
 	<link>/playlist-category/medical-care-health/</link>
 	<description>世界各地展覽中最先進的產品</description>
-	<lastBuildDate>Fri, 17 May 2024 06:28:27 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 12 Jul 2024 04:54:03 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,31 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>2024 上海國際養老、輔具及復健醫療博覽會 (中國)</title>
+		<link>/playlist/china-aid_2024_06/</link>
+					<comments>/playlist/china-aid_2024_06/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 12 Jul 2024 04:54:03 +0000</pubDate>
+				<category><![CDATA[中國]]></category>
+		<category><![CDATA[醫療保健/健康]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=51935</guid>
+
+					<description><![CDATA[<p>「2024 上海國際養老、輔具及復健醫療博覽會」是復健、老年、照護、輔助器具、老年住房、健康管理等領域最新服務 [&#8230;]</p>
+<p>這篇文章 <a href="/playlist/china-aid_2024_06/">2024 上海國際養老、輔具及復健醫療博覽會 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「2024 上海國際養老、輔具及復健醫療博覽會」是復健、老年、照護、輔助器具、老年住房、健康管理等領域最新服務與產品的展示。</p>
+<p>展覽期間為2024年6月13日至2024年6月15日。舉辦地點為上海新國際博覽中心（SNIEC）。</p>
+<p>CHINA AID 2024-上海國際養老、復健醫學與健康展官方網站在這裡：<br /><a href="https://www.china-aid.com/" target="_blank" rel="noopener">https://www.china-aid.com/</a></p>
+<p>這篇文章 <a href="/playlist/china-aid_2024_06/">2024 上海國際養老、輔具及復健醫療博覽會 (中國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/china-aid_2024_06/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">51935</post-id>	</item>
+		<item>
 		<title>印度尼西亞實驗室 2024 (印度尼西亞)</title>
 		<link>/playlist/lab-indo_2024_04/</link>
 					<comments>/playlist/lab-indo_2024_04/#respond</comments>
@@ -273,31 +298,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">47930</post-id>	</item>
-		<item>
-		<title>2023 年泰國醫療展 (泰國)</title>
-		<link>/playlist/medicalfair-thailand_2023_09/</link>
-					<comments>/playlist/medicalfair-thailand_2023_09/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Fri, 13 Oct 2023 07:11:26 +0000</pubDate>
-				<category><![CDATA[泰國]]></category>
-		<category><![CDATA[醫療保健/健康]]></category>
-		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=47766</guid>
-
-					<description><![CDATA[<p>「泰國醫療展」是醫院、診斷、製藥、醫療及復健設備及用品的展覽會。 展覽時間為2023年9月13日至2023年9 [&#8230;]</p>
-<p>這篇文章 <a href="/playlist/medicalfair-thailand_2023_09/">2023 年泰國醫療展 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>「泰國醫療展」是醫院、診斷、製藥、醫療及復健設備及用品的展覽會。</p>
-<p>展覽時間為2023年9月13日至2023年9月15日。舉辦地點為曼谷 BITEC。</p>
-<p>點此看2023年泰國醫療展官方網站：<br />
-<a href="https://www.medicalfair-thailand.com/" target="_blank" rel="noopener">https://www.medicalfair-thailand.com/</a></p>
-<p>這篇文章 <a href="/playlist/medicalfair-thailand_2023_09/">2023 年泰國醫療展 (泰國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/playlist/medicalfair-thailand_2023_09/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">47766</post-id>	</item>
 	</channel>
 </rss>
