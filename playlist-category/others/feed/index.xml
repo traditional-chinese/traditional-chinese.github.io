@@ -12,7 +12,7 @@
 	<atom:link href="/playlist-category/others/feed/" rel="self" type="application/rss+xml" />
 	<link>/playlist-category/others/</link>
 	<description>世界各地展覽中最先進的產品</description>
-	<lastBuildDate>Fri, 26 Jul 2024 05:43:32 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 02 Aug 2024 05:45:06 +0000</lastBuildDate>
 	<language>zh-TW</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,34 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>2024 年新設計師 (英國)</title>
+		<link>/playlist/newdesigners_2024_07/</link>
+					<comments>/playlist/newdesigners_2024_07/#respond</comments>
+		
+		<dc:creator><![CDATA[user]]></dc:creator>
+		<pubDate>Fri, 02 Aug 2024 05:45:06 +0000</pubDate>
+				<category><![CDATA[一般展覽]]></category>
+		<category><![CDATA[其他]]></category>
+		<category><![CDATA[愛好/教育]]></category>
+		<category><![CDATA[生活]]></category>
+		<category><![CDATA[英國]]></category>
+		<guid isPermaLink="false">/?post_type=vid_playlist#038;p=52048</guid>
+
+					<description><![CDATA[<p>「NEW DESIGNERS 2024」是紡織品、圖形和產品設計的展覽。 展覽時間為2024年7月3日至202 [&#8230;]</p>
+<p>這篇文章 <a href="/playlist/newdesigners_2024_07/">2024 年新設計師 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>「NEW DESIGNERS 2024」是紡織品、圖形和產品設計的展覽。</p>
+<p>展覽時間為2024年7月3日至2024年7月6日。舉辦地點為商業設計中心。</p>
+<p>點擊此處查看NEW DESIGNERS 2024官方網站：<br /><a href="https://www.newdesigners.com/" target="_blank" rel="noopener">https://www.newdesigners.com/</a></p>
+<p>這篇文章 <a href="/playlist/newdesigners_2024_07/">2024 年新設計師 (英國)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/playlist/newdesigners_2024_07/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+		<post-id xmlns="com-wordpress:feed-additions:1">52048</post-id>	</item>
+		<item>
 		<title>2024年第五屆油漆塗料博覽會 (印度)</title>
 		<link>/playlist/expopaintcoating_2024_06/</link>
 					<comments>/playlist/expopaintcoating_2024_06/#respond</comments>
@@ -280,33 +308,5 @@
 		
 		
 		<post-id xmlns="com-wordpress:feed-additions:1">50691</post-id>	</item>
-		<item>
-		<title>2024年台北國際烘焙展 (台灣)</title>
-		<link>/playlist/tibs_2024_03/</link>
-					<comments>/playlist/tibs_2024_03/#respond</comments>
-		
-		<dc:creator><![CDATA[user]]></dc:creator>
-		<pubDate>Fri, 05 Apr 2024 06:12:07 +0000</pubDate>
-				<category><![CDATA[其他]]></category>
-		<category><![CDATA[日本]]></category>
-		<category><![CDATA[機械/工業技術]]></category>
-		<category><![CDATA[農業/林業/漁業和食品]]></category>
-		<guid isPermaLink="false">https://taiwan.worldtradeshow.tv/?post_type=vid_playlist&#038;p=50407</guid>
-
-					<description><![CDATA[<p>「2024台北國際烘焙展」是烘焙產品、烘焙食品、烘焙設備及配件、烘焙機械及裝置、烘焙組件、工具、零件以及其他烘 [&#8230;]</p>
-<p>這篇文章 <a href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></description>
-										<content:encoded><![CDATA[<p>「2024台北國際烘焙展」是烘焙產品、烘焙食品、烘焙設備及配件、烘焙機械及裝置、烘焙組件、工具、零件以及其他烘焙系統和產品的展覽。</p>
-<p>展覽時間為2024年3月14日至2024年3月17日。舉辦地點為台北南港國際展覽中心。</p>
-<p>2024台北國際麵包展官方首頁在這裡：<br />
-<a href="https://www.tibs.org.tw/en/" target="_blank" rel="noopener">https://www.tibs.org.tw/en/</a></p>
-<p>這篇文章 <a href="/playlist/tibs_2024_03/">2024年台北國際烘焙展 (台灣)</a> 最早出現於 <a href="/">在線觀看展覽！WorldTradeShow.tv | 繁體中文</a>。</p>
-]]></content:encoded>
-					
-					<wfw:commentRss>/playlist/tibs_2024_03/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-		<post-id xmlns="com-wordpress:feed-additions:1">50407</post-id>	</item>
 	</channel>
 </rss>
